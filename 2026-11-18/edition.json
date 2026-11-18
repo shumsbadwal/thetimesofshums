@@ -138,6 +138,25 @@
       "name": "United Kingdom",
       "stories": [
         {
+          "title": "Burnham and Badenoch clash over welfare savings as PM pledges work placements",
+          "tag": "Westminster · PMQs",
+          "body": [
+            "Prime Minister Andy Burnham faced Conservative leader Kemi Badenoch at Prime Minister's Questions on 18 November after the Milburn review of youth unemployment. Badenoch pressed him to commit to reducing the welfare bill during this Parliament. Burnham argued that his government's approach emphasises getting young people into work, and separately set out an ambition to offer a 45-day work placement to 16- to 18-year-olds who want one.",
+            "This is a dispute over what constitutes welfare reform: immediate spending restraint, or support designed to reduce unemployment and future benefit dependence. A stated ambition is not a delivered universal placement scheme, and the fiscal effects remain to be tested. Labour divisions over earlier welfare plans also shape how the prime minister frames the changes."
+          ],
+          "sources": [
+            {
+              "label": "Sky News · PMQs, 18 Nov",
+              "url": "https://news.sky.com/story/politics-latest-rishi-sunak-responds-to-piers-morgan-bet-criticism-liz-truss-launching-new-tory-faction-12593360"
+            },
+            {
+              "label": "The Guardian · 18 Nov live reporting",
+              "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates"
+            }
+          ],
+          "desk": "uk"
+        },
+        {
           "desk": "uk",
           "title": "UK inflation rises to 3.6%, driven in part by fuel prices",
           "body": [
@@ -155,6 +174,67 @@
             }
           ],
           "tag": "Economy"
+        },
+        {
+          "title": "Immigration and Asylum Bill clears Commons; rights and returns remain disputed",
+          "tag": "Parliament · Immigration",
+          "body": [
+            "The UK government's Immigration and Asylum Bill has passed its third reading in the House of Commons, according to the Home Office's 18 November update. The bill aims to change asylum processes, human-rights considerations and the relationship between immigration enforcement and modern-slavery protections. Parliamentary debates exposed disagreements among the government, Conservatives, Liberal Democrats and Reform UK about the balance between stronger controls and safeguards.",
+            "Passing the Commons is a legislative milestone, not equivalent to a law being in force: scrutiny in the House of Lords and other remaining steps still matter. Rights organisations and opposition parties disagree on how proposed measures could affect vulnerable people and the speed and fairness of decisions. Readers should distinguish provisions of the bill from claimed outcomes of future enforcement."
+          ],
+          "sources": [
+            {
+              "label": "Home Office · 18 Nov update",
+              "url": "https://www.gov.uk/government/news/home-secretarys-landmark-immigration-reforms-clear-latest-hurdle"
+            },
+            {
+              "label": "House of Commons Library · legislative briefing",
+              "url": "https://commonslibrary.parliament.uk/research-briefings/immigration-and-asylum-bill-progress-of-the-bill/"
+            },
+            {
+              "label": "Hansard · 17 Nov debate",
+              "url": "https://hansard.parliament.uk/commons/2026-11-17/debates/710E2102-AD6B-4646-8BAE-087AC69569D3/ImmigrationAndAsylumBillut"
+            }
+          ],
+          "desk": "uk"
+        },
+        {
+          "desk": "uk",
+          "title": "Labour faces renewed pressure to define Britain’s long-term relationship with the EU",
+          "tag": "Brexit · UK–EU relations",
+          "body": [
+            "Former foreign secretary David Lammy has called on Prime Minister Andy Burnham to campaign at the next election on a commitment to rejoin the European Union. The intervention follows Burnham’s criticism of Brexit’s economic and diplomatic consequences, but his government has delayed setting out specific long-term options while preparing for a major UK–EU summit. Lammy’s position is a political proposal, not an adopted government policy.",
+            "The bigger question is whether Britain can deepen economic integration with the EU without reopening the political disputes that shaped the original Brexit negotiations. Trade barriers, standards, migration rules and access to European programmes affect businesses and households, but full membership would involve broader obligations and renewed democratic debate. Divisions within Labour, competing priorities in Brussels and concerns among Leave-supporting constituencies make any shift far from automatic."
+          ],
+          "sources": [
+            {
+              "label": "The Guardian / PA · 18 Nov",
+              "url": "https://www.theguardian.com/politics/2026/nov/18/david-lammy-andy-burnham-campaign-rejoining-eu-election-brexit"
+            },
+            {
+              "label": "The Guardian · 17 Nov",
+              "url": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu"
+            }
+          ]
+        },
+        {
+          "title": "Mahmood proposes impartiality standard in response to policing controversy",
+          "tag": "Home Office · Public trust",
+          "body": [
+            "Home Secretary Shabana Mahmood set out plans for updated guidance on police impartiality, responding to a debate about the perception of 'two-tier policing'. The College of Policing is expected to develop a new standard for consultation; the government also plans a fast-track leadership programme capable of training up to 200 people a year. Conservative and Reform UK figures argue that the proposed response is inadequate.",
+            "The phrase 'two-tier policing' is politically contested and is not itself proof that police systematically apply different laws to different communities. Scrutiny should ask what the available complaint, stop-and-search, charging and leadership evidence shows, whether the new standard can be enforced, and how equal treatment is reconciled with lawful operational discretion."
+          ],
+          "sources": [
+            {
+              "label": "ITV News · 18 Nov",
+              "url": "https://www.itv.com/news/2026-11-18/mahmood-sets-out-plans-to-tackle-corrosive-perception-of-two-tier-policing"
+            },
+            {
+              "label": "The Guardian · leadership proposal, 17 Nov",
+              "url": "https://www.theguardian.com/uk-news/2026/nov/18/shabana-mahmood-fast-track-training-police-leadership"
+            }
+          ],
+          "desk": "uk"
         },
         {
           "desk": "uk",
@@ -180,23 +260,72 @@
           "tag": "Public services"
         },
         {
-          "desk": "uk",
-          "title": "Researchers will evaluate the UK social-media restrictions affecting under-16s",
+          "title": "Labour backbenchers organise against Rosebank oil development",
+          "tag": "Energy policy · Labour politics",
           "body": [
-            "Wellcome is funding ten research teams with £9.3 million to study the effects of forthcoming social-media restrictions on more than 300,000 young people. The projects will examine mental health, sleep, relationships and other outcomes, with some studies comparing behaviour before and after the changes.",
-            "The policy debate has often moved faster than the evidence. Researchers need to understand benefits, unintended effects, differences between groups and whether restrictions displace use into less visible spaces. This announcement is a study launch, not evidence that the ban works or fails; its value will lie in the quality of the resulting comparisons."
+            "The Guardian reported that more than 75 Labour MPs had signed a private letter opposing approval of the Rosebank oilfield, with organisers expecting support to pass 100. The campaign puts pressure on Andy Burnham's government as it weighs the project's future and the country's climate obligations. At the edition cutoff the reported letter-writing effort was not a final government decision.",
+            "Supporters of new extraction emphasise jobs, energy supply and tax revenue, while critics question how another oil project fits climate targets and transition investment. The most consequential next step is a documented licensing or ministerial decision, rather than predictions of resignations or a guaranteed rebellion."
           ],
           "sources": [
             {
-              "label": "University of Birmingham · 18 Nov",
-              "url": "https://www.birmingham.ac.uk/news/2026/social-media-ban-evaluation-will-it-actually-improve-young-peoples-wellbeing"
-            },
-            {
-              "label": "The Guardian · 18 Nov",
-              "url": "https://www.theguardian.com/uk-news/2026/nov/18/social-media-ban-once-in-a-generation-study"
+              "label": "The Guardian · 15 Nov",
+              "url": "https://www.theguardian.com/business/2026/nov/15/rosebank-oilfield-mps-rebellion"
             }
           ],
-          "tag": "Society"
+          "desk": "uk"
+        },
+        {
+          "desk": "uk",
+          "title": "Reform’s promised local-government efficiency drive has yielded limited savings",
+          "tag": "Local government · Accountability",
+          "body": [
+            "A Guardian examination of English councils led by Reform UK reports that the party’s promised cost-cutting drive has not, so far, produced faster or deeper savings than those achieved by comparable authorities. The party had promoted a programme modelled on Elon Musk’s US government-efficiency initiative after its local-election gains. Interviews and comparative evidence suggest a gap between the rhetoric of immediate administrative overhaul and what councils have actually delivered.",
+            "The story matters because local-government budgets are constrained by statutory obligations, service demand and existing contracts. Reducing expenditure is not simply a matter of removing jobs or announcing targets: cuts can shift costs, reduce service quality or take longer to implement than promised. A short early performance period does not establish what may happen throughout a full council term, but the available results provide a test of a specific political claim about rapid savings."
+          ],
+          "sources": [
+            {
+              "label": "The Guardian investigation · 18 Nov",
+              "url": "https://www.theguardian.com/politics/2026/nov/18/reform-doge-style-crackdown-fell-flat"
+            }
+          ]
+        },
+        {
+          "title": "British businesses ask for easier travel rules in the next stage of UK–EU talks",
+          "tag": "Brexit · Business diplomacy",
+          "body": [
+            "The Confederation of British Industry and other business voices urged the UK government and the European Commission to improve restrictions affecting short-term business visits and cross-border work after Brexit. The Guardian reported the request on 18 November as Andy Burnham's government prepared to discuss next steps in the relationship. A wider youth mobility and agricultural agreement has its own schedule and must not be conflated with a completed removal of work-travel barriers.",
+            "The complaint illustrates how apparently technical border and visa rules can impose costs on professional services, touring artists and smaller exporters. Governments face competing priorities over labour mobility, border controls and domestic politics. A business lobby request is not proof that negotiators have agreed to a new exemption."
+          ],
+          "sources": [
+            {
+              "label": "The Guardian · 18 Nov",
+              "url": "https://www.theguardian.com/world/2026/nov/18/brexit-work-travel-rules-urgent-improvement-cbi"
+            },
+            {
+              "label": "The Guardian · 17 Nov UK–EU timetable",
+              "url": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu"
+            }
+          ],
+          "desk": "uk"
+        },
+        {
+          "desk": "uk",
+          "title": "A sweeping review of youth employment proposes deep changes to welfare and training",
+          "tag": "Work · Social policy",
+          "body": [
+            "A review led by Alan Milburn proposes wide-ranging measures to address the UK’s large population of young people not in education, employment or training (NEET). Recommendations include expanded apprenticeships, more specialised career support and wider changes across schools, health services and benefits. The review also contemplates substantial changes to disability-related support, prompting concern from critics about potential losses of financial security.",
+            "The larger issue is whether unemployment among young people is best addressed through skills and hiring incentives, conditional welfare reform, or stronger support for health, housing and access to work. The report recognises structural barriers such as poverty and ill health but couples new opportunities with tougher conditions. Its recommendations are not enacted policy. The government’s response—and independent assessment of potential effects on disabled and low-income young people—will matter more than the review’s scale alone."
+          ],
+          "sources": [
+            {
+              "label": "The Guardian analysis · 17 Nov",
+              "url": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-neet-report-absurdly-ambitious-analysis"
+            },
+            {
+              "label": "UK review · From a Welfare State to a Working State",
+              "url": "https://www.gov.uk/government/publications/from-a-welfare-state-to-a-working-state"
+            }
+          ]
         },
         {
           "desk": "uk",
@@ -219,56 +348,22 @@
         },
         {
           "desk": "uk",
-          "title": "Labour faces renewed pressure to define Britain’s long-term relationship with the EU",
-          "tag": "Brexit · UK–EU relations",
+          "title": "Researchers will evaluate the UK social-media restrictions affecting under-16s",
           "body": [
-            "Former foreign secretary David Lammy has called on Prime Minister Andy Burnham to campaign at the next election on a commitment to rejoin the European Union. The intervention follows Burnham’s criticism of Brexit’s economic and diplomatic consequences, but his government has delayed setting out specific long-term options while preparing for a major UK–EU summit. Lammy’s position is a political proposal, not an adopted government policy.",
-            "The bigger question is whether Britain can deepen economic integration with the EU without reopening the political disputes that shaped the original Brexit negotiations. Trade barriers, standards, migration rules and access to European programmes affect businesses and households, but full membership would involve broader obligations and renewed democratic debate. Divisions within Labour, competing priorities in Brussels and concerns among Leave-supporting constituencies make any shift far from automatic."
+            "Wellcome is funding ten research teams with £9.3 million to study the effects of forthcoming social-media restrictions on more than 300,000 young people. The projects will examine mental health, sleep, relationships and other outcomes, with some studies comparing behaviour before and after the changes.",
+            "The policy debate has often moved faster than the evidence. Researchers need to understand benefits, unintended effects, differences between groups and whether restrictions displace use into less visible spaces. This announcement is a study launch, not evidence that the ban works or fails; its value will lie in the quality of the resulting comparisons."
           ],
           "sources": [
             {
-              "label": "The Guardian / PA · 18 Nov",
-              "url": "https://www.theguardian.com/politics/2026/nov/18/david-lammy-andy-burnham-campaign-rejoining-eu-election-brexit"
+              "label": "University of Birmingham · 18 Nov",
+              "url": "https://www.birmingham.ac.uk/news/2026/social-media-ban-evaluation-will-it-actually-improve-young-peoples-wellbeing"
             },
             {
-              "label": "The Guardian · 17 Nov",
-              "url": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu"
+              "label": "The Guardian · 18 Nov",
+              "url": "https://www.theguardian.com/uk-news/2026/nov/18/social-media-ban-once-in-a-generation-study"
             }
-          ]
-        },
-        {
-          "desk": "uk",
-          "title": "Reform’s promised local-government efficiency drive has yielded limited savings",
-          "tag": "Local government · Accountability",
-          "body": [
-            "A Guardian examination of English councils led by Reform UK reports that the party’s promised cost-cutting drive has not, so far, produced faster or deeper savings than those achieved by comparable authorities. The party had promoted a programme modelled on Elon Musk’s US government-efficiency initiative after its local-election gains. Interviews and comparative evidence suggest a gap between the rhetoric of immediate administrative overhaul and what councils have actually delivered.",
-            "The story matters because local-government budgets are constrained by statutory obligations, service demand and existing contracts. Reducing expenditure is not simply a matter of removing jobs or announcing targets: cuts can shift costs, reduce service quality or take longer to implement than promised. A short early performance period does not establish what may happen throughout a full council term, but the available results provide a test of a specific political claim about rapid savings."
           ],
-          "sources": [
-            {
-              "label": "The Guardian investigation · 18 Nov",
-              "url": "https://www.theguardian.com/politics/2026/nov/18/reform-doge-style-crackdown-fell-flat"
-            }
-          ]
-        },
-        {
-          "desk": "uk",
-          "title": "A sweeping review of youth employment proposes deep changes to welfare and training",
-          "tag": "Work · Social policy",
-          "body": [
-            "A review led by Alan Milburn proposes wide-ranging measures to address the UK’s large population of young people not in education, employment or training (NEET). Recommendations include expanded apprenticeships, more specialised career support and wider changes across schools, health services and benefits. The review also contemplates substantial changes to disability-related support, prompting concern from critics about potential losses of financial security.",
-            "The larger issue is whether unemployment among young people is best addressed through skills and hiring incentives, conditional welfare reform, or stronger support for health, housing and access to work. The report recognises structural barriers such as poverty and ill health but couples new opportunities with tougher conditions. Its recommendations are not enacted policy. The government’s response—and independent assessment of potential effects on disabled and low-income young people—will matter more than the review’s scale alone."
-          ],
-          "sources": [
-            {
-              "label": "The Guardian analysis · 17 Nov",
-              "url": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-neet-report-absurdly-ambitious-analysis"
-            },
-            {
-              "label": "UK review · From a Welfare State to a Working State",
-              "url": "https://www.gov.uk/government/publications/from-a-welfare-state-to-a-working-state"
-            }
-          ]
+          "tag": "Society"
         }
       ]
     },
@@ -296,6 +391,40 @@
           "tag": "Elections"
         },
         {
+          "title": "Van Hollen challenges Schumer for Senate Democratic leadership",
+          "tag": "Congress · Leadership",
+          "body": [
+            "Senator Chris Van Hollen has announced a challenge to Chuck Schumer for the position of Senate Democratic leader as Democrats prepare to take control of the upper chamber in January. Van Hollen argues for more aggressive action on economic inequality, corruption and the Iran war. Schumer, the party's leader since 2017, has pointed to Democrats' electoral success and Senate gains.",
+            "A leadership contest is not a change in leadership until Democratic senators vote. It also reflects a choice between tactical caution and more confrontational politics even as the party holds a 56–44 incoming majority. Whoever leads will still need to build coalitions and contend with presidential vetoes."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 13 Nov",
+              "url": "https://www.reuters.com/world/us/chris-van-hollen-announces-run-us-senate-majority-leader-challenging-schumer-2026-11-13/"
+            },
+            {
+              "label": "Al Jazeera / AP · 17 Nov explainer",
+              "url": "https://www.aljazeera.com/news/2026/11/17/how-is-us-senate-majority-leader-chosen"
+            }
+          ],
+          "desk": "us"
+        },
+        {
+          "title": "Poll finds pressure for Congress to act on Iran war and Trump tariffs",
+          "tag": "Public opinion · Foreign policy",
+          "body": [
+            "A Reuters/Ipsos survey completed after the midterms found 71% of surveyed Americans favour congressional legislation to end the US war with Iran and 62% support repealing Trump administration import tariffs. Support crossed party lines on the war question, although levels varied substantially by affiliation. The figures report responses to the poll's wording at that time, not how Congress has voted.",
+            "Polling can illuminate pressures on lawmakers, but a preference in a survey does not indicate the legal feasibility of passing a measure. The next Congress's Democratic majority will still face a Republican president with veto power and divisions within both parties. A policy dispute over war powers is distinct from disagreement about the president's diplomatic strategy."
+          ],
+          "sources": [
+            {
+              "label": "Reuters/Ipsos · 10 Nov",
+              "url": "https://www.reuters.com/world/us/most-americans-want-new-democratic-congress-end-trumps-iran-war-reutersipsos-2026-11-10/"
+            }
+          ],
+          "desk": "us"
+        },
+        {
           "desk": "us",
           "title": "Congressional investigations of Trump may face constitutional barriers",
           "body": [
@@ -313,6 +442,74 @@
             }
           ],
           "tag": "Institutions"
+        },
+        {
+          "title": "Democrats plan immigration oversight, but presidential veto limits policy reversal",
+          "tag": "Immigration · Congressional oversight",
+          "body": [
+            "Democratic congressional staff say incoming committee leaders intend to examine Immigration and Customs Enforcement tactics, detention conditions and Department of Homeland Security spending after the party's midterm victories. Some lawmakers also want new legal-status pathways for people brought to the US as children. President Donald Trump and White House chief of staff Stephen Miller remain in charge of executive immigration policy.",
+            "Congress can request documents, hold hearings and condition some spending, but sweeping statutory reversals still face a veto and difficult legislative negotiations. Proposed investigations are not findings of wrongdoing. The central question is what can be established through evidence and what can realistically change before the 2028 election."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 11 Nov analysis",
+              "url": "https://www.reuters.com/legal/government/democrats-are-ready-fight-trump-immigration-how-much-can-they-achieve-2026-11-11/"
+            },
+            {
+              "label": "AP · Mullin hearing, 18 Nov",
+              "url": "https://apnews.com/article/ce63a22797c61ee53d88678000236c37"
+            }
+          ],
+          "desk": "us"
+        },
+        {
+          "title": "Bipartisan energy-permitting bill divides Democrats before Senate vote",
+          "tag": "Congress · Legislation",
+          "body": [
+            "The US Senate is considering a roughly 400-page Bipartisan American Affordability and Jobs Act that would speed permits for power lines, energy facilities and other major infrastructure. Supporters from both parties say faster approvals can lower costs; environmental and tribal organisations argue that shorter review and litigation windows could weaken safeguards. Reuters reported that the final Senate vote was expected during the week, with House passage uncertain.",
+            "The debate is an institutional test as much as an energy-policy choice: some Democrats favour passing a compromise now, while others want to negotiate stronger protections after their new majority takes office. Forecast economic benefits are modelled estimates, not achieved savings. The bill should not be described as enacted until both chambers and the president complete the process."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 18 Nov policy explainer",
+              "url": "https://www.reuters.com/legal/litigation/what-know-about-energy-permitting-overhaul-bill-before-us-congress-2026-11-18/"
+            }
+          ],
+          "desk": "us"
+        },
+        {
+          "title": "Republicans assess how far to separate themselves from Trump after midterms",
+          "tag": "Republican Party · Strategy",
+          "body": [
+            "After losing both chambers of Congress, Republicans have acknowledged public frustration over the cost of living and the Iran war but remain split over whether a political course correction requires a more visible break with President Trump. Associated Press interviews found prominent Republicans reluctant to blame him directly, while Reuters documented anxiety within the broader MAGA movement.",
+            "Election losses do not automatically generate an organised replacement leadership or a new party platform. The test will be how incumbents vote, which candidates win future primaries and whether the party changes its policy priorities. The debate also matters for checks on the executive during the final two years of Trump's term."
+          ],
+          "sources": [
+            {
+              "label": "Associated Press · 13 Nov",
+              "url": "https://apnews.com/article/9fc9b226f25e5c371db6021170b70d27"
+            },
+            {
+              "label": "Reuters · 8 Nov",
+              "url": "https://www.reuters.com/world/us/trump-has-cost-us-after-midterm-losses-maga-asks-if-its-over-2026-11-08/"
+            }
+          ],
+          "desk": "us"
+        },
+        {
+          "title": "Democratic coalition splits over how aggressively to tackle costs and Trump",
+          "tag": "Democratic Party · Policy",
+          "body": [
+            "Reuters found divisions among newly empowered Democrats over whether to emphasise cooperation with Trump on household costs or push a more populist agenda targeting corporate power and wealth. Centrist lawmakers and progressive leaders have put different priorities forward after a midterm election that delivered a broad coalition of victories, including in traditionally Republican states.",
+            "The party's large incoming majorities give it more room to legislate and investigate, but they also increase the range of views its leadership must reconcile. A mandate to address affordability does not imply agreement on price controls, taxes, subsidies or the balance between confrontation and bargaining."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 14 Nov",
+              "url": "https://www.reuters.com/world/us/after-midterm-sweep-democrats-split-over-trump-cost-cutting-agenda-2026-11-14/"
+            }
+          ],
+          "desk": "us"
         },
         {
           "desk": "us",
@@ -347,6 +544,21 @@
               "url": "https://apnews.com/article/dcdb4c91f17e59c7c2dc5fb725d3b7e9"
             }
           ]
+        },
+        {
+          "title": "Incoming Senate committee chair plans hearings on AI risks",
+          "tag": "Senate · Technology oversight",
+          "body": [
+            "The incoming chair of the Senate Homeland Security Committee said she plans hearings early in the new Congress on risks associated with generative AI, after government watchdogs reported concerning responses when they tested widely used systems with harmful prompts. Associated Press reported the plans on 18 November. The watchdog exercise is evidence about specific tested interactions, not proof of how every deployment or safety system behaves.",
+            "The issue is how lawmakers establish reproducible tests, meaningful model evaluations and realistic obligations without misleadingly equating a generated answer with a real-world attack. Hearings are intended oversight, not yet a binding federal AI law, and any policy conclusions require broader evidence than one set of prompts."
+          ],
+          "sources": [
+            {
+              "label": "Associated Press · 18 Nov",
+              "url": "https://apnews.com/article/fd36b9004c00259aa2f7b871a61aeb8c"
+            }
+          ],
+          "desk": "us"
         },
         {
           "desk": "us",
@@ -1278,6 +1490,258 @@
             }
           ],
           "desk": "entertainment-india"
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "stories": [
+        {
+          "desk": "sports",
+          "title": "India prepare for Wellington Test as New Zealand defend top World Test Championship position",
+          "tag": "Cricket · India & New Zealand",
+          "body": [
+            "India begin a two-Test series in Wellington on Thursday, 19 November, against New Zealand, who lead the World Test Championship standings entering a demanding run of eight Tests. New Zealand captain Tom Latham confirmed the home line-up, including returning batters Devon Conway, Rachin Ravindra and Tom Blundell and a four-man seam attack. India are expected to welcome back Jasprit Bumrah, but selection and conditions will matter.",
+            "New Zealand have been a difficult opponent for India in their own conditions. With World Test Championship points at stake, a green Basin Reserve surface and unsettled batting combinations can be more consequential than pre-series rankings. This is a preview: no result from the first Test was available on the edition date."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 18 Nov",
+              "url": "https://www.reuters.com/sports/cricket/new-zealand-embark-long-road-first-test-against-india-2026-11-18/"
+            }
+          ]
+        },
+        {
+          "desk": "sports",
+          "title": "Gukesh's chess world-title defence against Sindarov nears its opening",
+          "tag": "Chess · World championship",
+          "body": [
+            "Indian world champion D. Gukesh will defend his title against Uzbekistan's Javokhir Sindarov in Geneva. FIDE's updated schedule lists an opening ceremony on 22 November and the first of up to 14 classical games on 24 November. Gukesh became the youngest undisputed world champion in 2024; Sindarov qualified as challenger through the 2026 Candidates cycle.",
+            "The match tests the preparation, stamina and nerves of two young elite players rather than a one-day knockout result. Opening theory, time management and decisions to take or avoid risks across fourteen games will matter. Earlier provisional dates differed, so the latest schedule from FIDE is the appropriate reference, and there is no match score yet."
+          ],
+          "sources": [
+            {
+              "label": "FIDE · updated match schedule",
+              "url": "https://www.fide.com/media-accreditation-for-the-salesforce-fide-world-championship-is-now-open/"
+            },
+            {
+              "label": "FIDE · championship overview",
+              "url": "https://worldchampionship.fide.com/about"
+            }
+          ]
+        },
+        {
+          "desk": "sports",
+          "title": "India's women begin Asian Champions Trophy hockey defence in Bhopal",
+          "tag": "Hockey · India",
+          "body": [
+            "India's women's hockey team is preparing for the Asian Champions Trophy in Bhopal, scheduled from 19 to 28 November at the Nathu Barkheda International Sports Complex. Hockey India's tournament information lists China, Japan, South Korea, Malaysia and Thailand as the other competing teams. The national federation says public entry is free.",
+            "For a home tournament, crowd support may help but cannot replace performance against strong Asian opponents. The competition also gives Indian women's hockey visibility beyond major multisport events. Match outcomes should be reported only after play begins, and this preview does not claim a fresh tournament victory."
+          ],
+          "sources": [
+            {
+              "label": "Hockey India · 18 Nov team preview",
+              "url": "https://hockeyindia.org/news/preview-indian-womens-hockey-team-looks-to-cap-milestone-year-with-fourth-asian-champions-trophy-title-in-bhopal"
+            },
+            {
+              "label": "Hockey India · fixture list",
+              "url": "https://www.hockeyindia.org/schedule/matches/madhya-pradesh-women%27s-asian-champions-trophy-bhopal-2026"
+            }
+          ]
+        },
+        {
+          "desk": "sports",
+          "title": "Satwik and Chirag survive a Hong Kong Open match-point thriller",
+          "tag": "Badminton · India",
+          "body": [
+            "India's Satwiksairaj Rankireddy and Chirag Shetty defeated Chinese Taipei's Lee Jhe-huei and Yang Po-hsuan 15-21, 21-17, 28-26 in the opening round of the Hong Kong Open Super 500. The Indian men's doubles pair recovered after losing the first game and saved several match points in the deciding game, ending three successive first-round exits.",
+            "The victory is encouraging but remains an opening-round result, not a tournament title. For doubles pairs, partnership rhythm and confidence can swing quickly across tournaments. Their next test is to convert a narrow escape into a sustained run."
+          ],
+          "sources": [
+            {
+              "label": "Mid-day · 18 Nov",
+              "url": "https://www.mid-day.com/sports/other-sports/article/hong-kong-open-satwiksairaj-rankireddy-and-chirag-shetty-register-thrilling-first-round-win-23660405"
+            },
+            {
+              "label": "Revsportz · match report",
+              "url": "https://revsportz.in/hong-kong-open-satwik-chirag-end-opening-round-struggles-with-hard-fought-win/"
+            }
+          ]
+        },
+        {
+          "desk": "sports",
+          "title": "Lakshya Sen's Japan title strengthens his case for the season-ending finals",
+          "tag": "Badminton · India",
+          "body": [
+            "Lakshya Sen won the Kumamoto Masters in Japan, beating home player Koki Watanabe 13-21, 21-18, 21-14 after dropping the opening game. Indian Express reporting describes it as his second successive BWF Super 500 title. He then turned towards the Hong Kong Open and the race for the World Tour Finals places.",
+            "Back-to-back titles suggest sustained form, but future qualification depends on the points table and other results, not on momentum alone. The victory also broadens India's badminton story beyond doubles, while illustrating the physical challenge of competing in consecutive weeks."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express · 15 Nov analysis",
+              "url": "https://indianexpress.com/article/sports/badminton/lakshya-sen-beckham-drift-wins-kumamoto-masters-title-10963654/"
+            }
+          ]
+        },
+        {
+          "desk": "sports",
+          "title": "England beat Spain 3–2 to finish top of their Nations League group",
+          "tag": "Football · International",
+          "body": [
+            "England ended Spain's long unbeaten sequence with a 3-2 victory in Madrid on 15 November, topping their UEFA Nations League group. Spain and England had already qualified for the quarter-finals, but the result decided the group ordering. A strike from Ben White helped England secure the win against the world champions.",
+            "The result is a significant marker for England's progress under Thomas Tuchel, but one international fixture is not a guarantee of success in knockout football. UEFA's league-phase records and the quarter-final draw on 20 November, not speculative pairings, determine what comes next."
+          ],
+          "sources": [
+            {
+              "label": "Associated Press · 15 Nov",
+              "url": "https://abcnews.com/Sports/wireStory/england-ends-spains-43-game-unbeaten-streak-3-138164232"
+            },
+            {
+              "label": "UEFA · league-phase results",
+              "url": "https://www.uefa.com/uefanationsleague/news/02a2-1fea18abbcbc-456e846509e7-1000--2026-27-uefa-nations-league-all-the-league-phase-results/"
+            }
+          ]
+        },
+        {
+          "desk": "sports",
+          "title": "Northern Ireland's late comeback secures promotion in the Nations League",
+          "tag": "Football · Europe",
+          "body": [
+            "Northern Ireland came from behind against Hungary to secure promotion to the top tier of the UEFA Nations League, with Jamie Devenny producing the decisive late strike, according to The Guardian's 17 November roundup. The same closing round of games settled promotion and qualification stories across Europe.",
+            "National-team promotion can be an important marker for a smaller footballing programme, although it should not be confused with qualification for a future World Cup or European Championship. The Nations League has its own competition and knockout structure, with subsequent draws still to come."
+          ],
+          "sources": [
+            {
+              "label": "The Guardian · 17 Nov roundup",
+              "url": "https://www.theguardian.com/football/2026/nov/17/nations-league-northern-ireland-hungary-norway-denmark"
+            },
+            {
+              "label": "UEFA · league-phase results",
+              "url": "https://www.uefa.com/uefanationsleague/news/02a2-1fea18abbcbc-456e846509e7-1000--2026-27-uefa-nations-league-all-the-league-phase-results/"
+            }
+          ]
+        },
+        {
+          "desk": "sports",
+          "title": "Alcaraz arrives at ATP Finals in strong form after sweeping past Tiafoe",
+          "tag": "Tennis · ATP",
+          "body": [
+            "Carlos Alcaraz beat Frances Tiafoe 6-2, 6-2 at the ATP Finals in Turin on Monday, extending his winning streak to ten matches. The tournament's round-robin phase was still being contested on the edition date, with the final scheduled for 22 November. Jannik Sinner qualified but was absent with a knee injury.",
+            "Indoor hard courts, recovery and the group format demand different skills from Grand Slam events. Alcaraz's excellent opening result does not settle the title, especially while other top players remain in the draw. The ATP Finals are the men's tour's season-ending elite event rather than an additional major championship."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · Alcaraz, 16 Nov",
+              "url": "https://www.reuters.com/sports/tennis/alcaraz-outclasses-tiafoe-atp-finals-stretch-winning-run-2026-11-16/"
+            },
+            {
+              "label": "ATP Finals · draw and dates",
+              "url": "https://www.nittoatpfinals.com/en/news/nitto-atp-finals-2026-draw-resource-page"
+            }
+          ]
+        },
+        {
+          "desk": "sports",
+          "title": "Teenager Mirra Andreeva wins WTA Finals without dropping a set",
+          "tag": "Tennis · WTA",
+          "body": [
+            "Mirra Andreeva defeated Elina Svitolina 7-5, 6-3 in Indian Wells to win the 2026 WTA Finals, completing an unbeaten run on her debut at the season-ending singles tournament without losing a set. The 19-year-old Russian managed the pressure of the final against the experienced Ukrainian.",
+            "Winning the year-end championship is distinct from topping the season-long rankings or winning a Grand Slam. The result nonetheless confirms Andreeva's ability to compete against an elite field over consecutive matches, and shows the depth of younger talent in women's tennis."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 16 Nov",
+              "url": "https://www.reuters.com/sports/tennis/power-positive-thinking-helps-andreeva-wta-finals-title-2026-11-16/"
+            },
+            {
+              "label": "NBC Sports / AP · 15 Nov",
+              "url": "https://www.nbcsports.com/tennis/news/teen-mirra-andreeva-beats-32-year-old-elina-svitolina-to-win-wta-finals-without-losing-a-set"
+            }
+          ]
+        },
+        {
+          "desk": "sports",
+          "title": "Formula 1 goes to Las Vegas with titles decided but the podium battle alive",
+          "tag": "Motorsport · Formula 1",
+          "body": [
+            "The 2026 Formula 1 season heads to Las Vegas with Kimi Antonelli already confirmed as drivers' champion and Mercedes as constructors' champions. Max Verstappen and George Russell still have positions to contest across the final three rounds. The Las Vegas Grand Prix is this weekend; it had not been run by the edition cutoff.",
+            "Championships secured before the finale can change the emphasis to consistency, team development and battles further down the standings. Night racing in cool conditions presents distinct tyre and setup challenges, while an anticipated result must not be presented as a completed race."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 17 Nov statistical preview",
+              "url": "https://www.reuters.com/sports/formula1/formula-one-statistics-las-vegas-grand-prix-2026-11-17/"
+            },
+            {
+              "label": "Sky Sports · 17 Nov preview",
+              "url": "https://www.skysports.com/f1/news/13611983/las-vegas-gp-whats-still-to-play-for-over-final-three-races-of-f1-2026-season-with-battles-in-drivers-and-constructors-championships"
+            }
+          ]
+        },
+        {
+          "desk": "sports",
+          "title": "Quentin Grimes' 47 points power an extraordinary Lakers comeback",
+          "tag": "Basketball · NBA",
+          "body": [
+            "Quentin Grimes scored a career-high 47 points with ten three-pointers as the Los Angeles Lakers recovered from an 18-point third-quarter deficit to beat the Charlotte Hornets 118-114 in overtime on Tuesday. His late three-pointer forced overtime, while Luka Dončić scored 36. The win extended the Lakers' streak to nine games ahead of another scheduled fixture.",
+            "One spectacular scoring night shows the importance of squad depth when starters are injured, but it cannot be projected as Grimes' normal output. The NBA's long regular season rewards consistency beyond the excitement of individual highlights."
+          ],
+          "sources": [
+            {
+              "label": "Reuters / Field Level Media · 18 Nov",
+              "url": "https://www.reuters.com/sports/basketball/fresh-off-epic-rally-red-hot-lakers-look-jolt-jazz--flm-2026-11-18/"
+            }
+          ]
+        },
+        {
+          "desk": "sports",
+          "title": "England defeat Australia in Hobart to claim men's ODI series",
+          "tag": "Cricket · England & Australia",
+          "body": [
+            "Ben Duckett made a century as England beat Australia by 97 runs in the third men's one-day international in Hobart on Wednesday, clinching the series 2-1. England's innings reached 328, leaving Australia to chase 329; the home side was dismissed for 231. The result followed one win apiece in the first two matches.",
+            "A bilateral series win in Australia is notable for England, but the three-match ODI result does not determine the outcome of the forthcoming T20 series. The performance is a measure of England's white-ball batting depth and bowling execution, not a conclusion about all formats."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 18 Nov",
+              "url": "https://www.reuters.com/sports/cricket/duckett-hammers-hundred-england-win-odi-series-against-beleaguered-australia-2026-11-18/"
+            },
+            {
+              "label": "ABC · match scorecard",
+              "url": "https://www.abc.net.au/news/sport/score-centre/cricket/2026-11-18/aus-eng/67297"
+            }
+          ]
+        },
+        {
+          "desk": "sports",
+          "title": "Rickelton's century puts South Africa on top against Bangladesh",
+          "tag": "Cricket · World Test Championship",
+          "body": [
+            "Ryan Rickelton made 102 as South Africa posted 557 in the first Test against Bangladesh at the Wanderers in Johannesburg. Reuters reported Bangladesh at 58 for three in their second innings by tea on the fourth day on 18 November, after the visitors' first innings of 400. The match was still in progress at that point.",
+            "The scoreline shows a major first-innings advantage, but Test cricket has no result until a win, tie or draw is determined. Weather, remaining wickets and time can alter the outcome. This account deliberately preserves the in-play status at the edition cutoff."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 18 Nov",
+              "url": "https://www.reuters.com/sports/cricket/rickelton-ton-puts-s-africa-top-bangladesh-wicketkeeper-sets-new-record-2026-11-18/"
+            }
+          ]
+        },
+        {
+          "desk": "sports",
+          "title": "Middle East conflict forces sports organisers to reconsider major events",
+          "tag": "Sports governance · Global",
+          "body": [
+            "The war involving Iran and regional disruption have prompted cancellations, postponements and relocations of high-profile events in the Middle East, according to Associated Press reporting. Affected competitions have included Formula 1 races earlier in the season, with events originally intended for Saudi Arabia also moved elsewhere. The commercial consequences extend to broadcasters, sponsors, teams and host cities.",
+            "International sport depends on reliable travel, insurance, public safety and long-term hosting commitments. Organisers face a tension between the commercial appeal of major-event investment and the risks of regional conflict. A relocation should not be treated as evidence that all sporting activity in the region has ceased."
+          ],
+          "sources": [
+            {
+              "label": "Associated Press · 18 Nov",
+              "url": "https://apnews.com/article/ec1eadf2eba9e9c38678da9beffc44ab"
+            }
+          ]
         }
       ]
     },
