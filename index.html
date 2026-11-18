@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#faf9f5"><title>The Times of Shums</title>
+<style>
+:root{color-scheme:light;font-family:Georgia,"Times New Roman",serif;background:#faf9f5;color:#242a27}
+*{box-sizing:border-box} body{margin:0} main{max-width:960px;margin:0 auto;padding:28px 24px 70px}
+a{color:inherit}a:hover{color:#24645a}button{font:inherit;cursor:pointer}
+.masthead{text-align:center;padding:32px 0 29px;border-bottom:1px solid #b9bbb1}.masthead a{text-decoration:none}
+h1{font-size:clamp(2.5rem,6vw,4.3rem);letter-spacing:-.05em;font-weight:500;margin:0;line-height:1.06}
+.date,.muted{font:13px/1.55 system-ui,sans-serif;color:#717b76}.date{margin-top:13px}
+.label{font:700 11px/1.5 system-ui,sans-serif;letter-spacing:.13em;text-transform:uppercase;color:#587269}
+h2{font-weight:500;letter-spacing:-.035em;font-size:clamp(2rem,4vw,3rem);margin:.15em 0 .5em}
+.contents{list-style:none;padding:0;margin:22px 0 28px}
+.contents li{border-bottom:1px solid #deded5}
+.contents a{display:flex;gap:18px;align-items:center;padding:18px 4px;text-decoration:none}
+.contents a:hover{background:#f0f2ec}
+.number{color:#929995;font:12px system-ui,sans-serif;min-width:23px}
+.desk-name{font-size:clamp(18px,2.5vw,23px);flex:1}
+.count{font:12px system-ui,sans-serif;color:#697970;white-space:nowrap}.arr{color:#6b7f74}
+.back{display:flex;justify-content:space-between;gap:16px;font:13px system-ui,sans-serif;padding:19px 0}
+.back a{text-decoration:none;color:#5b7168}.reader-head{margin:22px 0 28px}
+.reader{display:grid;grid-template-columns:48px minmax(0,1fr) 48px;align-items:center;gap:14px}
+.nav-arrow{border:1px solid #d4d9d0;background:#fff;border-radius:50%;height:46px;width:46px;font-size:24px;color:#426259}
+.nav-arrow:disabled{opacity:.3;cursor:default}
+.card{padding:clamp(24px,5vw,54px);background:#fff;border:1px solid #dcdfd8;border-radius:14px;box-shadow:0 4px 25px #27392a06}
+.meta{display:flex;gap:10px;flex-wrap:wrap;align-items:center;font:12px/1.4 system-ui,sans-serif;color:#526b61}
+.pill{padding:5px 9px;border:1px solid #ccd9d1;background:#f2f6f1;border-radius:100px}
+.position{margin-left:auto;color:#89918b}
+.card h3{font-size:clamp(1.8rem,3.8vw,2.65rem);line-height:1.18;letter-spacing:-.035em;font-weight:500;margin:24px 0}
+.article-text{font-size:clamp(17px,2vw,19px);line-height:1.76;letter-spacing:.002em}.article-text p{margin:0 0 1.2em}
+.sources{border-top:1px solid #e5e8e1;margin-top:27px;padding-top:20px;display:flex;gap:8px 13px;align-items:center;flex-wrap:wrap;font:12px/1.6 system-ui,sans-serif}
+.sources a{color:#326f61;text-underline-offset:3px}.sources .label{margin-right:6px}
+.bottom-nav{display:flex;justify-content:space-between;gap:15px;margin:26px 0;font:14px system-ui,sans-serif}
+.bottom-nav a{text-decoration:none;color:#38675b}
+.archive-list{list-style:none;padding:0}.archive-list li{border-bottom:1px solid #deded5;padding:16px 0}.archive-list a{text-decoration:none;font-size:20px}
+.mobile-nav{display:none}.error{padding:30px;color:#783e34}
+footer{text-align:center;margin-top:54px;padding-top:18px;border-top:1px solid #deded5;font:12px system-ui,sans-serif;color:#89918b}
+@media(max-width:660px){main{padding:16px 16px 50px}.masthead{padding:28px 0 21px}.reader{display:block}.nav-arrow{display:none}.card{padding:24px 21px}.mobile-nav{display:flex;align-items:center;justify-content:space-between;margin-top:16px;gap:10px}.mobile-nav button{background:#fff;border:1px solid #d2dcd3;border-radius:7px;padding:12px;font:13px system-ui,sans-serif}.mobile-nav button:disabled{opacity:.3}.position{margin-left:0}.card h3{margin:21px 0}.back{font-size:12px}.count{font-size:11px}}
+</style></head><body><main>
+<header class="masthead"><a href="./"><h1>The Times of Shums</h1></a><div class="date" id="date">Daily newspaper</div></header>
+<div id="content"><p class="muted">Loading edition…</p></div><footer>The Times of Shums · Independent reading, original reporting linked</footer>
+</main><script>
+(async()=>{
+ const el=document.getElementById('content'), date=document.getElementById('date');
+ const params=new URLSearchParams(location.search);const chosen=params.get('edition');const deskId=params.get('desk');const archive=params.has('archive');
+ const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+ const toDate=s=>new Date(s+'T12:00:00').toLocaleDateString('en-GB',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
+ const href=(day,desk)=>'?edition='+encodeURIComponent(day)+(desk?'&desk='+encodeURIComponent(desk):'');
+ const json=async path=>{let r=await fetch(path,{cache:'no-store'});if(!r.ok)throw Error('Cannot load '+path);return r.json()};
+ const layout=(str)=>el.innerHTML=str;
+ try{
+  const manifest=await json('editions/manifest.json');const entries=manifest.editions||[];
+  if(!entries.length)throw Error('No editions published');
+  const ed=entries.find(x=>x.date===chosen)||entries[0]; const day=ed.date;
+  date.textContent=toDate(day);
+  if(archive){
+   layout('<div class="back"><a href="./">← Today</a></div><h2>Archive</h2><ol class="archive-list">'+entries.map(x=>'<li><a href="'+href(x.date)+'">'+esc(toDate(x.date))+' ↗</a></li>').join('')+'</ol>');return;
+  }
+  if(!deskId){
+   layout('<div class="reader-head"><span class="label">Today’s edition</span></div><ol class="contents">'+ed.desks.map((d,i)=>'<li><a href="'+href(day,d.id)+'"><span class="number">'+String(i+1).padStart(2,'0')+'</span><span class="desk-name">'+esc(d.name)+'</span><span class="count">'+d.count+' '+(d.count===1?'story':'stories')+'</span><span class="arr">↗</span></a></li>').join('')+'</ol><div class="back"><a href="?archive">Archive →</a></div>');return;
+  }
+  const pos=ed.desks.findIndex(d=>d.id===deskId);
+  if(pos<0)throw Error('Desk not found');
+  let desk;
+  if(ed.format==='compressed'){
+   const r=await fetch('editions/'+day+'/'+deskId+'.txt');if(!r.ok)throw Error('Article data unavailable');
+   const b64=(await r.text()).trim();
+   const bytes=Uint8Array.from(atob(b64),c=>c.charCodeAt(0));
+   const stream=new Blob([bytes]).stream().pipeThrough(new DecompressionStream('deflate'));
+   desk=JSON.parse(await new Response(stream).text());
+  }else{
+   const issue=await json('editions/'+day+'/edition.json');
+   desk=issue.desks.find(d=>d.id===deskId);
+  }
+  if(!desk?.stories?.length)throw Error('No stories in this desk');
+  let i=0;const stories=desk.stories;
+  const prevDesk=ed.desks[pos-1],nextDesk=ed.desks[pos+1];
+  layout('<div class="back"><a href="'+href(day)+'">← Edition contents</a><a href="?archive">Archive</a></div><div class="reader-head"><div class="label">Desk '+String(pos+1).padStart(2,'0')+' of '+ed.desks.length+'</div><h2>'+esc(desk.name)+'</h2></div><div class="reader"><button class="nav-arrow" data-dir="-1" aria-label="Previous story">←</button><article class="card" id="story"></article><button class="nav-arrow" data-dir="1" aria-label="Next story">→</button></div><div class="mobile-nav"><button data-dir="-1">← Previous</button><span class="muted" id="mobile-count"></span><button data-dir="1">Next →</button></div><div class="bottom-nav"><a href="'+(prevDesk?href(day,prevDesk.id):href(day))+'">'+(prevDesk?'← '+esc(prevDesk.name):'← Contents')+'</a>'+(nextDesk?'<a href="'+href(day,nextDesk.id)+'">'+esc(nextDesk.name)+' →</a>':'<a href="'+href(day)+'">Contents →</a>')+'</div>');
+  const card=document.querySelector('#story');const controls=[...document.querySelectorAll('[data-dir]')];
+  function show(n){
+   i=Math.max(0,Math.min(stories.length-1,n));const s=stories[i];
+   card.innerHTML='<div class="meta"><span class="pill">'+esc(desk.name)+'</span><span class="pill">'+esc(s.tag||s.topic||'Reporting')+'</span><span class="position">Story '+(i+1)+' of '+stories.length+'</span></div><h3>'+esc(s.title)+'</h3><div class="article-text">'+(s.body||[]).map(p=>'<p>'+esc(p)+'</p>').join('')+'</div><div class="sources"><span class="label">Sources</span>'+(s.sources||[]).map(v=>'<a href="'+esc(v.url)+'" target="_blank" rel="noopener noreferrer">'+esc(v.label||'Original reporting')+' ↗</a>').join('')+'</div>';
+   controls.forEach(b=>b.disabled=i+(+b.dataset.dir)<0||i+(+b.dataset.dir)>=stories.length);
+   const count=document.querySelector('#mobile-count');if(count)count.textContent=(i+1)+' / '+stories.length;
+   history.replaceState(null,'',href(day,deskId)+'#story-'+(i+1));
+  }
+  controls.forEach(b=>b.onclick=()=>{show(i+Number(b.dataset.dir));window.scrollTo({top:0,behavior:'instant'})});
+  window.addEventListener('keydown',e=>{if(e.altKey||e.ctrlKey||e.metaKey||e.target.closest('a,button,input,textarea'))return;if(e.key==='ArrowLeft'&&i>0)show(i-1);if(e.key==='ArrowRight'&&i<stories.length-1)show(i+1)});
+  const match=/#story-(\d+)/.exec(location.hash);show(match?Number(match[1])-1:0);
+ }catch(e){layout('<p class="error">The edition could not be loaded. '+esc(e.message)+'</p>')}
+})();
+</script></body></html>
