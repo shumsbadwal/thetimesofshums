@@ -994,45 +994,295 @@
       ]
     },
     {
-      "id": "business",
-      "name": "Business & Economy",
+      "id": "entertainment-global",
+      "name": "Entertainment and Pop Culture - Global",
       "stories": [
         {
-          "desk": "business",
-          "title": "Economists forecast 7.6% Indian GDP growth; it is not yet an official result",
+          "title": "Robert Pattinson is the next James Bond, ushering in Amazon MGM's 007 era",
+          "tag": "Film · Franchises",
           "body": [
-            "A Reuters poll of 43 economists estimates that India’s real GDP expanded 7.6% from a year earlier in July–September 2026, after reported growth of 7.8% in April–June. The forecast reflects resilient consumer demand despite inflation and geopolitical pressures. The official release was still pending on the edition date.",
-            "Fast GDP growth can coexist with financial strain for households if wage gains lag prices or borrowing supports consumption. The shape of growth—jobs, wages, sectoral productivity and the distribution of gains—matters as much as the headline rate. The forecast should not be presented as a confirmed statistic."
+            "Amazon MGM Studios has named Robert Pattinson as James Bond, succeeding Daniel Craig. Denis Villeneuve is attached to direct the next film, from a screenplay by Steven Knight. Amazon founder Jeff Bezos separately said he had been heavily involved in a casting process that included screen tests. No opening date should be inferred from the casting announcement.",
+            "Beyond the celebrity reveal, Bond is a test of how a long-running British franchise changes under a new creative and corporate structure. Casting, tone, distribution and product placement will all shape the relaunch. Enthusiasm about the announcement is not yet a verdict on the finished film."
           ],
           "sources": [
             {
-              "label": "Reuters poll · 18 Nov",
-              "url": "https://www.reuters.com/world/india/indian-economic-growth-seen-annual-76-july-september-quarter-2026-11-18/"
+              "label": "Reuters · casting, 16 Nov",
+              "url": "https://www.reuters.com/lifestyle/british-actor-robert-pattinson-named-new-james-bond-2026-11-16/"
+            },
+            {
+              "label": "Reuters · Bezos comments, 18 Nov",
+              "url": "https://www.reuters.com/lifestyle/amazons-bezos-says-he-helped-pick-pattinson-bond-2026-11-18/"
             }
           ],
-          "tag": "India economy"
+          "desk": "entertainment-global"
         },
         {
-          "desk": "business",
-          "title": "Japan’s economy slips as household spending weakens",
+          "title": "Raye and Rosalía lead a Grammy field shaped by changing pop and genre boundaries",
+          "tag": "Music · Awards",
           "body": [
-            "Preliminary government figures show Japan’s output contracted at an annualised rate of about 0.1% in July–September. Private consumption fell by 0.3% quarter-on-quarter, even while business investment remained positive. Consumer budgets have been pressured by higher prices.",
-            "Japan’s policymakers are trying to respond to inflation without undermining a fragile recovery. Weak household consumption alongside capital investment suggests companies and consumers are experiencing different conditions. A marginal quarterly fall does not prove a sustained recession, and preliminary GDP numbers may be revised."
+            "The Recording Academy's nominations for the February 2027 Grammy Awards put British singer Raye in front with 11 nods, including album, song and record of the year. Rosalía received nine nominations, while Ella Langley, Miranda Lambert, Olivia Rodrigo and Phoebe Bridgers received seven each. These are nominations, not award results.",
+            "The list highlights a music mainstream that crosses pop, jazz, flamenco, country and other traditions. There is also debate over how to categorise music: BTS declined to submit material amid criticism of a newly created Asian pop category. Awards can amplify artists' careers, but they remain the choices of voting members rather than a universal ranking of musical quality."
           ],
           "sources": [
             {
               "label": "Reuters · 16 Nov",
-              "url": "https://www.investing.com/news/economy-news/japans-economy-unexpectedly-shrinks-in-julyseptember-as-consumption-falters-5028233"
+              "url": "https://www.reuters.com/business/media-telecom/raye-and-rosalia-lead-nominations-for-musics-grammy-awards-2026-11-16/"
             },
             {
-              "label": "Associated Press · 16 Nov",
-              "url": "https://apnews.com/article/263988f2ec1894d3bf88522fd12500a6"
+              "label": "Reuters · BTS category dispute",
+              "url": "https://www.reuters.com/business/media-telecom/bts-boycott-grammys-over-new-asian-pop-award-category-2026-07-29/"
             }
           ],
-          "tag": "Global economy"
+          "desk": "entertainment-global"
         },
         {
-          "desk": "business",
+          "title": "Grand Theft Auto VI approaches its worldwide launch as a rare shared gaming event",
+          "tag": "Gaming · Pop culture",
+          "body": [
+            "Rockstar Games' Grand Theft Auto VI begins its time-zone-based global rollout on 19 November, 13 years after GTA V. Fans have preordered and preloaded the title, and employers have seen unusually high requests for time off around launch day. The game returns to a fictionalised Florida with protagonists Lucia and Jason.",
+            "The arrival matters beyond games sales: GTA has influenced online humour, music, satire and arguments about violence and media for decades. Launch-day enthusiasm and preorder estimates are not the same as audited final sales or critical consensus. Performance and the experience of ordinary players will become clearer as the rollout proceeds."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · launch anticipation, 17 Nov",
+              "url": "https://www.reuters.com/lifestyle/grand-theft-auto-vi-heads-launch-amid-feverish-anticipation-2026-11-17/"
+            },
+            {
+              "label": "Reuters · global rollout, 18 Nov",
+              "url": "https://www.reuters.com/world/europe/gamers-get-ready-enter-vice-city-grand-theft-auto-vi-begins-global-rollout-2026-11-18/"
+            }
+          ],
+          "desk": "entertainment-global"
+        },
+        {
+          "title": "Governors Awards honour Glenn Close and Ridley Scott as Hollywood's awards season takes shape",
+          "tag": "Cinema · Honours",
+          "body": [
+            "Glenn Close and director Ridley Scott were among five industry figures recognised at the Academy's Governors Awards on Sunday. The event brought prominent film artists together early in the awards-season calendar; Scott accepted his honour remotely and paid tribute to his late brother, filmmaker Tony Scott.",
+            "Honorary Oscars recognise careers rather than the merit of a particular new film. The ceremony also illustrates how awards season combines remembrance, industry relationships and campaigning for upcoming competitive prizes. It should not be confused with the main Academy Awards results."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 16 Nov",
+              "url": "https://www.reuters.com/business/media-telecom/hollywood-salutes-glenn-close-ridley-scott-with-honorary-oscars-2026-11-16/"
+            }
+          ],
+          "desk": "entertainment-global"
+        },
+        {
+          "title": "Disney plans $26 billion in content spending as streaming competes with other entertainment",
+          "tag": "Television · Streaming",
+          "body": [
+            "Disney said it expects to spend about $26 billion in cash on content in its next fiscal year, a 9% increase, after quarterly results were helped by theme parks and NFL audiences. The plans include international programming and sports rights. The company operates Disney+, while also running film, television, sports and theme-park businesses.",
+            "The spending decision reflects an industry in which subscription platforms, live sports, cinema, short-form video and real-world attractions compete for attention. Higher spending alone does not guarantee more hits or sustainable margins. The eventual mix of programming and how audiences respond will matter more than the budget headline."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · Disney results, 17 Nov",
+              "url": "https://www.reuters.com/business/disney-beats-earnings-forecasts-plans-increase-content-spending-2026-11-17/"
+            }
+          ],
+          "desk": "entertainment-global"
+        },
+        {
+          "title": "Skydance sets leadership for Paramount and Warner Bros film labels",
+          "tag": "Film industry · Studios",
+          "body": [
+            "After its Warner Bros Discovery takeover, Skydance announced a new film leadership structure: Don Granger and Kira Goldberg will lead the Paramount Pictures motion-picture group, while Jesse Ehrman becomes president of the Warner Bros Pictures motion-picture group. The company has described an ambition to produce 30 films a year across distinct studio labels.",
+            "A combined media company may gain scale in financing, marketing and distribution, yet the question for filmmakers and audiences is whether the labels maintain varied creative identities. Announced production targets are ambitions, not completed release slates. Industry concentration also deserves scrutiny alongside possible operating efficiencies."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 17 Nov",
+              "url": "https://www.reuters.com/business/media-telecom/skydance-names-film-chiefs-paramount-warner-bros-labels-2026-11-17/"
+            },
+            {
+              "label": "Reuters · merger completion, 6 Oct",
+              "url": "https://www.reuters.com/business/media-telecom/paramount-wraps-up-mega-warner-bros-merger-create-hollywood-powerhouse-skydance-2026-10-06/"
+            }
+          ],
+          "desk": "entertainment-global"
+        },
+        {
+          "title": "BTS and Spider-Man fare strongly in the fan-voted Kids' Choice Awards",
+          "tag": "Music · Fan culture",
+          "body": [
+            "At Nickelodeon's 2026 Kids' Choice Awards, BTS won favourite music group, favourite album for ARIRANG and favourite song for Swim. Spider-Man: Brand New Day won favourite movie; Tom Holland and Zendaya were recognised for acting, and Chris Pratt received a comedy honour.",
+            "The fan-voted awards measure a particular kind of cultural engagement: communities mobilising around stars and franchises. They are valuable evidence of audience enthusiasm but should not be presented as box-office, streaming or critical rankings. The event's CBS and Paramount+ distribution also shows how media companies try to bring youth-oriented entertainment across platforms."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 15 Nov",
+              "url": "https://www.reuters.com/business/media-telecom/kids-choice-awards-honor-chris-pratt-bts-2026-11-15/"
+            }
+          ],
+          "desk": "entertainment-global"
+        },
+        {
+          "title": "Depardieu withdraws sexual-assault appeal, revisiting accountability on film sets",
+          "tag": "Cinema · Workplace culture",
+          "body": [
+            "French actor Gérard Depardieu withdrew his appeal against a 2025 sexual-assault conviction involving two women on a film set and publicly apologised. The 18-month suspended sentence followed the earlier conviction. Reuters also reports that he faces a separate prospective trial over an alleged rape, which he denies; that allegation must not be treated as a conviction.",
+            "The development is part of a broader reassessment of power and workplace protections in the film industry. It raises questions about reporting channels, safety on sets and whether professional stature affects accountability. Distinguishing the settled appeal from the separate allegation is essential for accurate coverage."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 16 Nov",
+              "url": "https://www.reuters.com/world/french-actor-gerard-depardieu-withdraws-his-sexual-assault-appeal-apologises-2026-11-16/"
+            }
+          ],
+          "desk": "entertainment-global"
+        }
+      ]
+    },
+    {
+      "id": "entertainment-india",
+      "name": "Entertainment and Pop Culture - India",
+      "stories": [
+        {
+          "title": "Ramayana's box-office rise reshapes the scale of India's theatrical business",
+          "tag": "Hindi cinema · Box office",
+          "body": [
+            "Nitesh Tiwari's Ramayana: Part 1, starring Ranbir Kapoor, Sai Pallavi and Yash, has crossed ₹1,400 crore in reported worldwide gross after its 5 November release, according to Indian Express box-office coverage. By 18 November, industry trackers and live updates were reporting movement towards the ₹1,500-crore mark. Figures are evolving estimates, and worldwide gross must not be confused with India net revenue or producer profit.",
+            "The film's run shows how major Indian-language releases can span domestic and overseas audiences and multiple premium formats. But high ticket sales alone cannot establish profitability when marketing, distributor splits and the cost of planned sequels are taken into account. An expanding blockbuster market also puts pressure on screen availability for smaller films."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express · 18 Nov live coverage",
+              "url": "https://indianexpress.com/article/entertainment/bollywood/ramayana-collection-day-13-live-updates-ranbir-kapoor-film-earns-rs-1483-cr-10967270/"
+            },
+            {
+              "label": "The Indian Express · 16 Nov analysis",
+              "url": "https://indianexpress.com/article/entertainment/bollywood/ramayana-box-office-records-ranbir-kapoor-5th-highest-grossing-indian-film-10964904/"
+            }
+          ],
+          "desk": "entertainment-india"
+        },
+        {
+          "title": "Panchayat season five is set for 3 December on Prime Video",
+          "tag": "Indian TV · Streaming",
+          "body": [
+            "The makers of Panchayat have announced a 3 December 2026 premiere for its fifth season on Prime Video. The announcement teases new developments around Phulera and the character Banrakas, following the fourth season's June 2025 release. This is a scheduled streaming debut, not a completed release.",
+            "The series is significant for the popularity of small-town ensemble storytelling in India's subscription-video market, where not every hit relies on spectacle or big-screen stars. The next season will test how much longer a familiar setting and political-social comedy can sustain audience interest."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express · 18 Nov",
+              "url": "https://indianexpress.com/article/entertainment/web-series/panchayat-season-5-when-and-where-to-watch-banrakas-takes-over-phulera-10967973/lite/"
+            }
+          ],
+          "desk": "entertainment-india"
+        },
+        {
+          "title": "Independent film Pyre highlights the squeeze on small-budget cinema",
+          "tag": "Independent cinema · Distribution",
+          "body": [
+            "Vinod Kapri's film Pyre, set around migration and ageing in Uttarakhand's villages, features non-professional leads Hira Devi and Padam Singh. Kapri told The Indian Express that streaming platforms declined the film, and later questioned a sharp reduction in theatrical screenings around the release of the blockbuster Ramayana.",
+            "The case illustrates the difference between films being made and films finding an audience. Theatre screens, showtimes, marketing budgets and the search for recognisable stars shape visibility well before viewers can judge the work. Kapri's account of screening pressure should be attributed to him, rather than asserted as proof of a coordinated effort."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express · film profile",
+              "url": "https://indianexpress.com/article/express-sunday-eye/how-pyre-brings-a-love-story-from-the-ghost-villages-of-uttarakhand-10953054/"
+            },
+            {
+              "label": "The Indian Express · screening dispute, 14 Nov",
+              "url": "https://indianexpress.com/article/entertainment/bollywood/serious-repercussions-vinod-kapri-warned-against-speaking-up-over-pyre-ramayana-screen-row-10963223/"
+            }
+          ],
+          "desk": "entertainment-india"
+        },
+        {
+          "title": "Ali Fazal joins Richie Mehta's A Passage to India adaptation",
+          "tag": "Indian series · Literary adaptation",
+          "body": [
+            "Ali Fazal is set to lead Richie Mehta's screen adaptation of E. M. Forster's A Passage to India, with Tom Mison, Fiona Shaw and Naseeruddin Shah among the announced cast. The project revisits the charged relations between Indians and Britons under colonial rule.",
+            "Adapting a well-known novel offers the chance to revisit whose viewpoint defines a colonial-era narrative. The casting and announcement signal the production's ambitions, but they do not by themselves establish its reception, interpretation or eventual availability. Those questions await the finished series and release details."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express · 17 Nov",
+              "url": "https://indianexpress.com/article/entertainment/web-series/ali-fazal-to-headline-richie-mehtas-a-passage-to-india-10967129/"
+            }
+          ],
+          "desk": "entertainment-india"
+        },
+        {
+          "title": "Vir Das and Real Kashmir Football Club carry India's International Emmy hopes",
+          "tag": "Comedy · International TV",
+          "body": [
+            "India has two nominated productions at the 2026 International Emmy Awards: Vir Das: Fool Volume in comedy and Real Kashmir Football Club in the relevant scripted category. Vir Das's nomination is his third. The International Academy lists the award ceremony for 23 November in New York, so no winner has yet been announced in this edition.",
+            "International awards offer Indian comedy and regional storytelling visibility across borders, but a nomination is not the same as a win. It is also a reminder that India's screen exports extend beyond mainstream Hindi-language theatrical cinema."
+          ],
+          "sources": [
+            {
+              "label": "International Academy · official nominees",
+              "url": "https://www.iemmys.tv/2026-international-emmy-awards-nominees-announced/"
+            },
+            {
+              "label": "The Indian Express · India nominations",
+              "url": "https://indianexpress.com/article/entertainment/web-series/india-2-nominations-international-emmy-awards-2026-vir-das-fool-volume-real-kashmir-football-club-10891237/"
+            }
+          ],
+          "desk": "entertainment-india"
+        },
+        {
+          "title": "Regional-language cinema anchors a crowded 20 November release weekend",
+          "tag": "Tamil · Telugu · Malayalam cinema",
+          "body": [
+            "The coming theatrical weekend includes Tamil-language O.M: Operation Mole, Telugu film Aakasamlo Oka Tara and Malayalam film Bachelor Party D'eux, among other releases reported by Variety India. The announced schedules also include smaller Hindi and regional-language titles, with dates still subject to exhibitor changes.",
+            "The assortment matters because India's movie audience is not a single Hindi-language market. Each language industry has its own stars, economics and distribution patterns. Release-calendar crowding can make showtimes scarce for less heavily promoted films; proposed schedules should not be mistaken for verified nationwide screen counts."
+          ],
+          "sources": [
+            {
+              "label": "Variety India · 16 Nov release guide",
+              "url": "https://varietyindia.com/godzilla-minus-zero-the-hunger-games-sunrise-on-the-reaping-to-o-m-operation-mole-everything-releasing-in-theatres-this-week/"
+            }
+          ],
+          "desk": "entertainment-india"
+        },
+        {
+          "title": "Javed Akhtar's remarks about Ram prompt a debate over cultural belonging",
+          "tag": "Culture · Public discourse",
+          "body": [
+            "Lyricist and screenwriter Javed Akhtar said at an event in Mumbai that Ram is deeply embedded in Indian culture across religious identities, acknowledging that some people might disagree. The comments were covered by The Indian Express on 18 November, along with reactions to the statement.",
+            "The significance lies in an ongoing cultural argument over the relationship between shared stories, religion and national identity. Akhtar's view should be represented as his position rather than as a factual test of what every Indian believes. Cultural debates benefit from recognising differing interpretations without reducing them to a celebrity feud."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express · 18 Nov",
+              "url": "https://indianexpress.com/article/entertainment/bollywood/javed-akhtar-says-ram-in-blood-every-indian-maulana-sajid-rashidi-slams-him-10967872/"
+            }
+          ],
+          "desk": "entertainment-india"
+        },
+        {
+          "title": "Jailer 2's streaming arrival illustrates the multilingual life of Tamil hits",
+          "tag": "Tamil cinema · OTT",
+          "body": [
+            "Rajinikanth's Jailer 2 has moved to Prime Video after its theatrical run, with streaming listings marking a 12 November release and availability across several Indian languages. The sequel's move from cinemas to subscription platforms broadens its potential audience beyond its original Tamil-speaking market.",
+            "A streaming window is not just an afterthought: it affects how audiences discover regional cinema and how producers price distribution rights. Listings and language availability can vary across territories, and a popular theatrical title does not automatically disclose its viewing totals on a streaming service."
+          ],
+          "sources": [
+            {
+              "label": "Business Today · streaming guide, 5 Nov",
+              "url": "https://www.businesstoday.in/trending/entertainment"
+            },
+            {
+              "label": "Cinebuds · November OTT calendar",
+              "url": "https://cinebuds.com/ott-release-dates/"
+            }
+          ],
+          "desk": "entertainment-india"
+        }
+      ]
+    },
+    {
+      "id": "business-global",
+      "name": "Business and Finance - Global",
+      "stories": [
+        {
+          "desk": "business-global",
           "title": "Nvidia’s $115.8bn quarter shows the scale of the AI infrastructure build-out",
           "body": [
             "Nvidia reported $115.8 billion in quarterly revenue for the period ended 25 October, up 103% from a year earlier, and forecast a further strong quarter. The report came after Jensen Huang stepped down as chief executive, with interim leadership seeking to reassure investors amid the transition.",
@@ -1051,113 +1301,41 @@
           "tag": "Technology markets"
         },
         {
-          "desk": "business",
-          "title": "India’s inflation breaches the RBI’s upper tolerance limit",
-          "tag": "India · Inflation",
+          "title": "ECB officials may debate doubling banks' minimum reserves next week",
+          "tag": "Euro area · Central banking",
           "body": [
-            "India’s consumer-price inflation rose to 6.09% in October from 5.54% in September, breaching the Reserve Bank of India’s 6% upper tolerance limit. Food inflation reached 8.94%, according to the official figures reported by Business Standard. The increase follows pressures from food supplies and earlier energy-price moves; inflation does not imply every product rose by the same amount.",
-            "The bigger picture is a monetary-policy dilemma. India is growing rapidly, yet households experience purchasing-power losses when food and essentials outpace wages. Higher policy rates might help contain broad inflation but also raise borrowing costs for firms and consumers. The next RBI decision is due on 4 December. One month outside the target band does not establish that all price pressures are permanent, but it increases the importance of the next inflation prints and the distinction between food-driven and underlying inflation."
-          ],
-          "sources": [
-            {
-              "label": "Business Standard · 13 Nov",
-              "url": "https://www.business-standard.com/markets/news/nifty-bank-auto-realty-skid-1-as-inflation-stokes-rbi-rate-hike-fears-126111300433_1.html"
-            },
-            {
-              "label": "CRISIL analysis · 13 Nov",
-              "url": "https://intelligence.crisil.com/content/dam/crisil-intelligence/what-we-think/reports/2026/11/breaching-the-band.pdf"
-            }
-          ],
-          "figures": [
-            [
-              "6.09%",
-              "October CPI inflation"
-            ],
-            [
-              "8.94%",
-              "October food inflation"
-            ]
-          ]
-        },
-        {
-          "desk": "business",
-          "title": "India’s unemployment rate edges down, with more women in the workforce",
-          "tag": "India · Labour market",
-          "body": [
-            "India’s monthly Periodic Labour Force Survey recorded a 4.9% unemployment rate in October, down from 5.0% in September. Female labour-force participation rose to 35.0% from 34.6%, and urban unemployment also eased, according to reporting on figures released 16 November. These are survey estimates subject to sampling and definition, not a count of every person seeking work.",
-            "The bigger picture is the quality, security and accessibility of work, not a tenth-of-a-point change by itself. A lower unemployment rate may coexist with low earnings, informal work or underemployment. Higher female participation is encouraging but does not automatically establish progress in pay, hours, workplace safety or career opportunities. The next useful comparisons are urban–rural differences, the types of jobs being created and whether participation gains persist."
-          ],
-          "sources": [
-            {
-              "label": "ThePrint / PTI · 16 Nov",
-              "url": "https://theprint.in/economy/indias-unemployment-rate-eases-to-4-9-pc-in-oct-female-participation-rises/3100102/"
-            },
-            {
-              "label": "Business Standard · 16 Nov",
-              "url": "https://www.business-standard.com/amp/economy/news/india-s-unemployment-rate-eases-to-4-9-in-oct-female-participation-rises-126111601355_1.html"
-            }
-          ],
-          "figures": [
-            [
-              "4.9%",
-              "October unemployment"
-            ],
-            [
-              "35.0%",
-              "Female labour-force participation"
-            ]
-          ]
-        },
-        {
-          "desk": "business",
-          "title": "SEBI considers guardrails as leveraged share purchases grow",
-          "tag": "India · Markets and regulation",
-          "body": [
-            "India’s securities regulator is reviewing the margin trading facility through which investors buy shares using money borrowed from brokers. Reuters reported that margin-funded exposure has risen sharply, with some brokers offering up to four times investors’ capital at interest rates of 9–18%. On 18 November SEBI chair Tuhin Kanta Pandey said no decision had been made on the proposals.",
-            "The concern is that concentrated borrowing can amplify sell-offs: if prices fall, margin calls can force sales, potentially deepening market volatility. Yet restricting leverage can also affect market liquidity and brokers’ business models. A possible safeguard linking positions to shares available for trading is being examined, not implemented. The significant news is regulatory consideration amid growing exposure, not a confirmed ban on margin funding."
+            "Four sources told Reuters that European Central Bank policymakers are preparing to discuss a proposal on 25 November to raise the minimum unremunerated reserve requirement from 1% to 2% of qualifying liabilities. Reuters estimated that the change could save the Eurosystem about €4.4 billion annually at prevailing interest rates. It is a reported proposal, not an adopted rule.",
+            "Requiring banks to hold more non-interest-bearing reserves can affect liquidity and profitability as well as the ECB's own balance sheet. The practical impact will depend on the details, banks' funding positions and whether policymakers agree. Markets should distinguish the discussion from a decision to change policy rates."
           ],
           "sources": [
             {
               "label": "Reuters · 18 Nov",
-              "url": "https://www.reuters.com/world/india/indias-markets-regulator-considering-proposals-strengthen-margin-trading-2026-11-18/"
-            },
-            {
-              "label": "Reuters · 17 Nov",
-              "url": "https://www.reuters.com/legal/government/india-may-limit-leveraged-stock-bets-curb-volatility-sources-say-2026-11-17/"
+              "url": "https://www.reuters.com/business/finance/ecb-discuss-raising-reserve-requirement-next-week-sources-say-2026-11-18/"
             }
-          ]
+          ],
+          "desk": "business-global"
         },
         {
-          "desk": "business",
-          "title": "Foreign investors return to Indian equities in record November inflows",
-          "tag": "India · Capital flows",
+          "desk": "business-global",
+          "title": "Japan’s economy slips as household spending weakens",
           "body": [
-            "Foreign portfolio investors purchased about $9.53 billion of Indian stocks in November through 16 November, Reuters reported—the highest monthly inflow recorded in its dataset even before the month ended. The move reversed earlier selling and accompanied a strong rally in banking, financial and other domestic shares as oil prices moderated and investors reassessed heavily concentrated global AI holdings.",
-            "The bigger picture is that flows into emerging markets can respond quickly to global interest rates, currency expectations and relative stock-market valuations. Foreign buying can support the rupee and share prices but is not proof that every company has become fundamentally more valuable. A strong monthly inflow can reverse if global risk appetite changes. It is more useful to watch whether domestic earnings and credit conditions justify the re-rating than to interpret a market surge as an economic verdict."
+            "Preliminary government figures show Japan’s output contracted at an annualised rate of about 0.1% in July–September. Private consumption fell by 0.3% quarter-on-quarter, even while business investment remained positive. Consumer budgets have been pressured by higher prices.",
+            "Japan’s policymakers are trying to respond to inflation without undermining a fragile recovery. Weak household consumption alongside capital investment suggests companies and consumers are experiencing different conditions. A marginal quarterly fall does not prove a sustained recession, and preliminary GDP numbers may be revised."
           ],
           "sources": [
             {
               "label": "Reuters · 16 Nov",
-              "url": "https://uk.marketscreener.com/news/record-foreign-inflows-fuel-indian-stocks-november-surge-ce785eded18df123"
+              "url": "https://www.investing.com/news/economy-news/japans-economy-unexpectedly-shrinks-in-julyseptember-as-consumption-falters-5028233"
             },
             {
-              "label": "Reuters · 18 Nov",
-              "url": "https://www.reuters.com/world/india/indian-shares-set-lower-open-foreign-inflows-easing-crude-lend-support-2026-11-18/"
+              "label": "Associated Press · 16 Nov",
+              "url": "https://apnews.com/article/263988f2ec1894d3bf88522fd12500a6"
             }
           ],
-          "figures": [
-            [
-              "$9.53bn",
-              "Foreign equity inflows by 16 Nov"
-            ],
-            [
-              "~10%",
-              "Major index gains in November by 18 Nov"
-            ]
-          ]
+          "tag": "Global economy"
         },
         {
-          "desk": "business",
+          "desk": "business-global",
           "title": "Oil prices retreat despite renewed risks around the Strait of Hormuz",
           "tag": "World · Energy markets",
           "body": [
@@ -1182,7 +1360,7 @@
           ]
         },
         {
-          "desk": "business",
+          "desk": "business-global",
           "title": "Anthropic’s planned IPO becomes a test of AI valuations, not just AI enthusiasm",
           "tag": "World · Capital markets",
           "body": [
@@ -1205,7 +1383,7 @@
           ]
         },
         {
-          "desk": "business",
+          "desk": "business-global",
           "title": "The ECB warns that France’s debt and hedge-fund leverage could magnify shocks",
           "tag": "Europe · Financial stability",
           "body": [
@@ -1234,7 +1412,228 @@
           ]
         },
         {
-          "desk": "business",
+          "title": "Malaysia's third-quarter growth beats estimates as investment in AI infrastructure continues",
+          "tag": "Southeast Asia · Growth",
+          "body": [
+            "Malaysia's economy expanded 5.5% year-on-year in the third quarter, above the 5.3% forecast cited by Reuters. Its central bank expects investment linked to artificial intelligence and data centres to continue supporting activity into 2027, while acknowledging uncertainty around global demand and new US controls on access to advanced computing.",
+            "Data-centre construction can lift exports, employment and capital spending, but creates questions about electricity, water, grid investment and how many long-term jobs remain once facilities are built. Malaysia's stronger GDP figure does not eliminate exposure to global technology cycles."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 18 Nov",
+              "url": "https://www.reuters.com/markets/asia/malaysia-sees-ai-boom-driving-2027-growth-after-q3-gdp-tops-forecasts-2026-11-18/"
+            }
+          ],
+          "desk": "business-global"
+        },
+        {
+          "title": "Tencent says US restrictions could slow AI model training without derailing cloud revenue",
+          "tag": "China · Corporate results",
+          "body": [
+            "Tencent said new US limits on overseas remote access to advanced AI chips could slow training of its next model, but it did not expect a major near-term effect on its cloud revenue. The comments came as the Chinese technology company reported quarterly results amid broader competition in games, advertising, cloud and AI.",
+            "A constraint on high-end computing can have different consequences for research, customer services and ordinary cloud operations. Tencent's assessment is a corporate forecast rather than an independent guarantee. The wider issue for investors is how export controls change the costs and geography of AI infrastructure."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 18 Nov",
+              "url": "https://www.reuters.com/technology/tencent-q3-revenue-growth-slows-8-misses-estimates-2026-11-18/"
+            }
+          ],
+          "desk": "business-global"
+        },
+        {
+          "title": "Luxury shares show how volatile technology wealth can spill into consumption",
+          "tag": "Consumer businesses · Europe",
+          "body": [
+            "Luxury groups including LVMH, Hermès and Kering faced pressure as investors worried that weakness in AI-linked equities could curb spending among affluent American buyers. Reuters reported that luxury brands are leaning on US consumers to counter softer demand in China, adding sensitivity to stock-market swings.",
+            "A fall in luxury shares is not proof that wealthy consumers have already stopped shopping. The mechanism investors fear is a wealth effect: asset-price losses changing discretionary spending. Company sales disclosures over coming quarters will be a stronger test than a single market move."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 17 Nov",
+              "url": "https://www.reuters.com/business/media-telecom/luxury-stocks-slip-fears-ai-falls-will-curb-spending-by-wealthy-2026-11-17/"
+            }
+          ],
+          "desk": "business-global"
+        }
+      ]
+    },
+    {
+      "id": "business-india",
+      "name": "Business and Finance - India",
+      "stories": [
+        {
+          "desk": "business-india",
+          "title": "Economists forecast 7.6% Indian GDP growth; it is not yet an official result",
+          "body": [
+            "A Reuters poll of 43 economists estimates that India’s real GDP expanded 7.6% from a year earlier in July–September 2026, after reported growth of 7.8% in April–June. The forecast reflects resilient consumer demand despite inflation and geopolitical pressures. The official release was still pending on the edition date.",
+            "Fast GDP growth can coexist with financial strain for households if wage gains lag prices or borrowing supports consumption. The shape of growth—jobs, wages, sectoral productivity and the distribution of gains—matters as much as the headline rate. The forecast should not be presented as a confirmed statistic."
+          ],
+          "sources": [
+            {
+              "label": "Reuters poll · 18 Nov",
+              "url": "https://www.reuters.com/world/india/indian-economic-growth-seen-annual-76-july-september-quarter-2026-11-18/"
+            }
+          ],
+          "tag": "India economy"
+        },
+        {
+          "desk": "business-india",
+          "title": "India’s inflation breaches the RBI’s upper tolerance limit",
+          "tag": "India · Inflation",
+          "body": [
+            "India’s consumer-price inflation rose to 6.09% in October from 5.54% in September, breaching the Reserve Bank of India’s 6% upper tolerance limit. Food inflation reached 8.94%, according to the official figures reported by Business Standard. The increase follows pressures from food supplies and earlier energy-price moves; inflation does not imply every product rose by the same amount.",
+            "The bigger picture is a monetary-policy dilemma. India is growing rapidly, yet households experience purchasing-power losses when food and essentials outpace wages. Higher policy rates might help contain broad inflation but also raise borrowing costs for firms and consumers. The next RBI decision is due on 4 December. One month outside the target band does not establish that all price pressures are permanent, but it increases the importance of the next inflation prints and the distinction between food-driven and underlying inflation."
+          ],
+          "sources": [
+            {
+              "label": "Business Standard · 13 Nov",
+              "url": "https://www.business-standard.com/markets/news/nifty-bank-auto-realty-skid-1-as-inflation-stokes-rbi-rate-hike-fears-126111300433_1.html"
+            },
+            {
+              "label": "CRISIL analysis · 13 Nov",
+              "url": "https://intelligence.crisil.com/content/dam/crisil-intelligence/what-we-think/reports/2026/11/breaching-the-band.pdf"
+            }
+          ],
+          "figures": [
+            [
+              "6.09%",
+              "October CPI inflation"
+            ],
+            [
+              "8.94%",
+              "October food inflation"
+            ]
+          ]
+        },
+        {
+          "title": "India's October merchandise trade deficit widens to $39.88 billion",
+          "tag": "Trade · External sector",
+          "body": [
+            "India's goods-trade deficit reached $39.88 billion in October 2026, the highest in a year, widening from $30.21 billion in September, according to commerce data reported by Reuters. Imports rose particularly strongly, including gold, while the government also reported a record month for merchandise exports. The trade balance refers to goods, not India's full current account including services.",
+            "The numbers reveal the tension between an expanding economy and its dependence on imported energy, precious metals and other goods. Higher exports can coexist with a wider deficit if imports grow faster. Whether the gap persists will depend on commodity prices, domestic demand and service export receipts."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 13 Nov",
+              "url": "https://www.reuters.com/world/india/indias-october-merchandise-trade-deficit-rose-one-year-high-3988-billion-2026-11-13/"
+            },
+            {
+              "label": "Mint · 13 Nov",
+              "url": "https://www.livemint.com/economy/trade-deficit-widens-to-1-year-high-of-39-88-billion-in-october-on-record-imports-11794566966101.html"
+            }
+          ],
+          "desk": "business-india"
+        },
+        {
+          "desk": "business-india",
+          "title": "India’s unemployment rate edges down, with more women in the workforce",
+          "tag": "India · Labour market",
+          "body": [
+            "India’s monthly Periodic Labour Force Survey recorded a 4.9% unemployment rate in October, down from 5.0% in September. Female labour-force participation rose to 35.0% from 34.6%, and urban unemployment also eased, according to reporting on figures released 16 November. These are survey estimates subject to sampling and definition, not a count of every person seeking work.",
+            "The bigger picture is the quality, security and accessibility of work, not a tenth-of-a-point change by itself. A lower unemployment rate may coexist with low earnings, informal work or underemployment. Higher female participation is encouraging but does not automatically establish progress in pay, hours, workplace safety or career opportunities. The next useful comparisons are urban–rural differences, the types of jobs being created and whether participation gains persist."
+          ],
+          "sources": [
+            {
+              "label": "ThePrint / PTI · 16 Nov",
+              "url": "https://theprint.in/economy/indias-unemployment-rate-eases-to-4-9-pc-in-oct-female-participation-rises/3100102/"
+            },
+            {
+              "label": "Business Standard · 16 Nov",
+              "url": "https://www.business-standard.com/amp/economy/news/india-s-unemployment-rate-eases-to-4-9-in-oct-female-participation-rises-126111601355_1.html"
+            }
+          ],
+          "figures": [
+            [
+              "4.9%",
+              "October unemployment"
+            ],
+            [
+              "35.0%",
+              "Female labour-force participation"
+            ]
+          ]
+        },
+        {
+          "title": "Rupee gives back part of a seven-month high as the dollar strengthens",
+          "tag": "Currency · Markets",
+          "body": [
+            "The Indian rupee closed at 93.44 to the US dollar on 18 November, near the previous session's 93.47, after giving back part of its recent gains, Reuters reported via Moneycontrol. The broader dollar strengthened as traders weighed US interest-rate expectations. These quoted levels are a daily close, not a forecast.",
+            "Currency movements feed into the rupee cost of imported fuel, foreign-currency borrowing and overseas spending, while also influencing exporters' receipts. A one-day move should not be overinterpreted: capital flows, intervention, oil prices and global rates all pull in different directions."
+          ],
+          "sources": [
+            {
+              "label": "Reuters via Moneycontrol · 18 Nov",
+              "url": "https://www.moneycontrol.com/news/business/markets/rupee-gives-up-7-month-high-gains-closes-flat-at-93-44-as-dollar-firms-14083796.html"
+            }
+          ],
+          "desk": "business-india"
+        },
+        {
+          "desk": "business-india",
+          "title": "Foreign investors return to Indian equities in record November inflows",
+          "tag": "India · Capital flows",
+          "body": [
+            "Foreign portfolio investors purchased about $9.53 billion of Indian stocks in November through 16 November, Reuters reported—the highest monthly inflow recorded in its dataset even before the month ended. The move reversed earlier selling and accompanied a strong rally in banking, financial and other domestic shares as oil prices moderated and investors reassessed heavily concentrated global AI holdings.",
+            "The bigger picture is that flows into emerging markets can respond quickly to global interest rates, currency expectations and relative stock-market valuations. Foreign buying can support the rupee and share prices but is not proof that every company has become fundamentally more valuable. A strong monthly inflow can reverse if global risk appetite changes. It is more useful to watch whether domestic earnings and credit conditions justify the re-rating than to interpret a market surge as an economic verdict."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 16 Nov",
+              "url": "https://uk.marketscreener.com/news/record-foreign-inflows-fuel-indian-stocks-november-surge-ce785eded18df123"
+            },
+            {
+              "label": "Reuters · 18 Nov",
+              "url": "https://www.reuters.com/world/india/indian-shares-set-lower-open-foreign-inflows-easing-crude-lend-support-2026-11-18/"
+            }
+          ],
+          "figures": [
+            [
+              "$9.53bn",
+              "Foreign equity inflows by 16 Nov"
+            ],
+            [
+              "~10%",
+              "Major index gains in November by 18 Nov"
+            ]
+          ]
+        },
+        {
+          "desk": "business-india",
+          "title": "SEBI considers guardrails as leveraged share purchases grow",
+          "tag": "India · Markets and regulation",
+          "body": [
+            "India’s securities regulator is reviewing the margin trading facility through which investors buy shares using money borrowed from brokers. Reuters reported that margin-funded exposure has risen sharply, with some brokers offering up to four times investors’ capital at interest rates of 9–18%. On 18 November SEBI chair Tuhin Kanta Pandey said no decision had been made on the proposals.",
+            "The concern is that concentrated borrowing can amplify sell-offs: if prices fall, margin calls can force sales, potentially deepening market volatility. Yet restricting leverage can also affect market liquidity and brokers’ business models. A possible safeguard linking positions to shares available for trading is being examined, not implemented. The significant news is regulatory consideration amid growing exposure, not a confirmed ban on margin funding."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 18 Nov",
+              "url": "https://www.reuters.com/world/india/indias-markets-regulator-considering-proposals-strengthen-margin-trading-2026-11-18/"
+            },
+            {
+              "label": "Reuters · 17 Nov",
+              "url": "https://www.reuters.com/legal/government/india-may-limit-leveraged-stock-bets-curb-volatility-sources-say-2026-11-17/"
+            }
+          ]
+        },
+        {
+          "title": "Air India Express appoints its finance chief as CEO amid expansion",
+          "tag": "Airlines · Leadership",
+          "body": [
+            "Air India Express named finance chief Deepak Rajawat as its chief executive on 18 November, according to Reuters. The budget carrier is preparing for its next phase of growth within the wider Air India group. The appointment is a corporate announcement, not an independent assessment of the airline's future performance.",
+            "Low-cost airlines face a demanding combination of fleet investment, fuel prices, staffing, on-time operations and fare competition. A leadership change may shape priorities, but passengers and investors will ultimately judge reliability, safety, network choices and financial outcomes."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 18 Nov",
+              "url": "https://www.reuters.com/world/india/air-india-express-taps-finance-chief-rajawat-ceo-2026-11-18/"
+            }
+          ],
+          "desk": "business-india"
+        },
+        {
+          "desk": "business-india",
           "title": "Fairfax sells its IIFL Finance holding as its IDBI Bank deal takes shape",
           "tag": "India · Banking and acquisitions",
           "body": [
@@ -1257,6 +1656,25 @@
               "Planned IDBI Bank stake"
             ]
           ]
+        },
+        {
+          "title": "Scotch import-duty dispute tests the operation of the India–UK trade agreement",
+          "tag": "Trade policy · Taxation",
+          "body": [
+            "Reuters reported that India planned to impose duty and tax totalling 162.5% on certain bulk Scotch imports amid a dispute over tariff classification under the India–UK trade arrangement. Indian officials had earlier said they would honour the agreement's concessions. This concerns a specific import category and compliance interpretation, not all British goods or all Scotch sales.",
+            "The issue matters to importers because tariff rates determine costs, pricing and commercial certainty. It also illustrates how trade agreements depend on detailed customs rules long after headline deals are signed. Reported planned treatment and industry objections should not be conflated with a final adjudication of alleged misclassification."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 18 Nov",
+              "url": "https://www.reuters.com/world/india/india-charge-bulk-scotch-imports-1625-duty-tax-amid-uk-pact-standoff-2026-11-18/"
+            },
+            {
+              "label": "Reuters · 13 Nov government response",
+              "url": "https://www.reuters.com/world/india/india-says-will-honour-duty-cuts-scotch-imports-uk-2026-11-13/"
+            }
+          ],
+          "desk": "business-india"
         }
       ]
     },
