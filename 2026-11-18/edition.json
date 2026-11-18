@@ -1265,12 +1265,16 @@
           ],
           "sources": [
             {
-              "label": "Business Today · streaming guide, 5 Nov",
-              "url": "https://www.businesstoday.in/trending/entertainment"
+              "label": "India Today · streaming launch, 12 Nov",
+              "url": "https://www.indiatoday.in/movies/regional-cinema/story/jailer-2-on-ott-no-deleted-mohanlal-santhanams-scenes-in-streaming-version-3037310-2026-11-12"
             },
             {
-              "label": "Cinebuds · November OTT calendar",
-              "url": "https://cinebuds.com/ott-release-dates/"
+              "label": "The Indian Express · OTT window and languages",
+              "url": "https://indianexpress.com/article/entertainment/tamil/rajinikanth-starrer-jailer-2-movie-ott-release-on-amazon-prime-video-10951762/"
+            },
+            {
+              "label": "The Indian Express · theatrical-window dispute",
+              "url": "https://indianexpress.com/article/entertainment/tamil/jailer-2-north-india-release-skipped-pvr-inox-cinepolis-4-week-ott-window-10922615/"
             }
           ],
           "desk": "entertainment-india"
