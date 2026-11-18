@@ -1,28 +1,11 @@
-# The Times of Shums
+# The Times of Shums — published site content
 
-A daily newspaper with 11 desks, one story per card, original-reporting links and permanent dated archives.
+This directory is the **Cloudflare Pages build output**. The root `index.html` displays the most recent dated edition; `archive.html` links to all previous dated editions.
 
-## GitHub Pages (no OpenAI API key)
+The included edition is **18 November 2026**, containing **79 stories across 11 desks**, in the agreed order: World, UK, US, South Asia, India, Mumbai & Maharashtra, Business & Economy, Science & Research, Technology & AI, Climate & Environment, and CDR & Marine CDR.
 
-The repository has a no-API Pages deployment workflow at `.github/workflows/pages.yml`. It deploys the static HTML contained in `site/` on every push.
+Each desk has a one-story-at-a-time, variable-height card reader with Previous/Next controls and original sources. Section story counts appear on the edition contents page. No search, sidebars or modals.
 
-**Initial installation:** Copy the `site/` directory from the website package into this repository root, preserving the folder itself. Do not upload the old API-based research workflow. Then open **Settings → Pages → Build and deployment → Source: GitHub Actions**. Go to **Actions → Deploy The Times of Shums → Run workflow** if automatic deployment did not run.
+New editions are stored in `YYYY-MM-DD/edition.json` with their HTML pages and linked from the archive. Do not edit generated HTML directly; see the repository-level README for rendering and publishing instructions.
 
-Once deployed, the site should appear at:
-https://shumsbadwal.github.io/thetimesofshums/
-
-## Daily editions without an API key
-
-The existing ChatGPT automation **The Times of Shums** is scheduled for 7:00 AM Asia/Kolkata. It has instructions to research the morning edition, deliver it in chat, and attempt to commit its dated HTML/JSON to this repository using the connected GitHub tool. Changes to `site/` trigger a GitHub Pages deployment. Previous dated editions should be preserved.
-
-**Important:** This publication path depends on the scheduled task retaining GitHub tool access and successfully completing a multi-file publish. It is not yet proven end-to-end; the first scheduled run needs to be checked. GitHub Actions deployment may also take additional time, so 7:00 AM is the task trigger, not a guaranteed site-ready timestamp. In case of failure, the task should deliver the edition in chat and report that the site was not updated. No separate OpenAI API key is required.
-
-## Editorial
-
-World · UK · US · South Asia · India · Mumbai & Maharashtra · Business & Economy · Science & Research · Technology & AI · Climate & Environment · CDR & Marine CDR.
-
-Climate integrates measurements and assessments from Copernicus, NOAA, NSIDC, NASA and other observational sources. The CDR desk emphasises mCDR, scientific uncertainty and distinctions between contracted and verified removal.
-
-**Source integrity:** Original article links do not guarantee the accuracy of every summary. The inaugural 18 November 2026 edition was assembled from earlier reporting and has not been completely re-audited.
-
-The repository and its GitHub Pages website are public.
+**Editorial caveat:** The existing 18 November edition carries reporting assembled earlier in this conversation. It has not undergone a fresh independent line-by-line fact audit as part of this hosting package. Automated future publication includes basic source-link and structure checks, but these cannot guarantee factual accuracy.

@@ -1,0 +1,1723 @@
+{
+  "date": "2026-11-18",
+  "name": "The Times of Shums",
+  "desks": [
+    {
+      "id": "world",
+      "name": "World",
+      "stories": [
+        {
+          "desk": "world",
+          "title": "The Middle East conflict spreads to Yemen and Gulf shipping",
+          "body": [
+            "A Saudi-led coalition launched major strikes across Houthi-held areas of Yemen, saying it targeted military facilities. Houthi authorities reported at least 17 deaths, including people killed at a factory in Hodeida. In parallel, Iran claimed to have struck a US base in the Gulf, while Bahrain and Kuwait reported aerial threats. These are reports from participants in an active conflict, and not every operational or casualty claim has been independently confirmed.",
+            "The wider significance is that the violence is no longer confined to a single front. The Strait of Hormuz and Bab el-Mandeb are vital to energy supply and commercial shipping; attacks, even without a formal blockade, can increase shipping risk, insurance costs and the price of imported goods. India has particular exposure through energy imports and maritime employment. The story to watch is whether commercial passage becomes more disrupted and whether regional governments can contain further escalation."
+          ],
+          "sources": [
+            {
+              "label": "Associated Press · 18 Nov",
+              "url": "https://apnews.com/article/b71b1d25f3cff987b4b125196ecb4c3a"
+            }
+          ],
+          "tag": "International security"
+        },
+        {
+          "desk": "world",
+          "title": "Xi and Putin gather in Shenzhen ahead of talks with Trump",
+          "body": [
+            "Chinese President Xi Jinping and Russian President Vladimir Putin spoke at the APEC gathering in Shenzhen ahead of an expected trilateral meeting with US President Donald Trump. Xi criticised trade protectionism and Putin attacked Western sanctions. The proposed talks are expected to cover a range of contentious issues, including Ukraine, the conflict involving Iran, trade and arms control; their outcomes were not yet known at the edition cutoff.",
+            "The significance is not merely diplomatic theatre. These powers can influence security, trade and technology rules that affect countries outside the room. India is one such country, with relationships spanning the Quad, Russia and China. A leaders’ meeting should not be treated as a breakthrough by itself: an agreed policy, a practical concession, or a verifiable change in behaviour would be the consequential result."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 18 Nov",
+              "url": "https://www.investing.com/news/world-news/xi-putin-blast-western-protectionism-sanctions-before-meeting-trump-at-apec-5034759"
+            },
+            {
+              "label": "Euronews · 18 Nov",
+              "url": "https://www.euronews.com/2026/11/18/chinas-xi-jinping-and-putin-hold-talks-in-shenzhen-on-eve-of-three-way-summit-with-trump"
+            }
+          ],
+          "tag": "Geopolitics"
+        },
+        {
+          "desk": "world",
+          "title": "Denial of aid to children in conflicts is sharply higher in UN records",
+          "body": [
+            "A Save the Children analysis of UN-verified incidents found 8,322 cases of denial of humanitarian assistance to children in 2025, compared with 509 in 2015. The occupied Palestinian territories accounted for the largest number in 2025, followed by other conflict zones. These are verified recorded incidents, not a full count of every instance of aid obstruction around the world.",
+            "The figures illustrate how civilians can be harmed not only by attacks but also by the loss of food, medicine and essential services. Even where humanitarian law is clear, access on the ground depends on belligerents, border controls, security and the capacity of relief groups. Changes in reporting and verification capacity complicate decade-long comparisons, but the scale of the documented increase is significant."
+          ],
+          "sources": [
+            {
+              "label": "The Guardian · 18 Nov",
+              "url": "https://www.theguardian.com/global-development/2026/nov/18/aid-denial-humanitarian-children-save-the-children-un"
+            },
+            {
+              "label": "Save the Children report via coverage",
+              "url": "https://www.aol.co.uk/articles/cases-children-being-denied-aid-050032000.html"
+            }
+          ],
+          "tag": "Humanitarian affairs"
+        },
+        {
+          "desk": "world",
+          "title": "Nvidia suspends shipments of some US-approved AI chips to China",
+          "body": [
+            "Nvidia says it is no longer shipping certain licensed Hopper-generation data-centre processors to China. Interim CEO Colette Kress disclosed about $2.4 billion in sales of the relevant licensed products in the quarter ended 25 October. The firm has not fully specified how long the shipment interruption will last or how much is attributable to government rules versus commercial demand.",
+            "The bigger story is the growing entanglement of AI infrastructure and national industrial policy. Washington is tightening controls on advanced computing, while Beijing wants to build competing domestic chip capabilities. For suppliers and data-centre operators, even a product cleared for sale can remain exposed to shifting policy and strategic competition. Lost shipments are not the same as an end to China’s access to computing, nor proof that controls are achieving all their objectives."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 18 Nov",
+              "url": "https://www.reuters.com/world/china/nvidia-stops-shipping-us-approved-ai-chips-china-2026-11-18/"
+            }
+          ],
+          "tag": "Technology & trade"
+        },
+        {
+          "desk": "world",
+          "title": "A Deutsche Bank document leak puts high-risk client controls under scrutiny",
+          "body": [
+            "An investigative collaboration, including Newslaundry, examined more than 15 million leaked Deutsche Bank records. One report identifies about $582 million in suspicious payments associated with Jeffrey Epstein. The archive also contains internal risk assessments and correspondence about other wealthy and politically connected clients. Reuters said it could not immediately independently verify the full leaked archive; Deutsche Bank has pointed to improvements in controls and said much of the conduct described is historical.",
+            "The important question is whether banks can apply anti-financial-crime safeguards consistently when dealing with powerful or profitable customers. A flagged transaction is not proof of a crime, but ignored alerts or inadequate escalation can expose weaknesses in supervision. This is a long-form investigation worth reading directly, rather than reducing it to a definitive verdict on every person mentioned."
+          ],
+          "sources": [
+            {
+              "label": "Newslaundry · investigation",
+              "url": "https://www.newslaundry.com/2026/11/17/inside-deutsche-bank-582mn-suspicious-payments-linked-to-jeffrey-epstein"
+            },
+            {
+              "label": "Investigative Journalism Bureau · methodology",
+              "url": "https://ijb.utoronto.ca/news/faq-inside-deutsche-bank/"
+            },
+            {
+              "label": "Reuters · bank response",
+              "url": "https://www.investing.com/news/stock-market-news/deutsche-bank-shares-fall-5-as-it-defends-itself-from-media-reports-based-on-leaks-5031884"
+            }
+          ],
+          "tag": "Investigations"
+        },
+        {
+          "desk": "world",
+          "title": "Russian strikes leave Kyiv struggling with power outages as winter approaches",
+          "tag": "Ukraine · Energy security",
+          "body": [
+            "Repeated Russian attacks on Ukraine’s energy infrastructure have left Kyiv enduring severe power interruptions as colder weather approaches. A Guardian report describes residents managing disrupted electricity and heat alongside growing criticism of Mayor Vitali Klitschko over the city’s preparations. Those criticisms concern preparedness and responsibility; they should not obscure that attacks on infrastructure are the immediate cause of much of the damage.",
+            "The larger issue is how energy systems become a front in a prolonged war. Electricity outages affect water pumping, hospitals, lifts, public transport and livelihoods, with the greatest burden often falling on people who cannot arrange private backup power. Repairs can restore service but repeated attacks can undo progress. The distinction worth watching is between damage caused by new strikes and preventable weaknesses in local preparedness—both require evidence, and assigning responsibility remains politically contested."
+          ],
+          "sources": [
+            {
+              "label": "The Guardian · 18 Nov",
+              "url": "https://www.theguardian.com/world/2026/nov/18/russian-attacks-kyiv-power-outages-mayor-in-perilous-position"
+            }
+          ]
+        },
+        {
+          "desk": "world",
+          "title": "Russian strategic bombers fly across East Asia and land in Vietnam",
+          "tag": "Asia-Pacific · Military signalling",
+          "body": [
+            "Two Russian Tu-95 strategic bombers made an unusual long-range deployment to Da Nang, Vietnam, after a flight that prompted air-defence responses and concern in Japan and Taiwan. Reuters reported that Japan protested suspected Russian aircraft entering its territorial airspace in a related incident, while aircraft movements also drew scrutiny around Taiwan and South Korea. Reports of an aircraft entering an air-defence identification zone should not automatically be described as a violation of sovereign airspace: they are legally different.",
+            "The broader significance is strategic signalling ahead of meetings involving the Russian, Chinese and American leaders. Deploying long-range aircraft tests logistics, demonstrates reach and draws regional military attention without necessarily signalling an imminent attack. Analysts differ on how closely the route was coordinated politically and what Moscow intended to convey. The practical consequences depend on whether the deployment remains a one-off demonstration or becomes part of a sustained pattern of regional military operations."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 18 Nov",
+              "url": "https://www.reuters.com/business/aerospace-defense/russian-military-aircraft-deployment-sends-potent-message-asia-2026-11-18/"
+            },
+            {
+              "label": "USNI News · 17 Nov",
+              "url": "https://news.usni.org/2026/11/17/suspected-russian-aircraft-violated-japans-airspace-says-defense-minister"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uk",
+      "name": "United Kingdom",
+      "stories": [
+        {
+          "desk": "uk",
+          "title": "UK inflation rises to 3.6%, driven in part by fuel prices",
+          "body": [
+            "Britain’s Consumer Prices Index rose 3.6% in the year to October, up from 3.5% in September, according to the Office for National Statistics. Petrol and diesel prices made an important contribution. The higher headline figure does not imply that all goods and services are becoming more expensive at the same rate.",
+            "For households, fuel and energy costs transmit into transport, heating and eventually business prices. For the Bank of England, a renewed inflation rise complicates decisions on interest rates at a time when some consumers and borrowers are already under pressure. The distinction between volatile energy inflation and more persistent underlying pressures will matter for future policy."
+          ],
+          "sources": [
+            {
+              "label": "Office for National Statistics · October CPI",
+              "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/october2026"
+            },
+            {
+              "label": "The Guardian · 18 Nov",
+              "url": "https://www.theguardian.com/business/live/2026/nov/18/uk-inflation-rises-higher-petrol-prices-nvidia-live-updates"
+            }
+          ],
+          "tag": "Economy"
+        },
+        {
+          "desk": "uk",
+          "title": "The NHS plans to leave Palantir’s data platform—but not until 2029",
+          "body": [
+            "The UK government says Palantir’s role supplying the NHS Federated Data Platform will end in March 2029, rather than exercising a break option that might have brought the contract to an end earlier. Ministers argue a transition and new procurement need time; critics question why the supplier should remain so embedded for longer. Novara Media has reported on resistance among NHS staff and on whether hospitals cited as success stories are actually using the platform extensively.",
+            "This is a case study in the difficulty of changing technology suppliers in public services. Procurement, dependence on proprietary systems, claims of operational benefits and trust in health-data governance all have to be assessed separately. An announced end date is not evidence that a replacement is ready, and criticism of the vendor does not on its own establish what the existing platform has or has not achieved."
+          ],
+          "sources": [
+            {
+              "label": "The Guardian · 16 Nov",
+              "url": "https://www.theguardian.com/society/2026/nov/16/ministers-to-end-palantir-contract-nhs-england-2029"
+            },
+            {
+              "label": "Novara Media · report",
+              "url": "https://novaramedia.com/2026/11/06/uk-government-to-extend-palantirs-nhs-contract-by-two-years/"
+            },
+            {
+              "label": "UK Parliament · ministerial statement",
+              "url": "https://hansard.parliament.uk/commons/2026-11-17/debates/D1EA4BF2-2796-48DD-A144-B9675E614F2A/NHSFederatedDataPlatformPalantir"
+            }
+          ],
+          "tag": "Public services"
+        },
+        {
+          "desk": "uk",
+          "title": "Researchers will evaluate the UK social-media restrictions affecting under-16s",
+          "body": [
+            "Wellcome is funding ten research teams with £9.3 million to study the effects of forthcoming social-media restrictions on more than 300,000 young people. The projects will examine mental health, sleep, relationships and other outcomes, with some studies comparing behaviour before and after the changes.",
+            "The policy debate has often moved faster than the evidence. Researchers need to understand benefits, unintended effects, differences between groups and whether restrictions displace use into less visible spaces. This announcement is a study launch, not evidence that the ban works or fails; its value will lie in the quality of the resulting comparisons."
+          ],
+          "sources": [
+            {
+              "label": "University of Birmingham · 18 Nov",
+              "url": "https://www.birmingham.ac.uk/news/2026/social-media-ban-evaluation-will-it-actually-improve-young-peoples-wellbeing"
+            },
+            {
+              "label": "The Guardian · 18 Nov",
+              "url": "https://www.theguardian.com/uk-news/2026/nov/18/social-media-ban-once-in-a-generation-study"
+            }
+          ],
+          "tag": "Society"
+        },
+        {
+          "desk": "uk",
+          "title": "NHS patient-record snooping incidents expose a distinct privacy problem",
+          "body": [
+            "Freedom-of-information responses documented more than 3,000 confirmed occasions of NHS staff improperly accessing patient records across several years. Not every trust supplied complete comparable figures, so the count is not a national total of all misconduct. Some cases involve staff accessing records without a legitimate medical reason.",
+            "Healthcare data security is about internal access governance as much as external hackers or technology suppliers. Systems need effective audit trails, detection, sanctions and clear patient remedies. This is related to wider public trust in digitised health services, but is not proof of wrongdoing by any particular outside software vendor."
+          ],
+          "sources": [
+            {
+              "label": "The Guardian · 18 Nov",
+              "url": "https://www.theguardian.com/society/2026/nov/18/nhs-england-staff-snooping-patients-records"
+            },
+            {
+              "label": "Sky News · 18 Nov",
+              "url": "https://news.sky.com/story/revealed-10-nhs-trusts-that-disclosed-most-reports-of-staff-snooping-on-patient-records-13613254"
+            }
+          ],
+          "tag": "Privacy"
+        },
+        {
+          "desk": "uk",
+          "title": "Labour faces renewed pressure to define Britain’s long-term relationship with the EU",
+          "tag": "Brexit · UK–EU relations",
+          "body": [
+            "Former foreign secretary David Lammy has called on Prime Minister Andy Burnham to campaign at the next election on a commitment to rejoin the European Union. The intervention follows Burnham’s criticism of Brexit’s economic and diplomatic consequences, but his government has delayed setting out specific long-term options while preparing for a major UK–EU summit. Lammy’s position is a political proposal, not an adopted government policy.",
+            "The bigger question is whether Britain can deepen economic integration with the EU without reopening the political disputes that shaped the original Brexit negotiations. Trade barriers, standards, migration rules and access to European programmes affect businesses and households, but full membership would involve broader obligations and renewed democratic debate. Divisions within Labour, competing priorities in Brussels and concerns among Leave-supporting constituencies make any shift far from automatic."
+          ],
+          "sources": [
+            {
+              "label": "The Guardian / PA · 18 Nov",
+              "url": "https://www.theguardian.com/politics/2026/nov/18/david-lammy-andy-burnham-campaign-rejoining-eu-election-brexit"
+            },
+            {
+              "label": "The Guardian · 17 Nov",
+              "url": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu"
+            }
+          ]
+        },
+        {
+          "desk": "uk",
+          "title": "Reform’s promised local-government efficiency drive has yielded limited savings",
+          "tag": "Local government · Accountability",
+          "body": [
+            "A Guardian examination of English councils led by Reform UK reports that the party’s promised cost-cutting drive has not, so far, produced faster or deeper savings than those achieved by comparable authorities. The party had promoted a programme modelled on Elon Musk’s US government-efficiency initiative after its local-election gains. Interviews and comparative evidence suggest a gap between the rhetoric of immediate administrative overhaul and what councils have actually delivered.",
+            "The story matters because local-government budgets are constrained by statutory obligations, service demand and existing contracts. Reducing expenditure is not simply a matter of removing jobs or announcing targets: cuts can shift costs, reduce service quality or take longer to implement than promised. A short early performance period does not establish what may happen throughout a full council term, but the available results provide a test of a specific political claim about rapid savings."
+          ],
+          "sources": [
+            {
+              "label": "The Guardian investigation · 18 Nov",
+              "url": "https://www.theguardian.com/politics/2026/nov/18/reform-doge-style-crackdown-fell-flat"
+            }
+          ]
+        },
+        {
+          "desk": "uk",
+          "title": "A sweeping review of youth employment proposes deep changes to welfare and training",
+          "tag": "Work · Social policy",
+          "body": [
+            "A review led by Alan Milburn proposes wide-ranging measures to address the UK’s large population of young people not in education, employment or training (NEET). Recommendations include expanded apprenticeships, more specialised career support and wider changes across schools, health services and benefits. The review also contemplates substantial changes to disability-related support, prompting concern from critics about potential losses of financial security.",
+            "The larger issue is whether unemployment among young people is best addressed through skills and hiring incentives, conditional welfare reform, or stronger support for health, housing and access to work. The report recognises structural barriers such as poverty and ill health but couples new opportunities with tougher conditions. Its recommendations are not enacted policy. The government’s response—and independent assessment of potential effects on disabled and low-income young people—will matter more than the review’s scale alone."
+          ],
+          "sources": [
+            {
+              "label": "The Guardian analysis · 17 Nov",
+              "url": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-neet-report-absurdly-ambitious-analysis"
+            },
+            {
+              "label": "UK review · From a Welfare State to a Working State",
+              "url": "https://www.gov.uk/government/publications/from-a-welfare-state-to-a-working-state"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "us",
+      "name": "United States",
+      "stories": [
+        {
+          "desk": "us",
+          "title": "Democrats secure a 56–44 US Senate majority after Alaska result",
+          "body": [
+            "Mary Peltola defeated Republican incumbent Dan Sullivan in Alaska, completing the Democrats’ ninth Republican-held Senate pickup of the 2026 midterms. The incoming Senate is set to have a 56–44 Democratic majority. Democrats have also won control of the House, sharply changing the balance of power in Congress.",
+            "The result constrains President Trump’s legislative agenda and creates more opportunities for congressional oversight, but it does not transfer executive authority to Congress. Control of committees, spending measures and subpoena power will matter. The figures describe the incoming Congress, which takes office in January, not the chamber’s composition on election night."
+          ],
+          "sources": [
+            {
+              "label": "Associated Press · 18 Nov",
+              "url": "https://apnews.com/article/aa623c1c32cb493c21633a1a6a140578"
+            },
+            {
+              "label": "The Guardian · 17 Nov",
+              "url": "https://www.theguardian.com/us-news/2026/nov/17/mary-peltola-alaska-senate-race"
+            }
+          ],
+          "tag": "Elections"
+        },
+        {
+          "desk": "us",
+          "title": "Congressional investigations of Trump may face constitutional barriers",
+          "body": [
+            "Democrats preparing to control congressional committees have said they will pursue broad investigations of President Trump and his administration. Reuters examined how Supreme Court precedents on congressional subpoenas, presidential records and separation of powers might affect those efforts. Congress can seek documents and testimony, but legal enforcement can be slow and contested.",
+            "The key question is whether the incoming majority can exercise oversight effectively when the executive branch resists. Political control of a committee does not automatically guarantee access to every record; equally, the existence of legal limits does not negate Congress’s investigative powers. The story is about institutional checks, not a completed finding of misconduct."
+          ],
+          "sources": [
+            {
+              "label": "Reuters legal analysis · 17 Nov",
+              "url": "https://uk.marketscreener.com/news/how-the-supreme-court-could-hinder-trump-investigations-by-congress-ce785edcd98bfe27"
+            },
+            {
+              "label": "AP · Justice Department oversight",
+              "url": "https://apnews.com/article/e121c4420d0010b9ba7e8003407d304a"
+            }
+          ],
+          "tag": "Institutions"
+        },
+        {
+          "desk": "us",
+          "title": "A $50bn air-traffic funding request meets resistance after mass flight disruption",
+          "body": [
+            "The Trump administration is seeking roughly $50 billion for air-traffic-control reforms and airport improvements after a nationwide ground stop caused more than 18,000 flight cancellations. The request expanded from a $30 billion proposal, and some Republican senators have challenged the scale and mix of spending.",
+            "The aviation system has long-running modernisation problems, but a high-profile failure is not enough to settle which investments are most effective. Lawmakers want accountability for earlier funding and clearer priorities. The distinction between urgent safety improvements and broader airport upgrades will shape the debate over who pays and how quickly repairs can be made."
+          ],
+          "sources": [
+            {
+              "label": "Associated Press · 17 Nov",
+              "url": "https://apnews.com/article/a638c9651f1fabe8f95d20353779ee5b"
+            },
+            {
+              "label": "Reuters · 17 Nov",
+              "url": "https://www.investing.com/news/stock-market-news/us-push-for-50-billion-for-aviation-faces-opposition-5033944"
+            }
+          ],
+          "tag": "Infrastructure"
+        },
+        {
+          "desk": "us",
+          "title": "Appeals court blocks removal of transgender service members while litigation continues",
+          "tag": "Civil rights · Military",
+          "body": [
+            "A divided federal appeals court blocked the US military from forcing more than two dozen transgender service members out while litigation over the Trump administration’s policy continues. The ruling follows earlier findings that the policy was unlawfully discriminatory; the administration is seeking further Supreme Court review. The order concerns the affected personnel and ongoing proceedings, not a final nationwide resolution of every challenge to military service rules.",
+            "The case tests the extent to which the executive branch can set personnel standards for the armed forces while remaining subject to constitutional protections. Supporters of the policy frame it as a question of military readiness and administrative discretion; challengers say exclusion based on gender identity is discriminatory. The court’s interim protection preserves the status of the service members involved while the merits and procedural questions continue to be contested."
+          ],
+          "sources": [
+            {
+              "label": "Associated Press · 17 Nov",
+              "url": "https://apnews.com/article/dcdb4c91f17e59c7c2dc5fb725d3b7e9"
+            }
+          ]
+        },
+        {
+          "desk": "us",
+          "title": "Supreme Court leaves in place a ruling against cancellation of university research grants",
+          "tag": "Courts · Academic freedom",
+          "body": [
+            "The US Supreme Court declined to hear the Trump administration’s appeal concerning the cancellation of about $59 million in grants to researchers at the University of California, Berkeley. The Ninth Circuit had found that the grant terminations were likely unlawful viewpoint discrimination because they targeted work described as supporting diversity, equity and inclusion. The research covered fields including medicine, climate policy, water management and the humanities.",
+            "The significance lies in the boundary between government power to set funding priorities and constitutional limits on penalising disfavoured viewpoints. Declining review leaves the lower-court ruling in place; it is not a fresh Supreme Court ruling deciding all disputes about DEI-related funding. Academic institutions and federal agencies will be watching how this reasoning affects other grant challenges and the conditions under which scientific work is financed."
+          ],
+          "sources": [
+            {
+              "label": "The Washington Post · 16 Nov",
+              "url": "https://www.washingtonpost.com/politics/2026/11/16/supreme-court-declines-review-case-involving-canceled-dei-grants/"
+            },
+            {
+              "label": "Associated Press · 16 Nov",
+              "url": "https://apnews.com/article/36d846810d632fba17364355de99efa8"
+            }
+          ]
+        },
+        {
+          "desk": "us",
+          "title": "US officials say recent major technology outages are not known to be connected",
+          "tag": "Infrastructure · Digital resilience",
+          "body": [
+            "A succession of disruptions affecting air travel, banking, online services and government communications has prompted public speculation about a coordinated cyberattack. Secretary of State Marco Rubio said officials had no evidence linking the incidents to one another or to a malicious actor. The organisations involved have attributed various failures to technical problems. Those statements reflect the available evidence, not proof that future investigations cannot uncover additional causes.",
+            "The bigger story is the fragility of highly interconnected services. A problem in one platform or update can interfere with critical activities far beyond the original system. Similar-looking failures may be unrelated, and treating coincidence as proof of sabotage can distract from engineering, maintenance and transparency. The useful follow-up is whether operators publish credible root-cause analyses and what they change to prevent repeat outages—not whether a dramatic common explanation circulates online."
+          ],
+          "sources": [
+            {
+              "label": "Associated Press · 17 Nov",
+              "url": "https://apnews.com/article/ec4d88860b54e280c6e6c19dce7899ae"
+            },
+            {
+              "label": "WIRED · 17 Nov",
+              "url": "https://www.wired.com/story/how-to-tell-if-its-a-cyberattack-or-just-an-outage"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "south-asia",
+      "name": "South Asia",
+      "stories": [
+        {
+          "desk": "south-asia",
+          "title": "Bangladesh deploys paramilitary forces amid violence over Hasina’s planned return",
+          "tag": "South Asia · Political unrest",
+          "body": [
+            "Bangladesh deployed hundreds of paramilitary personnel on 18 November as violence intensified ahead of former prime minister Sheikh Hasina’s stated intention to return from exile in India in December. Reuters reported crude-bomb explosions and arson incidents across numerous districts, with people killed or injured in separate attacks. The government has declined her request for new identity and travel documents, while her banned Awami League has called for protests, including a planned nationwide shutdown.",
+            "The upheaval exposes how unsettled Bangladesh’s post-2024 political order remains. Hasina’s attempted return is an immediate trigger, but disputes about political legitimacy, prosecutions and the right to organise run deeper. Government officials blame overseas party figures for encouraging violence; these are allegations, not proof of responsibility for every incident. The next test is whether security operations can protect civilians without further narrowing political space. India also has a direct diplomatic stake because Hasina has been living there."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 18 Nov",
+              "url": "https://www.reuters.com/world/asia-pacific/bangladesh-deploys-paramilitary-unrest-grows-over-hasinas-return-2026-11-18/"
+            }
+          ]
+        },
+        {
+          "desk": "south-asia",
+          "title": "Bangladesh’s garment workers press for higher wages as factories shut",
+          "tag": "Bangladesh · Labour and exports",
+          "body": [
+            "Workers in Bangladesh’s export-oriented ready-made garment industry have continued demonstrations across Savar, Ashulia and Gazipur, demanding a minimum monthly wage of Tk 30,000. The Daily Star reported clashes with police, road blockades and disruptions to factory production. One report estimated that close to 450 factories faced a production halt on 17 November; industrial police said 25 factories in the Savar–Ashulia area were not operating on 18 November. Those counts cover different locations and reporting periods, not a single national total.",
+            "The bigger picture is a dispute about how the economic returns from Bangladesh’s garment exports are shared. The sector is central to export earnings and millions of livelihoods, but manufacturers also face energy costs and pressure from overseas buyers. Parliamentarians have alleged political orchestration of the unrest, while workers and labour organisations have raised wages and working conditions. Those are distinct claims: allegations about who may be exploiting protests do not establish that workers’ wage demands are illegitimate. The test is whether credible negotiations can address pay, workplace safety and the viability of factories without suppressing lawful organising."
+          ],
+          "sources": [
+            {
+              "label": "The Daily Star · 18 Nov",
+              "url": "https://www.thedailystar.net/news/crime-justice/news/rmg-unrest-flares-4326831"
+            },
+            {
+              "label": "The Daily Star · 18 Nov (Ashulia)",
+              "url": "https://www.thedailystar.net/news/news/workers-unrest-continues-savar-ashulia-25-factories-shut-4327056"
+            },
+            {
+              "label": "The Daily Star · parliamentary debate",
+              "url": "https://www.thedailystar.net/news/bangladesh/news/al-vested-quarters-fuelling-rmg-unrest-4326816"
+            }
+          ],
+          "figures": [
+            [
+              "Tk 30,000",
+              "Monthly minimum wage demanded by workers"
+            ],
+            [
+              "25",
+              "Factories reported shut in Savar–Ashulia on 18 Nov"
+            ]
+          ]
+        },
+        {
+          "desk": "south-asia",
+          "title": "India and Bangladesh approach the expiry of their Ganges water-sharing treaty without formal renewal talks",
+          "tag": "Bangladesh / India · Water diplomacy",
+          "body": [
+            "The 30-year Ganges Water Sharing Treaty, signed in 1996, is scheduled to expire on 12 December. ThePrint reports that Indian water officials plan to visit Dhaka for a 21–23 November joint-committee meeting, but that renewal is not on the official agenda. Bangladeshi officials say they are ready to negotiate and want a revised agreement protecting dry-season flows. There has not yet been a mutually announced replacement agreement.",
+            "The bigger picture extends beyond a diplomatic deadline. The treaty establishes how water passing the Farakka Barrage is shared during the January–May dry season, with consequences for farming, river ecosystems, navigation and communities downstream. Bangladesh wants firmer assurances during low-flow periods; Indian political actors also cite the requirements of states such as Bihar. The challenge is reconciling competing water needs in a climate- and season-sensitive river basin. Routine technical committee meetings should not be mistaken for completed political negotiations on a new treaty."
+          ],
+          "sources": [
+            {
+              "label": "ThePrint · 18 Nov",
+              "url": "https://theprint.in/diplomacy/exclusive-clock-ticking-on-ganga-water-treaty-indian-delegation-heads-to-dhaka-but-renewal-not-on-agenda/3101531/"
+            },
+            {
+              "label": "The Daily Star · 18 Nov",
+              "url": "https://www.thedailystar.net/news/bangladesh/news/expiring-ganges-treaty-dhaka-still-waiting-delhi-come-table-4326771"
+            },
+            {
+              "label": "Lowy Institute · 16 Nov",
+              "url": "https://www.lowyinstitute.org/the-interpreter/ganges-treaty-expiry-tests-a-fragile-bilateral-relationship"
+            }
+          ],
+          "figures": [
+            [
+              "12 Dec",
+              "1996 treaty scheduled to expire"
+            ],
+            [
+              "1996",
+              "Year of original agreement"
+            ]
+          ]
+        },
+        {
+          "desk": "south-asia",
+          "title": "A Saudi–Pakistan $30 billion energy proposal could reshape regional gas links—but is not a committed investment",
+          "tag": "Pakistan · Energy and regional trade",
+          "body": [
+            "Saudi company Delta Energy Saudi and Pakistan’s Inter State Gas Systems have agreed to evaluate an energy-infrastructure programme with a proposed value of about $30 billion. Concepts under consideration include pipelines connecting western Pakistan with Gwadar, LNG and storage infrastructure, and a possible corridor across Pakistan toward the Indian border. Afghan gas resources have also been mentioned as possible supply sources. The agreement sets up a feasibility process; it is not a final investment decision or guaranteed financing.",
+            "The bigger picture is South Asia’s difficult search for dependable, affordable energy. A cross-border gas network could link producers and consumers across Afghanistan, Pakistan and potentially India, but security, political relationships, financing and commercial demand have stalled earlier pipeline ambitions. A proposed route is not evidence that the governments concerned have agreed to build or use it. What matters next is feasibility work, credible financing, relevant permissions and any bilateral agreements needed to cross borders."
+          ],
+          "sources": [
+            {
+              "label": "Dawn / Reuters · 18 Nov",
+              "url": "https://www.dawn.com/news/2045288"
+            }
+          ],
+          "figures": [
+            [
+              "$30bn",
+              "Proposed scale, not committed finance"
+            ]
+          ]
+        },
+        {
+          "desk": "south-asia",
+          "title": "Pakistan records a small current-account surplus, but external financing risks persist",
+          "tag": "Pakistan · Macroeconomics",
+          "body": [
+            "Pakistan’s current account posted a $39 million surplus in October after a $371 million deficit the previous month, according to State Bank of Pakistan data reported by Dawn. The first four months of the fiscal year still recorded a cumulative $850 million current-account deficit. Foreign direct investment during July–October rose 22% year-on-year to $935 million, while the overall trade deficit widened.",
+            "The bigger picture is that a single monthly surplus is welcome but does not eliminate Pakistan’s external vulnerability. Import costs, energy prices, remittances, debt payments and the availability of investment can all shift the balance of payments quickly. The Gulf conflict makes energy and financial conditions particularly uncertain. A durable improvement would require sustained export competitiveness and investment rather than depending only on temporary swings in imports or dollar inflows."
+          ],
+          "sources": [
+            {
+              "label": "Dawn · 18 Nov",
+              "url": "https://www.dawn.com/news/2045284"
+            }
+          ],
+          "figures": [
+            [
+              "$39m",
+              "October current-account surplus"
+            ],
+            [
+              "$850m",
+              "July–October cumulative deficit"
+            ]
+          ]
+        },
+        {
+          "desk": "south-asia",
+          "title": "Nepal asks China to reopen a crucial border crossing after flood damage",
+          "tag": "Nepal / China · Trade and connectivity",
+          "body": [
+            "Nepal’s foreign minister Shisir Khanal urged a visiting Chinese delegation to press for the reopening of the Tatopani border crossing. The Rasuwagadhi route remains shut after severe floods in August, while several higher-altitude crossings become difficult to use during winter. Chinese representatives said they would take the request to the relevant authorities; the crossing had not yet been confirmed reopened at the time of reporting.",
+            "The bigger picture is the vulnerability of landlocked Nepal’s trade corridors to weather and geography. When one of a small number of border routes is disrupted, the consequences can spread to imports, logistics costs, local employment and wider relations with neighbouring countries. Reopening Tatopani is both a practical trade issue and a diplomatic test of cross-border coordination following climate-related damage. The longer-term problem is building a more resilient network rather than depending on one operational crossing."
+          ],
+          "sources": [
+            {
+              "label": "The Kathmandu Post · 18 Nov",
+              "url": "https://kathmandupost.com/national/2026/11/18/nepal-urges-china-to-reopen-tatopani-border-crossing"
+            }
+          ]
+        },
+        {
+          "desk": "south-asia",
+          "title": "Displaced Nepali families occupy public land as flood rehabilitation stalls",
+          "tag": "Nepal · Disaster recovery",
+          "body": [
+            "More than 250 families displaced by the 26 August Bhotekoshi floods occupied Nepal Electricity Authority land in Trishuli Bazar and started erecting temporary shelters. The Kathmandu Post reported that about 450 families in the town lost their homes completely, with hundreds more suffering damage. Residents say a delay in formal rehabilitation decisions left them without an adequate alternative.",
+            "The bigger picture is that disaster risk is not measured only by the number of buildings destroyed on the day of a flood. Recovery depends on land rights, funding, housing decisions and coordination among different levels of government. Families moving onto public land may gain temporary shelter while also creating new legal and safety disputes. The question is whether local and federal authorities can provide fair, lasting resettlement before temporary displacement becomes entrenched."
+          ],
+          "sources": [
+            {
+              "label": "The Kathmandu Post · 18 Nov",
+              "url": "https://kathmandupost.com/national/2026/11/18/flood-victims-occupy-nepal-electricity-authority-land-erect-tents"
+            }
+          ],
+          "figures": [
+            [
+              "250+",
+              "Families establishing temporary shelters"
+            ]
+          ]
+        },
+        {
+          "desk": "south-asia",
+          "title": "Sri Lanka proposes reviving a trade arrangement with Bangladesh",
+          "tag": "Sri Lanka / Bangladesh · Regional trade",
+          "body": [
+            "Sri Lanka’s foreign minister Vijitha Herath proposed reviving talks over a preferential trade agreement with Bangladesh in a meeting with Bangladeshi officials in Colombo. The proposal aims to encourage bilateral trade and economic cooperation. It is a diplomatic initiative at this stage; no completed agreement or tariff concessions have been announced.",
+            "The bigger picture is how much of South Asia’s trade potential remains constrained by political frictions, logistics costs and fragmented market access. Preferential agreements may create opportunities for businesses, but the effects depend on which goods are covered, how rules of origin work, and whether ports and customs procedures make trade economical. The important next step is whether discussions lead to a negotiated text and measurable reductions in trading barriers."
+          ],
+          "sources": [
+            {
+              "label": "Newswire Sri Lanka · 18 Nov",
+              "url": "https://www.newswire.lk/2026/11/18/sri-lanka-seeks-revival-of-preferential-trade-agreement-with-bangladesh/"
+            }
+          ]
+        },
+        {
+          "desk": "south-asia",
+          "title": "Afghanistan receives emergency UN funding as a difficult winter approaches",
+          "tag": "Afghanistan · Humanitarian crisis",
+          "body": [
+            "The UN approved $18 million in emergency funding intended to help more than 824,000 people in Afghanistan, according to the regional outlet Khaama Press citing OCHA. The support will cover food, health, nutrition, protection, shelter, water and sanitation. It forms part of a broader $48 million package, including $30 million from the Afghanistan Humanitarian Fund. The UN estimates that 21.9 million Afghans need humanitarian assistance in 2026.",
+            "The bigger picture is an enduring emergency shaped by food insecurity, poverty, people returning from neighbouring countries and the limited resources available to aid providers. Winter can intensify needs just as access to remote communities becomes more difficult. Emergency allocations may prevent suffering, but they do not solve long-term economic constraints or make up for the broader aid shortfall. The amounts are approved funding and planned reach, not proof that every intended recipient has already received assistance."
+          ],
+          "sources": [
+            {
+              "label": "Khaama Press / OCHA · 17 Nov",
+              "url": "https://www.khaama.com/un-18-million-emergency-aid-afghanistan/"
+            }
+          ],
+          "figures": [
+            [
+              "$18m",
+              "New emergency funding"
+            ],
+            [
+              "824k+",
+              "People intended to be reached"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "india",
+      "name": "India",
+      "stories": [
+        {
+          "desk": "india",
+          "title": "Quad leaders agree new maritime, AI and business initiatives",
+          "body": [
+            "The leaders of India, the US, Japan and Australia met in Manila on 17 November. Their joint announcements included maritime surveillance cooperation, new technology initiatives and a Quad Business Leaders’ Forum planned for Mumbai in 2027. Some projects are still at the planning stage and will require implementation beyond the summit.",
+            "The Quad is evolving from a diplomatic forum towards practical coordination, especially around sea lanes, technology and supply-chain resilience. For India, participation strengthens ties with regional partners while preserving an independent foreign policy that still involves China and Russia. The wording of summit declarations matters, but tangible joint activities will be the real test of progress."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 17 Nov",
+              "url": "https://www.reuters.com/world/china/trump-kick-off-asia-trip-with-quad-talks-manila-ahead-china-visit-2026-11-17/"
+            },
+            {
+              "label": "Japan Ministry of Foreign Affairs · joint report",
+              "url": "https://www.mofa.go.jp/fp/nsp/page1e_000691_00003.html"
+            }
+          ],
+          "tag": "Foreign policy"
+        },
+        {
+          "desk": "india",
+          "title": "India’s refiners appear to be shifting some purchases from Russia to Brazil",
+          "body": [
+            "Preliminary shipment estimates reported by ThePrint show Russian crude imports could fall by nearly 400,000 barrels a day in November, while Brazilian deliveries could approach 400,000 barrels a day from about 100,000 in October. These are provisional monthly estimates, not a final measure of completed deliveries.",
+            "The change illustrates that crude sourcing is a commercial calculation involving discounts, tanker rates, refinery configurations and supply reliability, even though it is often cast primarily in diplomatic terms. Multiple suppliers can give India resilience, but a one-month shift does not prove a permanent strategic change. The next several months of actual imports will be more revealing."
+          ],
+          "sources": [
+            {
+              "label": "ThePrint · 16 Nov",
+              "url": "https://theprint.in/economy/why-indias-go-to-russian-oil-imports-are-set-to-fall-brazilian-supplies-may-quadruple-in-november/3100142/"
+            }
+          ],
+          "tag": "Energy"
+        },
+        {
+          "desk": "india",
+          "title": "Supreme Court grants conditional bail to two Bilkis Bano case convicts",
+          "body": [
+            "The Supreme Court suspended the sentences of two men convicted in the 2002 Bilkis Bano gang-rape and murder case while their appeals remain before the court. The men were granted conditional bail after spending more than 17 years in prison. Suspension of a sentence pending appeal is not an acquittal or a reversal of the convictions.",
+            "The case raises difficult questions about the rights of convicted people seeking appellate relief and the interests of victims in having a meaningful voice in proceedings affecting their security and the administration of justice. Reporting about legal standards should be distinguished from speculation about how the eventual appeals will be decided."
+          ],
+          "sources": [
+            {
+              "label": "India Today · 16 Nov",
+              "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-halts-life-sentences-of-2-men-convicted-in-bilkis-bano-gangrape-and-murder-case-grants-bail-3039841-2026-11-16"
+            },
+            {
+              "label": "SCC Times · legal account",
+              "url": "https://www.scconline.com/blog/post/2026/11/17/bilkis-bano-case-sc-grants-bail-convicts-after-17-years-in-jail/"
+            }
+          ],
+          "tag": "Justice"
+        },
+        {
+          "desk": "india",
+          "title": "The Agnipath scheme may move towards longer service and more selective retention",
+          "body": [
+            "Defence authorities are discussing revised arrangements under which Agniveers who are not immediately retained in regular service could receive an additional two-year extension following their first four years. Proposals also place greater emphasis on technical skills, discipline, fitness and competency-based selection. The details and timing remain unsettled.",
+            "The reforms go to the heart of military manpower policy: how to build experience, pay for personnel and give recruits credible post-service pathways. Longer service could improve training returns, but it also raises questions about career stability and what proportion eventually enter permanent posts. Plans under consideration should not be reported as an enacted scheme."
+          ],
+          "sources": [
+            {
+              "label": "The Financial Express · 18 Nov",
+              "url": "https://www.financialexpress.com/india-news/revamped-agnipath-scheme-on-talks-table-multi-skilling-tech-proficiency-for-6-year-agniveers/4387542/"
+            }
+          ],
+          "tag": "Defence"
+        },
+        {
+          "desk": "india",
+          "title": "India’s rice surplus is exposing the costs of agricultural subsidy policy",
+          "tag": "Agriculture · Food policy",
+          "body": [
+            "A Reuters investigation finds that India’s success in expanding rice production has produced large surpluses and growing financial and storage pressures. National rice output reached a reported 154 million tonnes in 2025/26, against domestic consumption of roughly 107 million tonnes. Rice subsidies account for more than two-thirds of the federal food-subsidy bill, which reached approximately ₹2.28 trillion in 2025/26. Officials and scientists interviewed by Reuters expressed concern that incentives continue to favour rice despite costs to public finances and other crops.",
+            "The policy dilemma is real: procurement and minimum support prices protect farm incomes and food security, but can also encourage water-intensive cultivation, pressure groundwater and crowd out pulses or oilseeds that India still imports. Export growth has created further tensions with rival producers. Reform cannot simply mean ending support for farmers; it would need to protect livelihoods while changing incentives, storage capacity and crop choices. The competing objectives make this a structural story, not just a record-harvest headline."
+          ],
+          "sources": [
+            {
+              "label": "Reuters investigation · 18 Nov",
+              "url": "https://www.reuters.com/world/how-india-became-rice-powerhouse-why-its-becoming-problem-2026-11-18/"
+            }
+          ]
+        },
+        {
+          "desk": "india",
+          "title": "New surveillance data show antibiotic resistance across a wider range of Indian hospitals",
+          "tag": "Public health · Antibiotic resistance",
+          "body": [
+            "An Indian Council of Medical Research surveillance report for 2025 highlights high resistance to several commonly used antibiotics among bacteria including E. coli and Klebsiella pneumoniae. Reporting by The Indian Express notes that the surveillance now includes data from 34 secondary-care hospitals, revealing serious resistance challenges beyond major tertiary centres. Some hospital-associated infections also show resistance to carbapenems, an important class of powerful antibiotics.",
+            "The larger significance is that ordinary infections can become harder and more expensive to treat when first-choice medicines stop working. Patterns vary by organism, drug, hospital and region: the report does not mean every infection is now untreatable or that a single antibiotic is ineffective everywhere. Improving laboratory diagnosis, prevention, hospital infection control and responsible prescribing are all needed. The findings come from an official surveillance network but are best understood through the reported methods and clinical limitations, not an institutional headline alone."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express · 18 Nov",
+              "url": "https://indianexpress.com/article/explained/explained-health/icmr-antibiotic-resistance-report-2025-common-infections-india-10967863/"
+            },
+            {
+              "label": "The Indian Express overview · 18 Nov",
+              "url": "https://indianexpress.com/article/health-wellness/antibiotics-power-against-infections-icmr-10967644/"
+            }
+          ]
+        },
+        {
+          "desk": "india",
+          "title": "Supreme Court to hear opposition questions about the electoral-roll revision process",
+          "tag": "Elections · Judicial scrutiny",
+          "body": [
+            "A Supreme Court bench has deferred to 9 December consideration of an application by Rahul Gandhi and other opposition leaders seeking permission to put 48 formal questions to the Election Commission about the Special Intensive Revision (SIR) process. The opposition alleges irregularities and insufficient transparency; the Election Commission has challenged aspects of the application. The court has not, by postponing the hearing, accepted the opposition’s allegations or issued a final finding about the exercise.",
+            "The bigger issue is the standard of scrutiny applied to decisions about who appears on electoral rolls. Voter lists need updating, but erroneous exclusions can affect fundamental political participation. The case concerns access to information, review procedures and institutional accountability, distinct from Maharashtra’s separate administrative deadline extension. The December hearing may help clarify what evidence must be disclosed and what procedural safeguards are available."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express · 18 Nov",
+              "url": "https://indianexpress.com/about/supreme-court/"
+            },
+            {
+              "label": "LiveLaw · 17 Nov",
+              "url": "https://www.livelaw.in/top-stories/supreme-court-daily-round-up-november-17-2026-558827"
+            }
+          ]
+        },
+        {
+          "desk": "india",
+          "title": "An investigation finds India’s leading visual-arts institution short of leadership and staff",
+          "tag": "Culture · Institutions",
+          "body": [
+            "A recent ground report by ThePrint describes deep administrative difficulties at the Lalit Kala Akademi, a major national institution supporting the visual arts. The report says its chairperson’s post has been vacant since April, its governing council is no longer functioning and nearly three-fifths of sanctioned staff positions are unfilled. It also describes a history of disputes and audit concerns. The reporting was published on 11 November, but the institutional problems it examines are ongoing.",
+            "The larger question is whether public cultural institutions have the governance capacity to carry out their mandates. Staffing vacancies and unclear decision-making can affect grants, exhibitions, support for artists and public accountability, even when they rarely make national headlines. Allegations from audits and the perspectives of involved officials require careful distinction from proven misconduct. Including this story is a deliberate choice to make room for consequential investigative reporting outside the daily political cycle."
+          ],
+          "sources": [
+            {
+              "label": "ThePrint ground report · 11 Nov",
+              "url": "https://theprint.in/ground-reports/lalit-kala-akademi-headless-since-april-rot-runs-deeper/3095697/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mumbai",
+      "name": "Mumbai & Maharashtra",
+      "stories": [
+        {
+          "desk": "mumbai",
+          "title": "Adani’s Satara pumped-storage project faces wildlife-permission and cost scrutiny",
+          "body": [
+            "Maharashtra’s Forest Department issued a stop-work order at Adani Green Energy’s proposed 1,500 MW Tarali pumped-storage project in Satara district, citing missing wildlife clearance. Separately, an Indian Express investigation found sharply different project-cost figures in regulatory documents: ₹5,675 crore and ₹56.75 crore. Because wildlife-related deposits can depend on project cost, the discrepancy is material. Adani disputes claims that it deliberately reduced costs to avoid obligations and says the figures refer to different scopes.",
+            "Pumped storage can help balance renewable power, but its energy-system usefulness does not resolve local ecological and governance questions. What matters next is clarification of permits, valuation bases, conservation payments and the impact on nearby communities. Allegations and company responses must both be kept visible until the review reaches supported conclusions."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express · reporting",
+              "url": "https://indianexpress.com/article/cities/mumbai/satara-project-maharashtra-forest-minister-meets-adani-officials-10967507/lite/"
+            },
+            {
+              "label": "The Indian Express · documentation",
+              "url": "https://indianexpress.com/article/express-exclusive/explained-adani-green-satara-project-cost-cut-rs-227-crore-10961357/"
+            },
+            {
+              "label": "Adani response in The Indian Express",
+              "url": "https://indianexpress.com/article/express-exclusive/adani-green-energy-calls-express-investigation-report-completely-misleading-10962491/"
+            }
+          ],
+          "tag": "Environment & infrastructure"
+        },
+        {
+          "desk": "mumbai",
+          "title": "Maharashtra announces a sulphur dioxide emissions market for industry",
+          "body": [
+            "Maharashtra has announced India’s first sulphur dioxide emissions-trading scheme, covering 104 facilities across 17 industrial sectors, with trading scheduled to begin on 1 December. The market is designed to set emission limits and allow firms to trade unused allowances. Policymakers have described a goal of cutting covered emissions over time; the outcome is not yet established.",
+            "A tradable-permit system could reduce pollution at lower economic cost if regulators establish a credible cap, accurately measure emissions and enforce compliance. Without those conditions, trading can become accounting rather than environmental improvement. The proper benchmark will be measured air-quality and emissions performance after implementation, not the ceremony announcing the scheme."
+          ],
+          "sources": [
+            {
+              "label": "Hindustan Times · 18 Nov",
+              "url": "https://www.hindustantimes.com/cities/mumbai-news/state-launches-india-s-first-so2-emissions-trading-scheme-101794941394751.html"
+            },
+            {
+              "label": "University of Chicago EPIC · implementation",
+              "url": "https://epic.uchicago.edu/news/a-new-market-builds-momentum-for-emissions-trading-in-india/"
+            }
+          ],
+          "tag": "Pollution"
+        },
+        {
+          "desk": "mumbai",
+          "title": "Maharashtra’s voter-list revision gets an extended timetable",
+          "body": [
+            "The Election Commission has extended the schedule for the Special Intensive Revision of electoral rolls in Maharashtra. Enumeration forms are to be distributed and collected through 30 November, claims and objections handled by 15 December, and the final roll published on 22 December.",
+            "Cleaning voter lists can remove duplicates and outdated entries, but the process also affects the basic right of eligible voters to participate. The quality of notification, time available to correct errors and access to appeals matter as much as the eventual roll count. The additional time may help administration but does not itself settle questions about fairness."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express · 18 Nov",
+              "url": "https://indianexpress.com/article/cities/mumbai/eci-extends-maharashtra-sir-deadline-final-voter-list-10967884/"
+            }
+          ],
+          "tag": "Civic affairs"
+        },
+        {
+          "desk": "mumbai",
+          "title": "Mumbai sees poor air quality and further SpiceJet disruptions",
+          "body": [
+            "Mumbai’s air pollution was elevated at several monitoring stations, with reported AQI readings approaching 286 at Navy Nagar and exceeding 200 at Bandra Kurla Complex, Deonar and Chembur. The figures differ by location and time and should not be reduced to one all-city measurement. Separately, multiple SpiceJet flight cancellations and delays disrupted passengers at the city airport.",
+            "The pollution readings point to a continuing health and urban-management challenge affected by emissions, dust and weather. The aviation disruption raises separate concerns about airline operations and passengers’ access to timely information and remedies. These are two shorter local developments rather than one causal story."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express · city updates",
+              "url": "https://indianexpress.com/article/cities/mumbai/maharashtra-mumbai-news-today-live-updates-november-18-spicejet-maharashtra-sir-air-pollution-10967854/"
+            },
+            {
+              "label": "The Indian Express · aviation",
+              "url": "https://indianexpress.com/article/cities/mumbai/spicejet-flight-cancellations-continue-passengers-stranded-10967754/"
+            }
+          ],
+          "tag": "City update"
+        },
+        {
+          "desk": "mumbai",
+          "title": "Court-appointed panel demands accountable action on construction and road dust",
+          "tag": "Mumbai · Urban air quality",
+          "body": [
+            "The Bombay High Court-appointed High Power Committee has ordered municipal bodies and infrastructure agencies across the Mumbai Metropolitan Region to take time-bound steps to tackle pollution, with responsibility attached to named officials. Its directions address construction and demolition waste, mechanised road cleaning, unpaved highway shoulders and enforcement against visibly polluting vehicles. The panel criticised reliance on paperwork without effective action on pollution sources.",
+            "The bigger picture is that Mumbai’s air-quality problem is an implementation and accountability issue as well as a technical one. Road shoulders and active construction sites can continually reintroduce dust even when streets are swept. The meaningful tests will be measurable reductions at source, independent monitoring and consequences for missed deadlines. The directive is an enforcement intervention, not proof that cleaner air has already been achieved."
+          ],
+          "sources": [
+            {
+              "label": "Free Press Journal · 18 Nov",
+              "url": "https://www.freepressjournal.in/mumbai/mumbai-air-pollution-high-power-committee-orders-time-bound-officer-specific-action-ahead-of-winter"
+            },
+            {
+              "label": "The Indian Express · 12 Nov",
+              "url": "https://indianexpress.com/article/cities/mumbai/road-sweeping-unpaved-highway-mumbai-air-pollution-high-court-panel-10960129/"
+            }
+          ]
+        },
+        {
+          "desk": "mumbai",
+          "title": "BMC’s road-washing proposal raises questions about dust control and water use",
+          "tag": "Mumbai · Civic infrastructure",
+          "body": [
+            "Mumbai’s civic administration has submitted a proposal to hire 213 water tankers for a 150-day road-washing campaign intended to reduce dust. The revised plan bars the use of drinking water, according to Times of India reporting. The proposal was being put before the Standing Committee for approval; it should not be read as an already completed contract or as verified evidence that washing is reducing pollution.",
+            "The bigger issue is how to choose effective air-pollution interventions without creating new resource pressures. Road washing can address resuspended dust but its benefits depend on where and how often it is used, whether construction sources are controlled, and the availability and treatment quality of non-potable water. The scheme deserves evaluation against other measures, such as paving dusty verges and enforcing construction-site controls, rather than merely counting tanker trips."
+          ],
+          "sources": [
+            {
+              "label": "The Times of India · 14 Nov",
+              "url": "https://timesofindia.indiatimes.com/city/mumbai/bmcs-fresh-road-washing-plan-in-mumbai-bars-drinking-water-use-seeks-nod-for-213-tankers/articleshow/135812631.cms"
+            }
+          ],
+          "figures": [
+            [
+              "213",
+              "Proposed tankers"
+            ],
+            [
+              "150 days",
+              "Proposed campaign duration"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "name": "Business & Economy",
+      "stories": [
+        {
+          "desk": "business",
+          "title": "Economists forecast 7.6% Indian GDP growth; it is not yet an official result",
+          "body": [
+            "A Reuters poll of 43 economists estimates that India’s real GDP expanded 7.6% from a year earlier in July–September 2026, after reported growth of 7.8% in April–June. The forecast reflects resilient consumer demand despite inflation and geopolitical pressures. The official release was still pending on the edition date.",
+            "Fast GDP growth can coexist with financial strain for households if wage gains lag prices or borrowing supports consumption. The shape of growth—jobs, wages, sectoral productivity and the distribution of gains—matters as much as the headline rate. The forecast should not be presented as a confirmed statistic."
+          ],
+          "sources": [
+            {
+              "label": "Reuters poll · 18 Nov",
+              "url": "https://www.reuters.com/world/india/indian-economic-growth-seen-annual-76-july-september-quarter-2026-11-18/"
+            }
+          ],
+          "tag": "India economy"
+        },
+        {
+          "desk": "business",
+          "title": "Japan’s economy slips as household spending weakens",
+          "body": [
+            "Preliminary government figures show Japan’s output contracted at an annualised rate of about 0.1% in July–September. Private consumption fell by 0.3% quarter-on-quarter, even while business investment remained positive. Consumer budgets have been pressured by higher prices.",
+            "Japan’s policymakers are trying to respond to inflation without undermining a fragile recovery. Weak household consumption alongside capital investment suggests companies and consumers are experiencing different conditions. A marginal quarterly fall does not prove a sustained recession, and preliminary GDP numbers may be revised."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 16 Nov",
+              "url": "https://www.investing.com/news/economy-news/japans-economy-unexpectedly-shrinks-in-julyseptember-as-consumption-falters-5028233"
+            },
+            {
+              "label": "Associated Press · 16 Nov",
+              "url": "https://apnews.com/article/263988f2ec1894d3bf88522fd12500a6"
+            }
+          ],
+          "tag": "Global economy"
+        },
+        {
+          "desk": "business",
+          "title": "Nvidia’s $115.8bn quarter shows the scale of the AI infrastructure build-out",
+          "body": [
+            "Nvidia reported $115.8 billion in quarterly revenue for the period ended 25 October, up 103% from a year earlier, and forecast a further strong quarter. The report came after Jensen Huang stepped down as chief executive, with interim leadership seeking to reassure investors amid the transition.",
+            "The numbers demonstrate continuing expenditure on AI processors and data-centre infrastructure, which also requires electricity, cooling, networking and capital. They do not establish that every AI application or customer investing in chips will earn adequate long-term returns. The distinction between the profitability of selling AI infrastructure and the benefits from using it remains central."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 17 Nov",
+              "url": "https://www.investing.com/news/stock-market-news/nvidia-forecasts-quarterly-revenue-above-estimates-in-first-report-since-huangs-exit-as-ceo-5034097"
+            },
+            {
+              "label": "Moneycontrol · 18 Nov",
+              "url": "https://www.moneycontrol.com/news/business/earnings/nvidia-doubles-q3-revenue-to-115-8-billion-as-board-shuts-door-on-jensen-huang-comeback-14082937.html"
+            }
+          ],
+          "tag": "Technology markets"
+        },
+        {
+          "desk": "business",
+          "title": "India’s inflation breaches the RBI’s upper tolerance limit",
+          "tag": "India · Inflation",
+          "body": [
+            "India’s consumer-price inflation rose to 6.09% in October from 5.54% in September, breaching the Reserve Bank of India’s 6% upper tolerance limit. Food inflation reached 8.94%, according to the official figures reported by Business Standard. The increase follows pressures from food supplies and earlier energy-price moves; inflation does not imply every product rose by the same amount.",
+            "The bigger picture is a monetary-policy dilemma. India is growing rapidly, yet households experience purchasing-power losses when food and essentials outpace wages. Higher policy rates might help contain broad inflation but also raise borrowing costs for firms and consumers. The next RBI decision is due on 4 December. One month outside the target band does not establish that all price pressures are permanent, but it increases the importance of the next inflation prints and the distinction between food-driven and underlying inflation."
+          ],
+          "sources": [
+            {
+              "label": "Business Standard · 13 Nov",
+              "url": "https://www.business-standard.com/markets/news/nifty-bank-auto-realty-skid-1-as-inflation-stokes-rbi-rate-hike-fears-126111300433_1.html"
+            },
+            {
+              "label": "CRISIL analysis · 13 Nov",
+              "url": "https://intelligence.crisil.com/content/dam/crisil-intelligence/what-we-think/reports/2026/11/breaching-the-band.pdf"
+            }
+          ],
+          "figures": [
+            [
+              "6.09%",
+              "October CPI inflation"
+            ],
+            [
+              "8.94%",
+              "October food inflation"
+            ]
+          ]
+        },
+        {
+          "desk": "business",
+          "title": "India’s unemployment rate edges down, with more women in the workforce",
+          "tag": "India · Labour market",
+          "body": [
+            "India’s monthly Periodic Labour Force Survey recorded a 4.9% unemployment rate in October, down from 5.0% in September. Female labour-force participation rose to 35.0% from 34.6%, and urban unemployment also eased, according to reporting on figures released 16 November. These are survey estimates subject to sampling and definition, not a count of every person seeking work.",
+            "The bigger picture is the quality, security and accessibility of work, not a tenth-of-a-point change by itself. A lower unemployment rate may coexist with low earnings, informal work or underemployment. Higher female participation is encouraging but does not automatically establish progress in pay, hours, workplace safety or career opportunities. The next useful comparisons are urban–rural differences, the types of jobs being created and whether participation gains persist."
+          ],
+          "sources": [
+            {
+              "label": "ThePrint / PTI · 16 Nov",
+              "url": "https://theprint.in/economy/indias-unemployment-rate-eases-to-4-9-pc-in-oct-female-participation-rises/3100102/"
+            },
+            {
+              "label": "Business Standard · 16 Nov",
+              "url": "https://www.business-standard.com/amp/economy/news/india-s-unemployment-rate-eases-to-4-9-in-oct-female-participation-rises-126111601355_1.html"
+            }
+          ],
+          "figures": [
+            [
+              "4.9%",
+              "October unemployment"
+            ],
+            [
+              "35.0%",
+              "Female labour-force participation"
+            ]
+          ]
+        },
+        {
+          "desk": "business",
+          "title": "SEBI considers guardrails as leveraged share purchases grow",
+          "tag": "India · Markets and regulation",
+          "body": [
+            "India’s securities regulator is reviewing the margin trading facility through which investors buy shares using money borrowed from brokers. Reuters reported that margin-funded exposure has risen sharply, with some brokers offering up to four times investors’ capital at interest rates of 9–18%. On 18 November SEBI chair Tuhin Kanta Pandey said no decision had been made on the proposals.",
+            "The concern is that concentrated borrowing can amplify sell-offs: if prices fall, margin calls can force sales, potentially deepening market volatility. Yet restricting leverage can also affect market liquidity and brokers’ business models. A possible safeguard linking positions to shares available for trading is being examined, not implemented. The significant news is regulatory consideration amid growing exposure, not a confirmed ban on margin funding."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 18 Nov",
+              "url": "https://www.reuters.com/world/india/indias-markets-regulator-considering-proposals-strengthen-margin-trading-2026-11-18/"
+            },
+            {
+              "label": "Reuters · 17 Nov",
+              "url": "https://www.reuters.com/legal/government/india-may-limit-leveraged-stock-bets-curb-volatility-sources-say-2026-11-17/"
+            }
+          ]
+        },
+        {
+          "desk": "business",
+          "title": "Foreign investors return to Indian equities in record November inflows",
+          "tag": "India · Capital flows",
+          "body": [
+            "Foreign portfolio investors purchased about $9.53 billion of Indian stocks in November through 16 November, Reuters reported—the highest monthly inflow recorded in its dataset even before the month ended. The move reversed earlier selling and accompanied a strong rally in banking, financial and other domestic shares as oil prices moderated and investors reassessed heavily concentrated global AI holdings.",
+            "The bigger picture is that flows into emerging markets can respond quickly to global interest rates, currency expectations and relative stock-market valuations. Foreign buying can support the rupee and share prices but is not proof that every company has become fundamentally more valuable. A strong monthly inflow can reverse if global risk appetite changes. It is more useful to watch whether domestic earnings and credit conditions justify the re-rating than to interpret a market surge as an economic verdict."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 16 Nov",
+              "url": "https://uk.marketscreener.com/news/record-foreign-inflows-fuel-indian-stocks-november-surge-ce785eded18df123"
+            },
+            {
+              "label": "Reuters · 18 Nov",
+              "url": "https://www.reuters.com/world/india/indian-shares-set-lower-open-foreign-inflows-easing-crude-lend-support-2026-11-18/"
+            }
+          ],
+          "figures": [
+            [
+              "$9.53bn",
+              "Foreign equity inflows by 16 Nov"
+            ],
+            [
+              "~10%",
+              "Major index gains in November by 18 Nov"
+            ]
+          ]
+        },
+        {
+          "desk": "business",
+          "title": "Oil prices retreat despite renewed risks around the Strait of Hormuz",
+          "tag": "World · Energy markets",
+          "body": [
+            "Brent crude fell to around $92 a barrel on the morning of 18 November after industry figures indicated US crude inventories rose 5.28 million barrels in the week to 13 November. Yet tanker attacks and the US–Iran confrontation continued to disrupt traffic around the Strait of Hormuz. Reuters noted that shipping data did not yet support treating regional flows as normal.",
+            "The tension between inventories and disruption helps explain why oil prices can fall even during a dangerous conflict. Physical stocks, expected production and demand affect the market alongside shipping risk. For India, lower international crude prices can ease import costs, but an increase in freight, insurance or disruption could offset some benefits. Reported prices are a timestamped market snapshot, not a closing price or a forecast."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 18 Nov",
+              "url": "https://www.reuters.com/business/energy/oil-prices-fall-higher-us-crude-stocks-temper-supply-risks-2026-11-18/"
+            }
+          ],
+          "figures": [
+            [
+              "$91.99",
+              "Brent futures, ~09:20 GMT"
+            ],
+            [
+              "+5.28m",
+              "US crude barrels in API inventory report"
+            ]
+          ]
+        },
+        {
+          "desk": "business",
+          "title": "Anthropic’s planned IPO becomes a test of AI valuations, not just AI enthusiasm",
+          "tag": "World · Capital markets",
+          "body": [
+            "Anthropic is expected to price its initial public offering on 18 November US time, with its publicly filed range implying a valuation as high as approximately $1.4 trillion. The company’s prospectus also describes a private placement of $26 billion to a group of strategic technology investors at the offering price. As of this edition, the final IPO price and actual first-day market performance had not been established.",
+            "The bigger picture is a debate about how to value fast-growing AI businesses with huge computing commitments. A high public valuation would demonstrate investor appetite, but not prove that long-term revenue will justify the associated infrastructure costs. The IPO also exposes a complicated ecosystem in which chip suppliers, cloud firms and AI developers invest in one another. It is important to distinguish committed capital, revenue forecasts and realised profits rather than treating them as interchangeable."
+          ],
+          "sources": [
+            {
+              "label": "Reuters market report · 18 Nov",
+              "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-11-18/"
+            },
+            {
+              "label": "Anthropic IPO fact sheet · 10 Nov",
+              "url": "https://ipo.anthropic.com/documents/us/factsheet.pdf"
+            },
+            {
+              "label": "Reuters Breakingviews · 10 Nov",
+              "url": "https://www.breakingviews.com/ddb76cfb4026/columns/breaking-view/anthropics-ipo-valuation-has-an-identity-crisis-2026-11-10/"
+            }
+          ]
+        },
+        {
+          "desk": "business",
+          "title": "The ECB warns that France’s debt and hedge-fund leverage could magnify shocks",
+          "tag": "Europe · Financial stability",
+          "body": [
+            "The European Central Bank’s 18 November Financial Stability Review highlighted vulnerabilities in highly indebted governments, including France. Reuters reported French public debt at about 119% of GDP and a projected deficit of 5.5%. The ECB warned that some leveraged hedge-fund positions in bond markets could exacerbate abrupt repricing; only a handful of funds dominate certain interest-rate derivatives markets.",
+            "The bigger picture is how fiscal pressures, higher borrowing costs and non-bank finance interact. Bond markets can encourage governments to address deficits, but sudden selling can also create self-reinforcing instability when leveraged investors unwind positions. The ECB also noted competition for funding from US technology companies financing AI investment. These risks do not mean a sovereign default is imminent, but they merit attention beyond headline equity indexes."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 18 Nov",
+              "url": "https://www.reuters.com/legal/transactional/markets-should-help-discipline-france-over-high-debt-ecb-says-2026-11-18/"
+            },
+            {
+              "label": "ECB Financial Stability Review · Nov 2026",
+              "url": "https://www.ecb.europa.eu/press/financial-stability-publications/fsr/pdf/ecb.fsr202611~e03b919d36.en.pdf"
+            }
+          ],
+          "figures": [
+            [
+              "119%",
+              "French public debt / GDP"
+            ],
+            [
+              "5.5%",
+              "2026 projected deficit / GDP"
+            ]
+          ]
+        },
+        {
+          "desk": "business",
+          "title": "Fairfax sells its IIFL Finance holding as its IDBI Bank deal takes shape",
+          "tag": "India · Banking and acquisitions",
+          "body": [
+            "Canada’s Fairfax Financial sold its 13.64% stake in IIFL Finance through a block transaction worth roughly ₹34.54 billion ($370 million), according to a person with knowledge of the transaction cited by Reuters on 18 November. Reuters linked the planned exit to fundraising for Fairfax’s agreed purchase of a 60% stake in IDBI Bank from government-related sellers, a deal valued at around ₹528.78 billion.",
+            "The broader significance is foreign investment in Indian banking. Rather than building entirely new retail networks, overseas investors are buying established institutions with licenses, deposits and customers. That can bring capital and competition, but also raises questions about governance, integration and the strategic direction of privatised banking assets. The IIFL transaction was attributed to a source; the final use of sale proceeds and implementation details should not be assumed beyond reported plans."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 18 Nov",
+              "url": "https://www.reuters.com/world/india/fairfax-likely-seller-3705-million-iifl-finance-block-deal-cnbc-tv18-reports-2026-11-18/"
+            }
+          ],
+          "figures": [
+            [
+              "₹34.54bn",
+              "Reported IIFL block sale"
+            ],
+            [
+              "60%",
+              "Planned IDBI Bank stake"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "name": "Science & Research",
+      "stories": [
+        {
+          "desk": "science",
+          "title": "Experimental leukaemia vaccine reports a survival benefit in Phase 3",
+          "body": [
+            "SELLAS Life Sciences announced top-line Phase 3 findings for galinpepimut-S (GPS), an experimental therapeutic vaccine for a specific group of patients with acute myeloid leukaemia in remission after recurrent disease. In the trial, median overall survival was reported as 24.0 months with GPS versus 14.7 months with comparison treatment, with a hazard ratio of 0.59 (a 41% relative reduction in the hazard of death).",
+            "Therapeutic cancer vaccines seek to activate immune responses against cancer cells rather than prevent infection. These company-reported results are encouraging for the studied group, not a general cancer cure. Full data review, patient selection, safety assessment and regulatory consideration remain necessary. A relative hazard reduction should not be confused with a 41-percentage-point improvement in survival."
+          ],
+          "sources": [
+            {
+              "label": "SELLAS · filed results",
+              "url": "https://www.sec.gov/Archives/edgar/data/1390478/000110465926128825/tm2629947d1_ex99-1.htm"
+            }
+          ],
+          "tag": "Medicine"
+        },
+        {
+          "desk": "science",
+          "title": "Chandrayaan-3 finds three distinct layers in the Moon’s upper soil",
+          "body": [
+            "Analysis of ChaSTE instrument data from Chandrayaan-3’s Vikram lander indicates three thermal-property layers within roughly the upper 10 centimetres of lunar regolith. The top two to three centimetres appear extremely porous, around 80%, with different conductive properties below.",
+            "These measurements are important for understanding lunar geological history and designing equipment that must interact with or transfer heat through the surface. The inferred layers are based on thermophysical measurements and modelling, not photographs of a cutaway in the ground. Their exact origins remain a research question."
+          ],
+          "sources": [
+            {
+              "label": "npj Space Exploration · primary paper",
+              "url": "https://www.nature.com/articles/s44453-026-00063-8"
+            },
+            {
+              "label": "The Times of India · 18 Nov",
+              "url": "https://timesofindia.indiatimes.com/science/chandrayaan-3-finds-3-distinct-layers-in-moons-soil/articleshow/135940788.cms"
+            }
+          ],
+          "tag": "Space science"
+        },
+        {
+          "desk": "science",
+          "title": "A mantle-convection model offers an explanation for missing geological time",
+          "body": [
+            "A study in Nature explores the Great Unconformity, a widespread gap where young rocks sit directly on far older formations. The researchers model how vast continental regions could rise and subside over geological time as mantle convection reshaped Earth’s surface, affecting erosion and the preservation of rock layers.",
+            "The study connects deep-Earth processes to geological features observed across distant regions. It is a model-supported explanation, not a demonstration that glaciation, rifting or other forces played no role. This research was published earlier in November and earns a place because it addresses a long-standing geological puzzle."
+          ],
+          "sources": [
+            {
+              "label": "Nature · primary paper",
+              "url": "https://www.nature.com/articles/s41586-026-11156-5"
+            },
+            {
+              "label": "University of Wollongong · explanation",
+              "url": "https://www.uow.edu.au/media/2026/earths-geological-record-is-missing-hundreds-of-millions-of-years-uow-scientists-think-they-know-why.php"
+            }
+          ],
+          "tag": "Earth science"
+        },
+        {
+          "desk": "science",
+          "title": "OpenScientist illustrates both the promise and limits of AI-assisted research",
+          "body": [
+            "A Nature Medicine paper introduces OpenScientist, an open agentic AI system that can read literature, formulate hypotheses and execute biomedical analyses. Its authors evaluated it in five specialist biomedical case studies and report substantial acceleration of some analysis workflows.",
+            "The interesting shift is from AI as a writing assistant towards systems that help organise scientific investigation. But a convincing generated hypothesis is not a clinical finding. Independent replication, scrutiny of data handling and experimental validation remain essential, especially when biomedical conclusions could eventually affect care."
+          ],
+          "sources": [
+            {
+              "label": "Nature Medicine · primary paper",
+              "url": "https://www.nature.com/articles/s41591-026-04808-6"
+            }
+          ],
+          "tag": "Biomedical AI"
+        },
+        {
+          "desk": "science",
+          "title": "CRISPR activation restores gene function in laboratory models of autism",
+          "tag": "Neuroscience · Genetic research",
+          "body": [
+            "Research published in Nature Neuroscience on 13 November used enhancer-targeted CRISPR activation to raise expression of two autism-associated genes, CHD8 and SCN2A, in human neuron and cerebral-organoid models with reduced gene activity. The team reported restoration of gene-expression levels and improvement in several mutation-associated cellular phenotypes. The experiments were conducted in laboratory models, not in people receiving treatment.",
+            "The bigger picture is a possible strategy for conditions in which a functional copy of a gene is present but does not produce enough protein. Rather than cutting DNA, the method aims to turn up the existing gene’s activity through regulatory elements. It is scientifically meaningful because it addresses a specific molecular mechanism, but autism is heterogeneous, and gene or organoid changes cannot establish clinical benefit or safety in humans. Delivery, specificity and long-term effects remain major questions."
+          ],
+          "sources": [
+            {
+              "label": "Nature Neuroscience · 13 Nov",
+              "url": "https://www.nature.com/articles/s41593-026-02504-9"
+            },
+            {
+              "label": "PubMed record",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/43026327/"
+            }
+          ]
+        },
+        {
+          "desk": "science",
+          "title": "An in-body CRISPR therapy approaches a regulatory decision",
+          "tag": "Medicine · Gene editing",
+          "body": [
+            "Nature reported on 12 November that a CRISPR-based treatment for hereditary angioedema is approaching a US regulatory decision after follow-up data suggested durable effects years after a single administration. Unlike existing approved CRISPR therapies that require extracting and modifying a patient’s cells, this approach delivers editing machinery directly into the body. The developers’ follow-up data are not the same as an independent long-term safety assessment.",
+            "The bigger picture is the potential expansion of gene editing from specialised cell-processing procedures to medicines administered directly to patients. That might broaden access in some conditions, but it raises safety and monitoring questions because edits made inside the body cannot be individually screened before cells are returned. The product is not yet approved, and potential benefits for one rare genetic disorder do not establish suitability for other diseases."
+          ],
+          "sources": [
+            {
+              "label": "Nature News · 12 Nov",
+              "url": "https://www.nature.com/articles/d41586-026-03705-9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "Technology & AI",
+      "stories": [
+        {
+          "desk": "technology",
+          "title": "Chinese AI developers use outputs from American models for distillation",
+          "body": [
+            "Reuters reviewed more than 300 papers, patents and other documents describing Chinese research and industrial uses of model distillation. The technique uses examples produced by a capable model to train another, potentially smaller system. Its use has moved well beyond purely academic demonstrations.",
+            "Distillation complicates the US–China contest over AI capability, because restrictions on advanced processors do not entirely prevent learning from systems produced elsewhere. But it cannot replace all training infrastructure, and legal or contractual restrictions depend on the specific system and usage. The existence of distillation is not by itself evidence of theft or illicit conduct."
+          ],
+          "sources": [
+            {
+              "label": "Reuters investigation · 17 Nov",
+              "url": "https://www.reuters.com/world/china/china-taps-us-ai-models-train-homegrown-rivals-chip-curbs-bite-2026-11-17/"
+            }
+          ],
+          "tag": "AI competition"
+        },
+        {
+          "desk": "technology",
+          "title": "Microsoft launches task-focused AI models for code and cybersecurity",
+          "body": [
+            "Microsoft announced new AI models at Ignite, including MAI Code 2 Flash and MAI Cyber 2 Flash, promoting performance and cost advantages in coding and defensive cybersecurity tasks. Those comparisons are vendor claims and require outside testing in varied operational conditions.",
+            "The larger trend is towards specialisation: customers may prefer systems optimised for specific tasks rather than use the largest general-purpose model for everything. Price, latency, integration, reliability and safeguards may determine adoption more than a single benchmark. Early performance claims are not the same as established real-world performance."
+          ],
+          "sources": [
+            {
+              "label": "Microsoft AI · product announcement",
+              "url": "https://microsoft.ai/news/microsoft-ignite-2026/"
+            },
+            {
+              "label": "Reuters · 17 Nov",
+              "url": "https://www.investing.com/news/stock-market-news/microsoft-unveils-ai-models-for-coding-cybersecurity-as-it-takes-on-anthropic-openai-5033766"
+            }
+          ],
+          "tag": "AI industry"
+        },
+        {
+          "desk": "technology",
+          "title": "Java security flaws trigger urgent patching advisories",
+          "body": [
+            "US and South Korean security authorities warned organisations about potentially serious flaws in parts of the Java platform and urged installation of vendor updates. Reports describe risks including remote code execution in affected conditions. Exposure depends on specific versions, deployment configurations and how systems handle outside input.",
+            "Critical software systems depend on common libraries and runtimes; a flaw in shared infrastructure can create widespread vulnerability. The correct response is targeted patching, asset inventory and testing—not an assumption that every Java application is affected. Whether particular incidents were caused by these vulnerabilities needs separate evidence."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 18 Nov",
+              "url": "https://www.investing.com/news/stock-market-news/us-south-korea-issue-urgent-advisories-over-flaws-in-java-programming-language-5034710"
+            },
+            {
+              "label": "Yonhap · 18 Nov",
+              "url": "https://m-en.yna.co.kr/view/AEN20261118001700320?section=economy-finance%2Feconomy"
+            }
+          ],
+          "tag": "Cybersecurity"
+        },
+        {
+          "desk": "technology",
+          "title": "US senators warn that AI-enabled cyberattacks are outpacing defences",
+          "tag": "Cybersecurity · AI agents",
+          "body": [
+            "Two US senators warned the White House on 18 November that AI-enabled cyber threats are developing faster than many existing safeguards. The Reuters report describes growing concern about automated systems that can coordinate reconnaissance, exploit vulnerabilities and amplify the speed of attacks. Public claims about particular incidents still need careful attribution, and the danger cannot be assessed from demonstrations alone.",
+            "The bigger picture is a shift in cybersecurity from defending against human-paced campaigns to confronting software that can probe and act more quickly. Automated defensive tools may help, but broader resilience still rests on patching, identity controls, incident response and independent testing. The senators’ warning is a call for government action, not a technical proof that any specific AI system can reliably compromise every defence."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 18 Nov (syndicated)",
+              "url": "https://www.investing.com/news/stock-market-news/us-senators-warn-white-house-that-aienabled-cyber-threats-are-outpacing-defenses-5035364"
+            }
+          ]
+        },
+        {
+          "desk": "technology",
+          "title": "The Fed flags new risks when AI enters trading and financial decision-making",
+          "tag": "AI · Financial infrastructure",
+          "body": [
+            "Federal Reserve Governor Michael Barr warned on 16 November that AI use across finance brings risks involving cybersecurity, market behaviour and consumer protection. A related central-bank report described rising concern about AI-driven vulnerabilities. These warnings do not establish that AI has caused a current banking crisis; they identify areas in which adoption is moving faster than oversight and evidence of reliability.",
+            "The bigger picture is that finance can amplify small errors when many institutions use similar models, data sources or automated strategies. Model failures, opaque decisions and common dependencies could become more consequential than isolated mistakes. At the same time, AI might improve fraud detection or operational efficiency. The policy challenge is to preserve useful adoption while requiring appropriate testing, auditability and human accountability."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 16 Nov",
+              "url": "https://www.reuters.com/world/feds-barr-warns-ai-risks-financial-system-2026-11-16/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "climate",
+      "name": "Climate & Environment",
+      "stories": [
+        {
+          "desk": "climate",
+          "title": "COP31 negotiators remain divided over fossil fuels and finance",
+          "body": [
+            "Climate negotiations in Antalya have entered a contentious stage, with debate over language on the energy transition, finance and responsibilities between wealthier and developing economies. The first draft is not a final agreement; the conference is scheduled to run until 20 November.",
+            "The dispute is partly about distributing the costs of change. Fossil-fuel exporters, fast-growing economies and wealthy industrialised nations face different trade-offs and historical responsibilities. Agreement on high-level climate ambitions is much easier than agreement on who must reduce which emissions, how quickly, and who supplies the money and technology."
+          ],
+          "sources": [
+            {
+              "label": "Le Monde · draft analysis",
+              "url": "https://www.lemonde.fr/en/environment/article/2026/11/17/cop31-s-first-draft-decision-reveals-deep-divisions_6782826_114.html"
+            },
+            {
+              "label": "UNFCCC · COP31",
+              "url": "https://unfccc.int/cop31/about"
+            }
+          ],
+          "tag": "Climate diplomacy"
+        },
+        {
+          "desk": "climate",
+          "title": "A voluntary pledge seeks 35% electrification of final energy use by 2035",
+          "body": [
+            "A group of countries has endorsed a COP31 ambition to raise electricity’s share of global final energy demand from roughly 23% today to 35% in 2035. The agreement is voluntary and does not by itself specify how the extra power should be generated.",
+            "Electrifying vehicles, buildings and some industrial processes can improve efficiency and reduce direct fossil-fuel use. Climate benefits depend on the electricity source, grid capacity and investment in storage and infrastructure. The 35% target is a political ambition, not a prediction of what will happen or proof of low-carbon supply."
+          ],
+          "sources": [
+            {
+              "label": "World Resources Institute · pledge",
+              "url": "https://www.wri.org/news/statement-countries-endorse-35x35-electrification-pledge-cop31"
+            },
+            {
+              "label": "Climate Home News · caveats",
+              "url": "https://www.climatechangenews.com/2026/11/12/cop31s-electrification-pledge-wins-support-with-caveats-on-clean-power-and-finance/"
+            }
+          ],
+          "tag": "Energy transition"
+        },
+        {
+          "desk": "climate",
+          "title": "UNEP warns the adaptation-finance gap remains enormous",
+          "body": [
+            "The UNEP Adaptation Gap Report 2026 estimates that developing countries may need about $305 billion annually for adaptation by 2035. Reported international public adaptation finance from developed to developing countries was $28.2–31.7 billion in 2024. The two numbers refer to different years and should be seen as an indication of scale, not an exact same-year shortfall.",
+            "Adaptation finances measures such as flood protection, heat response, coastal resilience and water security. Many highly exposed economies have limited fiscal capacity and contributed relatively little to historical emissions. Whether support is delivered as grants or loans can matter enormously for indebted countries. These are economic and institutional questions as well as climate questions."
+          ],
+          "sources": [
+            {
+              "label": "UNEP · 2026 report",
+              "url": "https://www.unep.org/en/publications/report/adaptation-gap-report-2026"
+            },
+            {
+              "label": "UN in India · explanation",
+              "url": "https://india.un.org/en/325829-climate-adaptation-finance-remains-far-below-developing-countries%E2%80%99-needs-warns-unep"
+            }
+          ],
+          "tag": "Climate finance"
+        },
+        {
+          "desk": "climate",
+          "title": "A COP31 pledge on AI and climate lacks major US signatories at launch",
+          "body": [
+            "The COP31 presidency and the International Telecommunication Union launched the Antalya AI Pledge to encourage more efficient computing and lower-carbon electricity for AI. Reuters reported that several leading US technology companies were absent from its initial signatory list, while Alibaba was among supporters.",
+            "The important test is not participation in a voluntary statement but measured changes in electricity use, carbon emissions, infrastructure design and reporting quality. Rapid data-centre investment may strain power systems, and energy efficiency gains can be offset by growth in total demand. Not signing is not proof of inaction, and signing is not proof of achieved reductions."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 17 Nov",
+              "url": "https://www.reuters.com/sustainability/cop/cop31-ai-pledge-fails-lure-us-big-tech-2026-11-17/"
+            },
+            {
+              "label": "International Telecommunication Union · pledge",
+              "url": "https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-COP31-Antalya-AI-Pledge.aspx"
+            }
+          ],
+          "tag": "AI & climate"
+        },
+        {
+          "desk": "climate",
+          "title": "Australia faces scrutiny over carbon credits for alleged “phantom forests”",
+          "tag": "Carbon markets · Integrity",
+          "body": [
+            "Researchers have challenged Australian carbon-credit projects that claim gains from forest regrowth in semi-arid areas, arguing that some credited vegetation may not represent the durable forest increases assumed by the programme. The Guardian reported these allegations on 18 November, including concerns about credits potentially used to offset fossil-fuel emissions. The findings are a contested assessment, not a final legal ruling that every implicated credit is invalid.",
+            "The bigger picture is that carbon markets only reduce net atmospheric pollution if the claimed reductions or removals are real, additional, accurately measured and sufficiently durable. A method that overestimates vegetation growth could create paper credits without matching atmospheric benefit. This is closely relevant to marine CDR: the details differ, but both systems must show credible counterfactual baselines and independent verification rather than trusting project claims."
+          ],
+          "sources": [
+            {
+              "label": "The Guardian · 18 Nov",
+              "url": "https://www.theguardian.com/environment/2026/nov/18/phantom-forests-in-australian-arid-outback-used-to-create-carbon-credits-meant-to-offset-emissions-report-claims"
+            }
+          ]
+        },
+        {
+          "desk": "climate",
+          "title": "The land footprint of the clean-energy transition is becoming a governance issue",
+          "tag": "Energy transition · Land and communities",
+          "body": [
+            "A new International Land Coalition and Land Matrix assessment, reported by Mongabay in November, estimates that concessions linked to renewable-energy projects and critical transition minerals span about 328 million hectares worldwide—roughly the area of India. Much of the mapped area consists of projects still in exploration or planning, not completed installations. The report also identifies substantial overlap with land used by Indigenous Peoples and local communities.",
+            "The bigger picture is that decarbonisation reduces the need to burn fossil fuels but does not remove the environmental and social costs of extracting minerals and building energy infrastructure. Project area, actual land disturbance and permanent land conversion are different measures and should not be conflated. Planning therefore needs stronger consent, land-tenure protections and scrutiny of competing land uses, rather than treating every nominally green project as automatically benign."
+          ],
+          "sources": [
+            {
+              "label": "Mongabay · Nov 2026",
+              "url": "https://news.mongabay.com/"
+            },
+            {
+              "label": "Land Matrix / International Land Coalition report",
+              "url": "https://landmatrix.org/"
+            }
+          ],
+          "figures": [
+            [
+              "328m ha",
+              "Mapped concessions; not all built"
+            ]
+          ]
+        },
+        {
+          "desk": "climate",
+          "tag": "Observed temperatures · Copernicus",
+          "title": "Copernicus records the warmest October globally, with 2026 on course for exceptional heat",
+          "body": [
+            "Copernicus Climate Change Service reports that October 2026 was the warmest October in the ERA5 reanalysis record, with a global-average surface air temperature of 15.35°C. That was 0.90°C above the October average for 1991–2020, and an estimated 1.75°C above the 1850–1900 pre-industrial reference. It exceeded the prior October record, set in 2023, by approximately 0.05°C on the ERA5 measure.",
+            "The wider picture is a planet experiencing persistent, exceptional warmth, not just an isolated hot day. The average for November 2025–October 2026 was 1.51°C above the estimated pre-industrial level. Copernicus estimates that January–October 2026 was the second warmest such interval on record and forecasts that the full calendar year is very likely to average above 1.5°C on its dataset. That forecast uses a statistical model for the remaining months and is not a completed year’s measurement.",
+            "These figures are based on ERA5 reanalysis, which integrates observations with a numerical weather model. Comparing its 1.75°C estimate against the pre-industrial baseline is not the same comparison as its 0.90°C anomaly relative to 1991–2020. Nor does one month or one year above 1.5°C automatically establish that the Paris Agreement’s long-term temperature limit has definitively been breached."
+          ],
+          "figures": [
+            [
+              "15.35°C",
+              "Global surface-air temperature, October 2026 (ERA5)"
+            ],
+            [
+              "+0.90°C",
+              "Above the 1991–2020 October average"
+            ]
+          ],
+          "sources": [
+            {
+              "label": "Copernicus C3S · October 2026 bulletin",
+              "url": "https://climate.copernicus.eu/surface-air-temperature-october-2026"
+            },
+            {
+              "label": "Copernicus C3S · 5 Nov summary",
+              "url": "https://climate.copernicus.eu/copernicus-warmest-october-record-2026-virtually-certain-exceed-15degc"
+            }
+          ]
+        },
+        {
+          "desk": "climate",
+          "tag": "Ocean temperatures · NOAA & Copernicus",
+          "title": "Global sea-surface warmth sets another October record across major climate datasets",
+          "body": [
+            "NOAA’s October 2026 climate assessment reports a global ocean-surface temperature anomaly of 1.14°C above its 20th-century reference, its highest monthly departure for any calendar month in the agency’s record. It was the fifth consecutive month to establish a record-high ocean-temperature departure for its respective month. Separately, Copernicus reports that sea-surface temperatures across the extra-polar ocean (60°S–60°N) averaged 20.95°C in October, also an October record in ERA5.",
+            "The bigger picture is the persistence of anomalous ocean warmth, which affects marine ecosystems, weather patterns and the transfer of heat and moisture between ocean and atmosphere. Warm surface waters can intensify some marine heatwaves, change the conditions experienced by fisheries and corals, and interact with El Niño-driven circulation changes. The exact environmental effect depends on region, depth, duration and local ecosystems—not the global average alone.",
+            "The NOAA anomaly and Copernicus temperature should not be plotted as if they are a like-for-like pair: they use different geographical coverage, reference periods and methods. A sea-surface record also does not by itself measure changes in deep-ocean heat content. For marine CDR, regional thermal structure and mixing may influence gas exchange, but these records do not quantify any specific project’s carbon-removal performance."
+          ],
+          "figures": [
+            [
+              "+1.14°C",
+              "NOAA October ocean anomaly vs 20th-century average"
+            ],
+            [
+              "20.95°C",
+              "Copernicus October extra-polar ocean SST (60°S–60°N)"
+            ]
+          ],
+          "sources": [
+            {
+              "label": "NOAA NCEI · October 2026 global assessment",
+              "url": "https://www.ncei.noaa.gov/news/global-climate-202610"
+            },
+            {
+              "label": "Copernicus C3S · October surface/ocean temperatures",
+              "url": "https://climate.copernicus.eu/surface-air-temperature-october-2026"
+            }
+          ]
+        },
+        {
+          "desk": "climate",
+          "tag": "Sea ice · NSIDC & Copernicus",
+          "title": "Antarctic sea ice reaches the second-lowest October extent in satellite records",
+          "body": [
+            "The National Snow and Ice Data Center estimates that Antarctic sea ice averaged 16.34 million km² in October 2026, the second-lowest October in its 48-year satellite record after 2023. Copernicus, using the EUMETSAT OSI SAF data product, independently reports the same ranking with an October average of 16.8 million km², about 9.3% below its 1991–2020 October average. The absolute values differ because the monitoring products and processing methods are not identical.",
+            "Conditions were particularly unusual in the Amundsen–Bellingshausen Sea sector and parts of the Southern Ocean’s Indian Ocean sector. NSIDC notes that weather patterns, including cyclonic activity, may help explain the regional distribution of sea ice. Copernicus reports that the Amundsen–Bellingshausen sector alone registered an October extent around 38% below average in its dataset.",
+            "The broader significance is that low Antarctic ice cover can change the exchange of heat and momentum between sea and atmosphere, affect light conditions and marine habitats, and influence exposure of ocean surfaces to weather. Arctic sea ice behaved differently: NSIDC ranked the Arctic October 2026 extent 12th lowest, at 6.69 million km². It would therefore be inaccurate to claim both poles were at their second-lowest October. A single month also cannot fully resolve the long-term causes of Antarctic variability."
+          ],
+          "figures": [
+            [
+              "2nd lowest",
+              "Antarctic October extent in both reported datasets"
+            ],
+            [
+              "16.34m km²",
+              "NSIDC Antarctic October estimate"
+            ]
+          ],
+          "sources": [
+            {
+              "label": "NSIDC Sea Ice Today · 12 Nov 2026",
+              "url": "https://nsidc.org/sea-ice-today/analyses/arctic-and-antarctic-life-cyclonic"
+            },
+            {
+              "label": "Copernicus C3S · October 2026 sea ice",
+              "url": "https://climate.copernicus.eu/sea-ice-cover-october-2026"
+            }
+          ]
+        },
+        {
+          "desk": "climate",
+          "tag": "Atmospheric composition · NOAA",
+          "title": "NOAA estimates global atmospheric CO₂ near 428 ppm in mid-November",
+          "body": [
+            "NOAA’s Global Monitoring Laboratory estimated the global atmospheric carbon dioxide concentration at approximately 428.30 parts per million for 16 November 2026 in its daily global-trend series, which was updated on 17 November. For comparison, about 280 ppm is commonly used as a representative pre-industrial atmospheric CO₂ level. The new estimate therefore describes a concentration more than 50% higher than that reference.",
+            "The bigger picture is that atmospheric concentration tracks the accumulated balance of emissions and removals, not simply the flow of carbon dioxide released during any one month. Even if growth in annual emissions slows, concentrations can continue to rise so long as net additions to the atmosphere remain positive. A CO₂ value for a given day is not an emissions figure, and it should not be interpreted as proof of any particular country’s recent performance.",
+            "NOAA’s global daily number is an estimate derived from background measurements and smoothed trends across observing stations, not a direct simultaneous measurement of every location on Earth. Short-term and seasonal variability should be considered separately from the long-term upward trend. For CDR, the atmospheric benchmark helps explain the scale of the challenge, but it cannot establish the effect of a small project without project-specific attribution and verification."
+          ],
+          "figures": [
+            [
+              "428.30 ppm",
+              "NOAA estimated global CO₂, 16 November 2026"
+            ],
+            [
+              "~280 ppm",
+              "Representative pre-industrial concentration"
+            ]
+          ],
+          "sources": [
+            {
+              "label": "NOAA GML · estimated global CO₂ trend",
+              "url": "https://gml.noaa.gov/ccgg/trends/gl_trend.html"
+            },
+            {
+              "label": "NOAA GML · atmospheric CO₂ trends",
+              "url": "https://gml.noaa.gov/ccgg/trends/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cdr",
+      "name": "CDR & Marine CDR",
+      "stories": [
+        {
+          "desk": "cdr",
+          "title": "Zooplankton study tests ecological responses to ocean alkalinity enhancement",
+          "body": [
+            "A 54-day Norwegian mesocosm study published in ICES Journal of Marine Science evaluated lime-inspired and silicate-inspired alkalinity treatments, up to a 600 μmol/kg increase in total alkalinity. Its authors reported limited overall changes in several measures of zooplankton and food-web functioning under the tested conditions, alongside some more specific biological responses.",
+            "For mCDR, the lesson is neither that OAE is harmless nor that ecological damage is inevitable. Material chemistry, dosing, dilution, local ecology, nutrients and season can all alter risk. Mesocosm findings cannot settle repeated exposure or large-scale field impacts. The study helps refine the questions that environmental-monitoring plans should test."
+          ],
+          "sources": [
+            {
+              "label": "ICES Journal of Marine Science · 17 Nov",
+              "url": "https://academic.oup.com/icesjms/article/83/11/fsag221/9080769"
+            }
+          ],
+          "tag": "OAE · ecology"
+        },
+        {
+          "desk": "cdr",
+          "title": "Mussel experiments flag discharge risks for direct ocean capture",
+          "body": [
+            "Researchers exposed marine mussels to low-dissolved-inorganic-carbon, high-pH water representative of possible direct ocean carbon capture and storage discharge conditions. Changes in oxygen consumption and spawning responses were reported under some treatments, with recovery observed for some indicators after exposure ended.",
+            "The project-level question is not simply whether mussels survive a short experiment. Sublethal stress, shell-closing behaviour, reproductive effects and repeated exposure could matter near discharge points. This suggests that mixing design, concentration control and ecological monitoring will be important for electrochemical mCDR projects. The experiment does not quantify a net atmospheric tonne removed."
+          ],
+          "sources": [
+            {
+              "label": "ICES Journal of Marine Science · 17 Nov",
+              "url": "https://academic.oup.com/icesjms/article/83/11/fsag224/9080766"
+            }
+          ],
+          "tag": "Direct ocean capture"
+        },
+        {
+          "desk": "cdr",
+          "title": "Wastewater-based OAE shows carbonate-chemistry changes, not verified removal",
+          "body": [
+            "An Environmental Research study examined olivine-assisted alkalinisation of wastewater before mixing it with seawater. Researchers reported a pH increase in the treated effluent and, after mixing, roughly 140 μmol/kg additional seawater alkalinity and a 0.1 pH-unit increase. The experiment also investigated responses in coastal microbial communities.",
+            "Existing wastewater infrastructure could offer a convenient deployment interface, but wastewater chemistry, contaminants and discharge permits create distinct risks. Most importantly, the measured chemistry changes do not establish a net quantity of atmospheric CO₂ uptake. Creditable removal would also require air–sea exchange estimates, leakage and lifecycle accounting, baselines and uncertainty analysis."
+          ],
+          "sources": [
+            {
+              "label": "Environmental Research · 15 Nov",
+              "url": "https://www.sciencedirect.com/science/article/pii/S0013935126020554"
+            },
+            {
+              "label": "PubMed · abstract",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/42777999/"
+            }
+          ],
+          "tag": "Wastewater · OAE"
+        },
+        {
+          "desk": "cdr",
+          "title": "North Sea OAE experiments show why local dose and exposure matter",
+          "body": [
+            "A Communications Earth & Environment study of spring phytoplankton blooms found relatively small effects at lower tested alkalinity changes but delays of about six to nine days at higher doses around or above 900 μmol/kg. The findings depend on the study’s experimental conditions and cannot be converted into one universal regulatory threshold.",
+            "Bloom timing can alter the availability of food and nutrients within marine ecosystems. For project design, the significance is that the same total alkalinity addition can create different exposure patterns depending on mixing, dilution and season. Local discharge limits and MRV protocols need to consider where chemistry changes occur, not only the total amount of material added."
+          ],
+          "sources": [
+            {
+              "label": "Communications Earth & Environment · primary study",
+              "url": "https://www.nature.com/articles/s43247-026-03986-y"
+            }
+          ],
+          "tag": "OAE · thresholds"
+        },
+        {
+          "desk": "cdr",
+          "title": "IMO parties adopt research-assessment frameworks for marine geoengineering",
+          "body": [
+            "At their October meeting, parties to the London Convention and London Protocol adopted frameworks to assess scientific research involving ocean fertilisation, ocean alkalinity enhancement and biomass sinking. The frameworks aim to evaluate whether research proposals may have unacceptable marine impacts.",
+            "This is progress towards consistent research scrutiny, not a blanket licence for commercial deployment or a carbon-crediting standard. Applicable domestic law and international obligations still matter. As field trials grow, developers will need robust project-specific environmental assessments alongside separate methods for demonstrating net durable removal."
+          ],
+          "sources": [
+            {
+              "label": "International Maritime Organization · October announcement",
+              "url": "https://www.imo.org/en/mediacentre/pressbriefings/pages/imo-adopts-marine-geoengineering-frameworks-for-research-activities.aspx"
+            },
+            {
+              "label": "IMO · meeting summary",
+              "url": "https://www.imo.org/en/mediacentre/meetingsummaries/pages/lc48-lp21-meeting-summary.aspx"
+            }
+          ],
+          "tag": "Governance"
+        },
+        {
+          "desk": "cdr",
+          "title": "Desalination co-location gains interest as a possible mCDR pathway",
+          "body": [
+            "Specialist reporting says French marine CDR developer Pronoe is exploring commercial expansion of a demonstration at a Spanish desalination facility, with an ambition to issue its first credits within about a year. This is a reported development plan, not verified delivery of atmospheric removals or issued credits.",
+            "Desalination facilities already process seawater at scale and have intake and discharge infrastructure, which could lower some deployment costs. But brine chemistry, salinity, energy demand, permitting and discharge mixing all complicate environmental assessment. Credible project MRV would need to establish additional atmospheric uptake, permanence and net removals after lifecycle emissions—not infer credits merely from altered seawater chemistry."
+          ],
+          "sources": [
+            {
+              "label": "Carbon Pulse · 16 Nov roundup",
+              "url": "https://carbon-pulse.com/571642/?category=voluntary&site=cpp"
+            }
+          ],
+          "tag": "mCDR · commercial"
+        },
+        {
+          "desk": "cdr",
+          "title": "The durable CDR market shrinks in contracted volume while deliveries grow",
+          "tag": "CDR markets · Contracted vs delivered",
+          "body": [
+            "CDR.fyi reported that purchases of durable carbon dioxide removal totalled 6.5 million tonnes in the first nine months of 2026, a 74% drop from the same period in 2025, largely reflecting much smaller Microsoft commitments after exceptional purchases the previous year. However, reported deliveries rose 13% to 458,000 tonnes. Excluding Microsoft and Frontier, new purchasing volume reached 4.2 million tonnes during the period.",
+            "The important distinction is between contracted tonnes, delivered tonnes and retired credits. Sales signal future financial commitments, while delivery and retirement are nearer evidence of actual execution, though credible permanence and MRV still depend on the applicable methodology. CDR.fyi’s figures describe the broader durable CDR market, dominated by bio-based pathways; they are not specific mCDR volumes. For emerging ocean-removal developers, the gap between buyer interest and verified delivery—and the timing of possible compliance demand—is a central commercial risk."
+          ],
+          "sources": [
+            {
+              "label": "CDR.fyi market update · 16 Nov",
+              "url": "https://www.cdr.fyi/blog/durable-cdr-market-update-carbon-unbound-europe-2026"
+            }
+          ],
+          "figures": [
+            [
+              "6.5m t",
+              "CDR contracted, Q1–Q3 2026"
+            ],
+            [
+              "458k t",
+              "Reported deliveries, Q1–Q3"
+            ]
+          ]
+        },
+        {
+          "desk": "cdr",
+          "title": "A new OAE review argues for locally designed projects, not universal carbon-removal assumptions",
+          "tag": "mCDR · MRV and deployment",
+          "body": [
+            "A perspective in Nature Reviews Earth & Environment published in October argues that ocean alkalinity enhancement should be understood as a collection of locally specific interventions rather than a single uniform ocean-scale technology. The authors highlight the importance of mixing and discharge conditions, sediment chemistry, mineral precipitation, trace metals, nutrient interactions and lifecycle emissions in determining risks and carbon-removal performance.",
+            "For mCDR, the key insight is that adding alkalinity does not guarantee an equivalent amount of additional atmospheric CO₂ uptake. Added alkalinity can alter natural processes, including carbonate dissolution and generation of background alkalinity, complicating additionality. Effective MRV will need local observations, defensible baselines and models that resolve air–sea exchange and uncertainty. This is a peer-reviewed perspective synthesising evidence and proposing an approach, not a newly verified field trial or a blanket approval for OAE deployment."
+          ],
+          "sources": [
+            {
+              "label": "Nature Reviews Earth & Environment · Oct 2026",
+              "url": "https://www.nature.com/articles/s43017-026-00828-5"
+            },
+            {
+              "label": "National Academies mCDR state-of-field update · Sep 2026",
+              "url": "https://www.nationalacademies.org/news/marine-carbon-dioxide-removal-is-advancing-but-questions-remain-about-viability-says-new-digital-report"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
