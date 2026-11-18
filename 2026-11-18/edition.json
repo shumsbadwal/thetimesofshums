@@ -603,6 +603,134 @@
       "stories": [
         {
           "desk": "india",
+          "tag": "Parliament · Representation",
+          "title": "Women’s reservation and delimitation are back on the parliamentary agenda",
+          "body": [
+            "Reporting ahead of Parliament’s expected winter sitting says the BJP-led government is considering another attempt to pass legislation linking implementation of the 33% women’s reservation law with a new delimitation exercise. The package under discussion could expand the Lok Sabha from 543 to as many as 850 seats, with the aim of making women’s reservation effective from the 2029 election. A previous attempt to advance the change failed to secure the constitutionally required majority in April. As of 18 November, a new special sitting remained a possibility reported by political sources, not an announced or completed legislative decision.",
+            "There are two distinct questions here: how quickly to increase women’s representation and how the expansion or redrawing of constituencies would affect each state’s weight in Parliament. Tamil Nadu’s assembly has urged implementation of the quota without enlarging the Lok Sabha, reflecting concern about redistribution of parliamentary influence. The Centre and some allies argue that expanding the House can accommodate new reserved seats and additional representation. Neither a timetable nor a formula should be treated as settled until legislation is introduced, debated and passed.",
+            "A constitutional amendment requires a majority of the total membership and at least two-thirds of members present and voting in each House, so coalition arithmetic and opposition positions matter. The story is as much about federal representation and the shape of India’s legislature as it is about the government’s parliamentary calendar."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express · 13 Nov",
+              "url": "https://indianexpress.com/article/political-pulse/modi-government-special-parliament-session-womens-quota-delimitation-10960897/"
+            },
+            {
+              "label": "The Indian Express · Tamil Nadu position",
+              "url": "https://indianexpress.com/article/cities/chennai/tamil-nadu-assembly-resolution-543-lok-sabha-seats-women-quota-2029-10829929/"
+            }
+          ]
+        },
+        {
+          "desk": "india",
+          "tag": "Uttar Pradesh · 2027 elections",
+          "title": "Congress and Samajwadi Party confront the arithmetic of an Uttar Pradesh alliance",
+          "body": [
+            "The Congress leadership met its Uttar Pradesh organisation in Delhi on 16 November ahead of discussions with the Samajwadi Party over seat sharing for the state’s 2027 assembly election. The Indian Express reported Congress figures looking to contest more than 100 of the 403 seats; SP leader Akhilesh Yadav had referred to a much larger request of 181 seats. These are negotiating positions and descriptions by political figures, not a seat-sharing agreement.",
+            "Both parties participate in the opposition INDIA bloc but have different organisational strengths and ambitions in Uttar Pradesh. Congress wants room to rebuild its local cadre and candidates; the SP must weigh that against constituencies where it believes it has a stronger base. Agreements over candidate selection, campaigning and regional allies may matter as much as the eventual number allocated to each party.",
+            "Congress was also planning a Lucknow event around Constitution Day on 26 November. Announced rallies and negotiations are political preparations rather than an indication of how voters will behave next year. Reporting on the BJP and other parties’ plans will remain equally relevant as they become concrete."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express · 17 Nov",
+              "url": "https://indianexpress.com/article/political-pulse/congress-samajwadi-party-alliance-seat-sharing-talks-uttar-pradesh-election-10965903/"
+            }
+          ]
+        },
+        {
+          "desk": "india",
+          "tag": "Campaign finance · Investigation",
+          "title": "Election spending disclosures illuminate the companies behind political advertising",
+          "body": [
+            "An investigation by Scroll examined Bharatiya Janata Party expenditure filings with the Election Commission for assembly elections in Bihar in 2025 and West Bengal, Kerala and Assam in 2026. The report says a firm trading as CNX Media received about ₹28.5 crore for media advertising, placing it behind Google but ahead of Meta among the prominent recipients identified in the party’s filings. The BJP separately reported approximately ₹530 crore in campaign spending across those elections, according to the investigation.",
+            "The figures offer a view of the commercial infrastructure of an election campaign: media buying, agencies, platforms and intermediaries are not necessarily visible to voters who see the final advertisements. The amounts are derived from declared spending categories; they do not independently prove which messages were seen, their effects on voting, or any legal breach.",
+            "For public scrutiny, the next questions are how contracts are awarded, whether firms’ ownership and services can be traced, and how campaign spending disclosures capture advertising that travels through multiple intermediaries. Examining expenditure across parties and election cycles is necessary before drawing broad conclusions about comparative behaviour."
+          ],
+          "sources": [
+            {
+              "label": "Scroll investigation · 17 Nov",
+              "url": "https://scroll.in/article/1097122/this-entrepreneur-from-small-town-maharashtra-outearned-meta-on-bjps-election-ad-spend"
+            }
+          ]
+        },
+        {
+          "desk": "india",
+          "tag": "Karnataka · Government accountability",
+          "title": "Karnataka’s publicity bill raises questions about the boundary between information and promotion",
+          "body": [
+            "Newslaundry examined Karnataka government advertising and publicity expenditure using legislative replies and records obtained under the Right to Information Act. It reported that the Congress-led state government spent about ₹473.46 crore across the financial years 2023–24, 2024–25 and 2025–26, equivalent to roughly ₹43.24 lakh per day over the period. The report compared this with about ₹331.54 crore spent across the corresponding three financial years of the preceding BJP government, a difference of roughly ₹142 crore.",
+            "Government advertising can have a legitimate public-information function, including awareness of health, education and welfare services. The accountability question is whether spending is proportionate, how media outlets and agencies are selected, and whether publicly funded material primarily informs residents or promotes political personalities. A difference in spending does not, by itself, establish misuse of funds.",
+            "This is also a media-policy story: substantial state advertising can influence the economics of newspapers and broadcasters. The underlying records, procurement criteria and content of the advertisements are better tests than party accusations alone."
+          ],
+          "sources": [
+            {
+              "label": "Newslaundry investigation · 9 Nov",
+              "url": "https://www.newslaundry.com/2026/11/09/karnataka-government-spent-rs-4324-lakh-a-day-on-advertisements-under-congress"
+            },
+            {
+              "label": "The News Minute · republication",
+              "url": "https://www.thenewsminute.com/karnataka/congress-govt-in-karnataka-spent-rs-4324-lakh-a-day-on-advertisements"
+            }
+          ]
+        },
+        {
+          "desk": "india",
+          "tag": "West Bengal · State policy",
+          "title": "West Bengal signals changes to land ceiling and tenancy rules as it seeks investment",
+          "body": [
+            "West Bengal minister Swapan Dasgupta told ThePrint that the state government intends to remove what he described as outdated land-ceiling and tenancy restrictions as part of an effort to encourage investment and industry. This is a statement of policy intention, not evidence that the legal changes have already been enacted or that a final bill has been published.",
+            "Land reform has a long and politically significant history in Bengal, including protections for cultivators and tenants. Supporters of deregulation argue that clearer rules can make it easier to assemble land, attract factories and invest in commercial projects. Critics and affected communities may ask whether the changes protect tenure, compensation and bargaining power, especially for smaller landholders and tenants.",
+            "The decisive questions are what the eventual legal text changes, how existing rights are handled, whether any consultations occur, and what independent evidence emerges about investment and land access. A ministerial announcement alone cannot settle those trade-offs."
+          ],
+          "sources": [
+            {
+              "label": "ThePrint · 18 Nov",
+              "url": "https://theprint.in/india/governance/bengal-will-scrap-archaic-land-ceiling-tenancy-laws-says-minister-swapan-dasgupta-with-eye-on-industry/3101933/"
+            }
+          ]
+        },
+        {
+          "desk": "india",
+          "tag": "Courts · Right to protest",
+          "title": "Supreme Court seeks responses as traders challenge Delhi’s designated protest sites",
+          "body": [
+            "On 18 November the Supreme Court sought responses from Congress, AAP and student organisations after traders’ associations asked that Ramlila Maidan no longer be designated a protest site. The traders argue that prolonged agitations near major commercial areas interfere with their businesses. Earlier proceedings also concerned the status of Jantar Mantar and the availability of alternative venues for demonstrations. Issuing notices is a procedural step; the court has not thereby accepted all the claims or made a final ruling on the venue.",
+            "The dispute involves competing constitutional and public interests. Political groups and citizens need meaningful locations in which to assemble and communicate dissent. Residents, traders and other users of public space also have interests in safety, mobility and uninterrupted livelihoods. Conditions on duration, routes and access are among the questions that such litigation can raise.",
+            "The broader issue is whether protest sites are practical and visible enough to serve democratic participation, while avoiding indefinite exclusion of everyone else. A court process addressing those rights should be reported separately from political claims made by the organisations involved."
+          ],
+          "sources": [
+            {
+              "label": "ThePrint / PTI · 18 Nov",
+              "url": "https://theprint.in/india/sc-seeks-response-from-congress-aap-on-traders-plea-against-protest/3102024/"
+            },
+            {
+              "label": "The Indian Express · legal context",
+              "url": "https://indianexpress.com/article/explained/explained-law/right-to-protest-india-designated-sites-supreme-court-explained-10944999/"
+            }
+          ]
+        },
+        {
+          "desk": "india",
+          "tag": "Punjab · Political representation",
+          "title": "Amritpal Singh’s brief custody parole puts Punjab politics and representation in focus",
+          "body": [
+            "An Amritsar court authorised three hours of custody parole on 21 November for Khadoor Sahib MP Amritpal Singh to attend his grandmother’s cremation in Punjab. The order specifies his presence under custody rather than unrestricted release; he has been held in Assam’s Dibrugarh jail. ThePrint reported that the brief visit is attracting political attention because of his association with Waris Punjab De and the approaching state election.",
+            "The distinction between custody parole and general bail is important. The order addresses participation in a family ritual under stated conditions; it does not resolve the legal proceedings or wider questions surrounding his detention. He remains an elected MP, which also places the debate in the context of how constituents are represented when their parliamentarian is imprisoned.",
+            "Punjab’s AAP government, other state parties and Amritpal’s organisation have different political interests in the situation. A tightly restricted visit may carry symbolic significance, but it is not evidence of any future electoral outcome or a change in his legal status."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express · 18 Nov",
+              "url": "https://indianexpress.com/article/cities/chandigarh/amritpal-singh-parole-punjab-visit-grandmothers-cremation-10967461/"
+            },
+            {
+              "label": "ThePrint political report · 18 Nov",
+              "url": "https://theprint.in/politics/amritpals-3-hour-homecoming-poses-a-test-for-his-waris-punjab-de-and-a-challenge-for-aap-govt/3101774/"
+            }
+          ]
+        },
+        {
+          "desk": "india",
           "title": "Quad leaders agree new maritime, AI and business initiatives",
           "body": [
             "The leaders of India, the US, Japan and Australia met in Manila on 17 November. Their joint announcements included maritime surveillance cooperation, new technology initiatives and a Quad Business Leaders’ Forum planned for Mumbai in 2027. Some projects are still at the planning stage and will require implementation beyond the summit.",
