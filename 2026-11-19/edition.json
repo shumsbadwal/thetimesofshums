@@ -1,0 +1,532 @@
+{
+  "date": "2026-11-19",
+  "name": "The Times of Shums",
+  "cutoff": "2026-11-19 10:45 IST",
+  "desks": [
+    {
+      "id": "world",
+      "name": "World",
+      "stories": [
+        {
+          "desk": "world",
+          "title": "Shenzhen summit tests the limits of three-power diplomacy",
+          "body": [
+            "Xi Jinping and Vladimir Putin criticised protectionism and sanctions ahead of expected talks with Donald Trump in Shenzhen. Ukraine, Iran, trade, AI and nuclear weapons are on the proposed agenda. The meeting was still prospective at this edition cutoff: no agreement or verifiable concession can be inferred from the gathering.",
+            "The participants have conflicting strategic interests, and governments affected by their decisions are not all at the table. The significance will lie in documented commitments and implementation rather than summit imagery."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "SUMMIT · original reporting / data",
+              "url": "https://indianexpress.com/article/world/apec-summit-shenzhen-xi-jinping-putin-trump-trilateral-meeting-trade-sanctions-10968448/"
+            }
+          ]
+        },
+        {
+          "desk": "world",
+          "title": "Myanmar genocide case approaches a consequential ICJ ruling",
+          "body": [
+            "Reuters reports that the International Court of Justice is due to rule on whether Myanmar's 2017 military campaign against the Rohingya constituted genocide. This is a scheduled judgment, not a decision already delivered.",
+            "The court's reasoning may matter for how state responsibility under the Genocide Convention is assessed in other conflicts. The outcome must be reported only after publication of the judgment."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "MYANMAR · original reporting / data",
+              "url": "https://www.devdiscourse.com/article/international/4008675-reuters-world-news-summary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uk",
+      "name": "United Kingdom",
+      "stories": [
+        {
+          "desk": "uk",
+          "title": "Inflation reaches 3.6% as Bank of England weighs another increase",
+          "body": [
+            "UK annual consumer-price inflation rose from 3.5% in September to 3.6% in October, according to the Office for National Statistics as reported by AP and Reuters. Energy costs are an important driver; the Bank of England has recently raised its policy rate to 4%.",
+            "The inflation figure is a released observation, while a further December rate increase remains a market expectation rather than a decision. Higher borrowing costs and energy bills sharpen the political trade-off between controlling inflation and protecting household incomes."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "UK · original reporting / data",
+              "url": "https://apnews.com/article/fe3a7091affaa7a5a850e30581be9c93"
+            }
+          ]
+        },
+        {
+          "desk": "uk",
+          "title": "British authorities transfer detained US soldier to American custody",
+          "body": [
+            "Reuters reported that UK authorities transferred a serving US Army officer arrested near Gloucester on 10 November in a national-security investigation to US military custody.",
+            "An investigation and custody transfer do not establish guilt. The cross-border handling illustrates how allied security and criminal procedures can overlap."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "MYANMAR · original reporting / data",
+              "url": "https://www.devdiscourse.com/article/international/4008675-reuters-world-news-summary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "us",
+      "name": "United States",
+      "stories": [
+        {
+          "desk": "us",
+          "title": "Incoming House oversight leadership prepares investigations",
+          "body": [
+            "Reuters reported that senior House Democrats were preparing inquiries involving Trump-family interests and Epstein-related records. Hakeem Jeffries was also nominated by Democrats for the next House speakership.",
+            "Preservation requests and political plans are not findings of wrongdoing, and a party nomination is not equivalent to election as speaker. The incoming Congress may substantially change scrutiny of the executive branch."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "US · original reporting / data",
+              "url": "https://new.streetinsider.com/Reuters?before_id=27368898"
+            }
+          ]
+        },
+        {
+          "desk": "us",
+          "title": "Federal Reserve minutes sharpen rate-hike expectations",
+          "body": [
+            "Minutes from the Fed's October meeting indicated concern about persistent inflation and possible further tightening, according to Reuters' market report. Rates had been held steady at that meeting.",
+            "Minutes describe policymakers' discussion, not a binding future vote. Bond yields, dollar strength and global financing conditions are sensitive to how investors revise the expected path of rates."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "MARKET · original reporting / data",
+              "url": "https://uk.marketscreener.com/news/indian-shares-set-to-open-lower-as-hawkish-fed-minutes-weigh-ce785eddde8bfe27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "south-asia",
+      "name": "South Asia",
+      "stories": [
+        {
+          "desk": "south-asia",
+          "title": "Bangladesh faces renewed political violence and garment-sector labour unrest",
+          "body": [
+            "Reports dated 18 November describe bomb blasts and arson ahead of Sheikh Hasina's planned return, alongside clashes involving garment workers and police over wage demands. Individual incident and casualty claims require independent confirmation.",
+            "The overlap of political security and labour unrest matters in an export-dependent industry where wages, factory continuity and workers' rights are tightly connected. Reporting should distinguish workers' demands, employer positions and official security claims."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "BANG · original reporting / data",
+              "url": "https://timesofindia.indiatimes.com/world/south-asia"
+            }
+          ]
+        },
+        {
+          "desk": "south-asia",
+          "title": "Nepal's prime minister prepares a shortened India visit",
+          "body": [
+            "Regional reporting says Nepal's Prime Minister Balendra Shah plans a November visit to India, with connectivity and trade on the agenda, and may shorten the trip. These are reported plans, not completed negotiations.",
+            "Cross-border power, transport and trade arrangements are important for Nepal's economic development. Specific agreements should be recorded only once both sides confirm them."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "BANG · original reporting / data",
+              "url": "https://timesofindia.indiatimes.com/world/south-asia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "india",
+      "name": "India",
+      "stories": [
+        {
+          "desk": "india",
+          "title": "Election Commission outlines recourse for voters excluded from revised rolls",
+          "body": [
+            "The Election Commission told the Supreme Court that voters left out during special intensive revision can submit enumeration forms, and that booth-level lists of deleted electors with probable reasons will be displayed again.",
+            "The dispute concerns both accuracy and the risk of wrongful exclusion. The Commission's assurances describe procedures; their effectiveness depends on implementation and access to remedies."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "SIR · original reporting / data",
+              "url": "https://indianexpress.com/article/legal-news/eci-tells-supreme-court-left-out-voters-sir-states-submit-enumeration-forms-10963864/"
+            }
+          ]
+        },
+        {
+          "desk": "india",
+          "title": "Karnataka and election commission seek civic polls using existing rolls",
+          "body": [
+            "Karnataka and the State Election Commission have asked the Supreme Court to permit Bengaluru civic elections using older electoral rolls, according to The Indian Express.",
+            "This is a request to the court, not a final judicial ruling. It reflects tension between timely local representation and the integrity of updated voter registers."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "BLR · original reporting / data",
+              "url": "https://indianexpress.com/article/legal-news/allow-bengaluru-civic-polls-on-old-rolls-karnataka-state-election-commission-to-supreme-court-10968962/"
+            }
+          ]
+        },
+        {
+          "desk": "india",
+          "title": "Rahul Gandhi and BJP exchange claims over democracy and the economy",
+          "body": [
+            "At Columbia University, Rahul Gandhi criticised India's economic direction and alleged electoral malpractice; BJP leaders disputed his remarks, according to The Indian Express political reporting.",
+            "Political allegations require evidence and independent scrutiny. Neither a politician's assertion nor a rival party's denial resolves contested facts."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "POLITICS · original reporting / data",
+              "url": "https://indianexpress.com/print/politics/"
+            }
+          ]
+        },
+        {
+          "desk": "india",
+          "title": "Kerala school quiz cancellation sparks dispute between Left and BJP",
+          "body": [
+            "The Kerala education department withdrew approval for a quiz organised by a group reported to have Sangh links; BJP figures criticised the decision, while the Left faced criticism over the initial sanction.",
+            "The case raises questions about ideological neutrality and oversight in public education. The cancellation is a reported administrative action; claims about motivation remain contested."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "POLITICS · original reporting / data",
+              "url": "https://indianexpress.com/print/politics/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mumbai",
+      "name": "Mumbai & Maharashtra",
+      "stories": [
+        {
+          "desk": "mumbai",
+          "title": "Bombay High Court challenges VIP-only civic clean-up",
+          "body": [
+            "A Bombay High Court bench criticised Mumbai's rapid beautification around Ballard Estate for visiting dignitaries while garbage problems persist in other neighbourhoods. The observations arose in proceedings about civic conditions.",
+            "The judicial remarks highlight a measurable public-service question: whether regular sanitation standards reach ordinary neighbourhoods, rather than improving only for high-profile events. Oral observations should not be confused with a final binding order."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "MUMBAI · original reporting / data",
+              "url": "https://timesofindia.indiatimes.com/city/mumbai/bombay-high-court-questions-bmcs-temporary-show-of-cleaning-up-for-citys-royal-guests-at-lightning-speed-while-not-addressing-issue-of-garbage-heaps/articleshow/135966702.cms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "entertainment-global",
+      "name": "Entertainment and Pop Culture - Global",
+      "stories": [
+        {
+          "desk": "entertainment-global",
+          "title": "Grand Theft Auto VI begins worldwide rollout",
+          "body": [
+            "Rockstar's long-awaited GTA VI began rolling out on 18 November, with Indian availability reported from midnight on the 19th. A reported $1.5 billion in pre-orders was attributed to market intelligence estimates, not independently audited publisher receipts.",
+            "The launch is a significant test of gaming's position within global entertainment. Pre-orders, booked revenue, downloads and actual play are different measures and should not be conflated."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "GTA · original reporting / data",
+              "url": "https://www.hindustantimes.com/india-news/ht-morning-news-brief-nov-19-trump-xi-putin-trilateral-apec-summit-cyclone-akvan-approaches-gta-6-out-india-new-zealand-test-top-news-101795058102458.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "entertainment-india",
+      "name": "Entertainment and Pop Culture - India",
+      "stories": [
+        {
+          "desk": "entertainment-india",
+          "title": "Indian streaming slate includes Dhindora's second season",
+          "body": [
+            "The Indian Express' weekly OTT guide lists Dhindora season two among new streaming offerings, alongside international titles. Release guides establish scheduling but do not measure audiences.",
+            "For Indian streaming, a title's platform availability and language footprint are distinct from its commercial performance. Regional-language catalogues deserve the same scrutiny as Hindi releases."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "OTT · original reporting / data",
+              "url": "https://indianexpress.com/article/entertainment/web-series/ott-releases-this-week-nicolas-cage-christian-bale-starrer-madden-dhindora-s2-and-more-10969259/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "stories": [
+        {
+          "desk": "sports",
+          "title": "India begin Wellington Test with four early New Zealand wickets",
+          "body": [
+            "The BCCI match centre showed New Zealand at 60 for four at lunch on the opening day of the first Test in Wellington, with India yet to bat at that checkpoint.",
+            "This is an in-progress score, not a match result. The first-session collapse gave India an early advantage, but a Test's outcome depends on subsequent innings and conditions."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "CRICKET · original reporting / data",
+              "url": "https://www.bcci.tv/matches/242118/new-zealand-vs-india"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "business-global",
+      "name": "Business and Finance - Global",
+      "stories": [
+        {
+          "desk": "business-global",
+          "title": "Anthropic prices record-setting $81.3 billion IPO",
+          "body": [
+            "Reuters reports that Anthropic priced 980 million shares at $83, valuing the AI company at about $1.5 trillion on a fully diluted basis. The $81.3 billion public offering is distinct from a separately reported $26 billion private placement.",
+            "The flotation tests investor confidence in AI revenue growth despite immense computing commitments and operating losses. An IPO valuation is not proof of durable earnings or subsequent market performance."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "IPO · original reporting / data",
+              "url": "https://www.reuters.com/legal/transactional/anthropic-prices-blockbuster-ipo-83-share-source-says-2026-11-18/"
+            }
+          ]
+        },
+        {
+          "desk": "business-global",
+          "title": "UK energy-driven inflation complicates the global rates outlook",
+          "body": [
+            "UK inflation's October increase to 3.6% adds to evidence that energy disruption can reach consumer prices even when broader demand weakens.",
+            "A higher CPI reading does not mechanically determine the next Bank of England decision. Investors must separate observed inflation, central-bank forecasts and market-implied rate probabilities."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "UK · original reporting / data",
+              "url": "https://apnews.com/article/fe3a7091affaa7a5a850e30581be9c93"
+            }
+          ]
+        },
+        {
+          "desk": "business-global",
+          "title": "Global investors reassess US monetary tightening",
+          "body": [
+            "Reuters reports that hawkish Federal Reserve minutes weighed on Asian market sentiment and supported caution toward equities and currencies.",
+            "The immediate market response is not a durable trend. The transmission runs through borrowing costs, exchange rates and capital flows, with differing effects across countries."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "MARKET · original reporting / data",
+              "url": "https://uk.marketscreener.com/news/indian-shares-set-to-open-lower-as-hawkish-fed-minutes-weigh-ce785eddde8bfe27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "business-india",
+      "name": "Business and Finance - India",
+      "stories": [
+        {
+          "desk": "business-india",
+          "title": "Economists forecast 7.6% Indian growth in July–September",
+          "body": [
+            "A Reuters poll of 43 economists projected year-on-year GDP growth of 7.6% in the July–September quarter, with estimates spanning 6.6% to 8.2%. The previous quarter recorded 7.8%.",
+            "This is a survey forecast, not the official GDP release. Analysts cited consumption, credit and government capital spending while noting agricultural weakness and inflation risks."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "INDIAECO · original reporting / data",
+              "url": "https://www.reuters.com/world/india/indian-economic-growth-seen-annual-76-july-september-quarter-2026-11-18/"
+            }
+          ]
+        },
+        {
+          "desk": "business-india",
+          "title": "Indian shares face a cautious opening after Fed minutes",
+          "body": [
+            "Reuters reported GIFT Nifty at 25,161.5 around 7:47 a.m. IST on 19 November, compared with the Nifty 50's previous close of 25,227.95.",
+            "Futures indicate expectations before the cash-market open, not a confirmed closing outcome. US rates, oil prices and foreign flows remain relevant but can pull markets in different directions."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "MARKET · original reporting / data",
+              "url": "https://uk.marketscreener.com/news/indian-shares-set-to-open-lower-as-hawkish-fed-minutes-weigh-ce785eddde8bfe27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "name": "Science & Research",
+      "stories": [
+        {
+          "desk": "science",
+          "title": "Homo erectus rainforest adaptation enters the research spotlight",
+          "body": [
+            "Reuters' 18 November science reporting describes evidence that archaic humans inhabited rainforest environments in China. The report challenges overly narrow assumptions about the habitats exploited by early humans.",
+            "The underlying study, archaeological dating and alternative interpretations require closer inspection before specific claims about technological behaviour or chronology are presented as established."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "SCIENCE · original reporting / data",
+              "url": "https://new.streetinsider.com/Reuters?before_id=27368898"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "Technology & AI",
+      "stories": [
+        {
+          "desk": "technology",
+          "title": "PlayStation Network restored following disruption near GTA VI launch",
+          "body": [
+            "The Indian Express reports that Sony's PlayStation Network was restored after a brief outage ahead of GTA VI's release.",
+            "A temporary outage does not establish its cause or a coordinated attack. High-demand releases create operational pressure, but platform telemetry is needed to attribute failures."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "PSN · original reporting / data",
+              "url": "https://indianexpress.com/article/technology/tech-news-technology/sony-playstation-network-restored-brief-outage-gta-6-launch-10969237/"
+            }
+          ]
+        },
+        {
+          "desk": "technology",
+          "title": "AI infrastructure costs loom over Anthropic's market debut",
+          "body": [
+            "Reuters' IPO coverage describes Anthropic's heavy infrastructure spending and large future computing commitments even as its annualised revenue run rate expanded.",
+            "Revenue run rate is not audited full-year revenue, and contracted computing capacity is not equivalent to delivered infrastructure. Investors face substantial execution and concentration risks."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "IPO · original reporting / data",
+              "url": "https://www.reuters.com/legal/transactional/anthropic-prices-blockbuster-ipo-83-share-source-says-2026-11-18/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "climate",
+      "name": "Climate & Environment",
+      "stories": [
+        {
+          "desk": "climate",
+          "title": "NOAA records extraordinary October global and ocean warmth",
+          "body": [
+            "NOAA NCEI reports October 2026 global surface temperature at +1.43°C relative to its 20th-century October average, the largest monthly anomaly in its 1850–2026 record. Global ocean surface temperature was +1.14°C above its reference average, also an all-month anomaly record.",
+            "These are global monthly estimates, not a local weather reading. NOAA's dataset and baseline differ from ERA5; ocean heat content and surface sea temperature are also different variables."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "NOAA · original reporting / data",
+              "url": "https://www.ncei.noaa.gov/news/global-climate-202610"
+            }
+          ]
+        },
+        {
+          "desk": "climate",
+          "title": "Copernicus measures warmest October and forecasts annual 1.5°C exceedance",
+          "body": [
+            "Copernicus ERA5 estimates October's global mean surface air temperature at 15.35°C, +0.90°C versus 1991–2020 and +1.75°C versus 1850–1900. Its statistical model puts 2026's annual anomaly around 1.56–1.61°C above pre-industrial levels.",
+            "The October figures are reanalysis estimates; the annual range is a forecast using observations through October. One calendar year above 1.5°C is not the Paris Agreement's long-term threshold."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "C3S · original reporting / data",
+              "url": "https://climate.copernicus.eu/copernicus-warmest-october-record-2026-virtually-certain-exceed-15degc"
+            }
+          ]
+        },
+        {
+          "desk": "climate",
+          "title": "WMO expects strong El Niño and positive Indian Ocean Dipole",
+          "body": [
+            "The WMO's October seasonal update projected a strong Niño 3.4 anomaly near +3.7°C for October–December and a positive Indian Ocean Dipole seasonal mean around +0.5°C.",
+            "These are ensemble forecasts, not observed final seasonal values. Their relevance to South Asian rainfall and marine conditions depends on regional atmospheric response and forecast uncertainty."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "WMO · original reporting / data",
+              "url": "https://wmo.int/resources/publication-series/global-seasonal-climate-updates/gscu-ond2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cdr",
+      "name": "CDR & Marine CDR",
+      "stories": [
+        {
+          "desk": "cdr",
+          "title": "Norwegian mesocosm study tests OAE impacts on zooplankton",
+          "body": [
+            "A peer-reviewed ICES Journal of Marine Science paper published 17 November tested lime- and silicate-inspired ocean alkalinity enhancement in ten Norwegian fjord mesocosms, spanning additions up to 600 µmol/kg and pH around 8.1–8.7.",
+            "The 54-day experiment reported limited OAE effects on overall food-web dynamics, while zooplankton biomass declined across experimental phases. This is a constrained ecological experiment, not evidence of independently verified atmospheric CO2 removal or full-scale deployment safety."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "CDR · original reporting / data",
+              "url": "https://academic.oup.com/icesjms/article/83/11/fsag221/9080769?searchresult=1"
+            }
+          ]
+        },
+        {
+          "desk": "cdr",
+          "title": "Marine removal crediting must distinguish chemical potential from delivered tonnes",
+          "body": [
+            "The OAE study evaluates biological responses to chemical manipulation; it does not establish net atmospheric CO2 uptake, permanent storage, project MRV or credit issuance.",
+            "Any commercial claim needs baseline chemistry, measured alkalinity, air–sea equilibration, lifecycle emissions, leakage and ecological monitoring. Planned, modelled, contracted, delivered and independently verified removals are separate accounting states."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "CDR · original reporting / data",
+              "url": "https://academic.oup.com/icesjms/article/83/11/fsag221/9080769?searchresult=1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
