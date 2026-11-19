@@ -285,6 +285,21 @@
             }
           ],
           "tag": "Reporting"
+        },
+        {
+          "desk": "india",
+          "title": "Parliament's winter sitting remains unscheduled as delimitation debate intensifies",
+          "body": [
+            "Reporting indicates that the government may convene Parliament in early December, but no formal timetable had been announced as of 17 November. Opposition leaders said they had received no notification. A delimitation-linked constitutional amendment associated with women's representation is among the government's reported priorities.",
+            "A planned sitting is not a formally summoned session, and a proposed constitutional amendment is not enacted law. The measure's required supermajority and competing regional representation concerns make parliamentary scrutiny especially consequential."
+          ],
+          "sources": [
+            {
+              "label": "Original reporting / agency data",
+              "url": "https://www.hindustantimes.com/india-news/government-may-call-parliament-winter-session-in-early-december-101794792400358-amp.html"
+            }
+          ],
+          "tag": "Reporting"
         }
       ]
     },
@@ -450,6 +465,21 @@
             }
           ],
           "tag": "Reporting"
+        },
+        {
+          "desk": "business-global",
+          "title": "Oil near $92 Brent as supply concerns compete with shipping attacks",
+          "body": [
+            "Reuters reported Brent futures around $92 per barrel early on 19 November. US crude inventories increased by 3.4 million barrels to 417.8 million in the week ended 13 November, while attacks around Gulf shipping routes continued to raise supply concerns.",
+            "This is an intraday quote, not a settlement price. Inventory builds and expectations of surplus can pressure prices, while physical disruption can sustain a geopolitical risk premium; combatant claims about attacks remain subject to verification."
+          ],
+          "sources": [
+            {
+              "label": "Original reporting / agency data",
+              "url": "https://www.reuters.com/business/energy/oil-prices-steady-supply-surplus-softens-sentiment-though-gulf-war-supports-2026-11-19/"
+            }
+          ],
+          "tag": "Reporting"
         }
       ]
     },
@@ -497,6 +527,21 @@
           "sources": [
             {
               "label": "Reuters · 18 Nov",
+              "url": "https://www.reuters.com/world/india/indias-markets-regulator-considering-proposals-strengthen-margin-trading-2026-11-18/"
+            }
+          ],
+          "tag": "Reporting"
+        },
+        {
+          "desk": "business-india",
+          "title": "SEBI considers new safeguards for margin trading",
+          "body": [
+            "SEBI chair Tuhin Kanta Pandey said the regulator was considering stronger protections for broker-financed share purchases, including possible concentration limits tied to stocks' free float. Reuters reported that no decision had been taken.",
+            "Margin financing can amplify both rallies and forced selling. The proposals are under consideration, not implemented rules, and should be assessed for their effects on liquidity and investor protection."
+          ],
+          "sources": [
+            {
+              "label": "Original reporting / agency data",
               "url": "https://www.reuters.com/world/india/indias-markets-regulator-considering-proposals-strengthen-margin-trading-2026-11-18/"
             }
           ],
@@ -620,6 +665,21 @@
           "sources": [
             {
               "label": "NOAA NCEI · 12 Nov",
+              "url": "https://www.ncei.noaa.gov/news/global-climate-202610"
+            }
+          ],
+          "tag": "Reporting"
+        },
+        {
+          "desk": "climate",
+          "title": "Antarctic sea ice ranks second-lowest for October in NOAA's record",
+          "body": [
+            "NOAA NCEI reports October 2026 Antarctic sea-ice extent was 730,000 square miles below its 1991–2020 average, the second-lowest October extent in the 48-year record. Combined global sea ice ranked third-lowest.",
+            "Satellite-derived sea-ice extent measures surface coverage rather than thickness or volume. The monthly ranking is a meaningful observation but should not be interpreted as a single-event attribution study."
+          ],
+          "sources": [
+            {
+              "label": "Original reporting / agency data",
               "url": "https://www.ncei.noaa.gov/news/global-climate-202610"
             }
           ],
