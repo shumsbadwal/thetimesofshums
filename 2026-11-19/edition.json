@@ -51,6 +51,21 @@
             }
           ],
           "tag": "Reporting"
+        },
+        {
+          "desk": "world",
+          "title": "EU proposes €45 billion Ukraine loan tied to eventual Russian reparations",
+          "body": [
+            "European officials have proposed a €45 billion loan for Ukraine, with repayment envisaged after Russia pays reparations. The proposal illustrates how European capitals are seeking to sustain Kyiv's financing while the war and diplomatic negotiations continue.",
+            "A proposal is not an approved disbursement, and a reparations-linked repayment structure depends on legal and political conditions that have not been fulfilled."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "Reporting · 18–19 Nov",
+              "url": "https://www.jagranjosh.com/news/school-assembly-news-headlines-november-19-2026-top-national-world-education-business-news-189112"
+            }
+          ]
         }
       ]
     },
@@ -102,6 +117,21 @@
             }
           ],
           "tag": "Reporting"
+        },
+        {
+          "desk": "uk",
+          "title": "Scotch whisky tariff dispute tests the new UK–India trade agreement",
+          "body": [
+            "The British government said ministers were urgently working with India after Reuters reported an effective 162.5% duty on some bulk Scotch whisky imports. The July trade agreement had reduced the agreed tariff on Scotch to 75%, but Indian customs investigators allege incorrect classifications by some importers.",
+            "The dispute concerns the practical application of a negotiated tariff concession, not necessarily a formal withdrawal of the trade pact. Exporters' commercial impact depends on how customs classifications and assessments are resolved."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "Reporting · 18–19 Nov",
+              "url": "https://www.reuters.com/world/uk/uk-says-ministers-urgently-working-with-india-tariff-dispute-scotch-whisky-2026-11-18/"
+            }
+          ]
         }
       ]
     },
@@ -300,6 +330,21 @@
             }
           ],
           "tag": "Reporting"
+        },
+        {
+          "desk": "india",
+          "title": "Cyclone Akvan approaches the Andhra Pradesh–Odisha coast",
+          "body": [
+            "The India Meteorological Department said severe cyclonic storm Akvan was moving north in the Bay of Bengal late on 18 November and forecast landfall near the Andhra Pradesh–Odisha coast on 20 November. Rail authorities were reviewing preparedness as coastal districts faced the prospect of strong winds and heavy rain.",
+            "Landfall position, intensity and timing remain forecasts, not completed events. Coastal residents and operators should rely on the latest IMD and local disaster-management bulletins rather than an edition's fixed-time snapshot."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "Reporting · 18–19 Nov",
+              "url": "https://www.hindustantimes.com/india-news/ht-morning-news-brief-nov-19-trump-xi-putin-trilateral-apec-summit-cyclone-akvan-approaches-gta-6-out-india-new-zealand-test-top-news-101795058102458.html"
+            }
+          ]
         }
       ]
     },
@@ -399,6 +444,21 @@
             }
           ],
           "tag": "Reporting"
+        },
+        {
+          "desk": "sports",
+          "title": "Women's Asian Champions Trophy begins in Bhopal",
+          "body": [
+            "The 2026 Women's Asian Champions Trophy hockey tournament is scheduled to open in Bhopal on 19 November, bringing together India, China, Japan, South Korea, Malaysia and Thailand. India's opening fixture is scheduled against Malaysia.",
+            "This is a tournament preview, not a match result. The six-team event offers a regional test of squad depth and preparation, with results to be reported only after play."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "Reporting · 18–19 Nov",
+              "url": "https://english.dainikjagranmpcg.com/international/november-19-2026-events-international-days-sports-summits/article-44907"
+            }
+          ]
         }
       ]
     },
@@ -546,6 +606,21 @@
             }
           ],
           "tag": "Reporting"
+        },
+        {
+          "desk": "business-india",
+          "title": "UK–India tariff disagreement raises uncertainty for Scotch importers",
+          "body": [
+            "British ministers are seeking urgent talks over Indian customs duties on bulk Scotch whisky. Reuters reports an effective duty of 162.5% for affected imports despite the 75% concession under the bilateral trade agreement.",
+            "The disagreement turns on product classification and implementation rather than a newly negotiated headline tariff. It is a reminder that trade agreements require functioning customs administration to translate concessions into actual market access."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "Reporting · 18–19 Nov",
+              "url": "https://www.reuters.com/world/uk/uk-says-ministers-urgently-working-with-india-tariff-dispute-scotch-whisky-2026-11-18/"
+            }
+          ]
         }
       ]
     },
@@ -565,6 +640,21 @@
             {
               "label": "SCIENCE · original reporting / data",
               "url": "https://new.streetinsider.com/Reuters?before_id=27368898"
+            }
+          ]
+        },
+        {
+          "desk": "science",
+          "title": "NOAA and India advance tropical cyclone forecast modelling",
+          "body": [
+            "NOAA announced on 18 November that a 12-year collaboration with India's Ministry of Earth Sciences had produced advances in tropical-cyclone modelling, potentially improving forecasts for a country exposed to severe coastal storms.",
+            "Model development is not the same as a guaranteed forecast improvement in every storm. Independent skill verification, warning dissemination and local preparedness determine how scientific gains translate into lives saved."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "Reporting · 18–19 Nov",
+              "url": "https://www.climate.gov/news-features/department/news-research-highlights?page=11"
             }
           ]
         }
@@ -601,6 +691,21 @@
             {
               "label": "IPO · original reporting / data",
               "url": "https://www.reuters.com/legal/transactional/anthropic-prices-blockbuster-ipo-83-share-source-says-2026-11-18/"
+            }
+          ]
+        },
+        {
+          "desk": "technology",
+          "title": "US lawmakers warn AI-enabled cyberattacks are outpacing defences",
+          "body": [
+            "US senators warned the White House that AI-assisted cyber threats were advancing faster than protective measures, according to reporting carried in the 19 November news brief. The warning adds to pressure for stronger institutional security and incident response.",
+            "A political warning is not a quantified measurement of attack prevalence. Useful policy must distinguish automated phishing, vulnerability discovery and more speculative capabilities, and require evidence of effectiveness for proposed controls."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "Reporting · 18–19 Nov",
+              "url": "https://www.jagranjosh.com/news/school-assembly-news-headlines-november-19-2026-top-national-world-education-business-news-189112"
             }
           ]
         }
@@ -684,6 +789,21 @@
             }
           ],
           "tag": "Reporting"
+        },
+        {
+          "desk": "climate",
+          "title": "Cyclone Akvan underscores the distinction between hazard forecasts and climate attribution",
+          "body": [
+            "IMD's forecast placed severe cyclonic storm Akvan on a track toward the Andhra Pradesh–Odisha coast with possible landfall on 20 November. The immediate public-safety concern is wind, rainfall and coastal exposure, not a premature claim about the storm's climate cause.",
+            "Warmer oceans can influence cyclone behaviour, but attributing any individual storm's intensity or trajectory to climate change requires a dedicated analysis. Forecast bulletins and long-term climate assessments answer different questions."
+          ],
+          "tag": "Reporting",
+          "sources": [
+            {
+              "label": "Reporting · 18–19 Nov",
+              "url": "https://www.hindustantimes.com/india-news/ht-morning-news-brief-nov-19-trump-xi-putin-trilateral-apec-summit-cyclone-akvan-approaches-gta-6-out-india-new-zealand-test-top-news-101795058102458.html"
+            }
+          ]
         }
       ]
     },
