@@ -36,6 +36,21 @@
               "url": "https://www.devdiscourse.com/article/international/4008675-reuters-world-news-summary"
             }
           ]
+        },
+        {
+          "desk": "world",
+          "title": "Nuclear-arms treaty vacuum shadows the Shenzhen meeting",
+          "body": [
+            "The US, China and Russia enter the Shenzhen summit without a replacement for the expired New START treaty. AP reports that China sees little incentive to accept numerical restrictions while its arsenal remains smaller than those of the US and Russia.",
+            "The practical question is whether the leaders can agree on verifiable risk-reduction measures, rather than simply promising talks. Ukraine and European governments have voiced concerns about negotiations affecting them without their participation."
+          ],
+          "sources": [
+            {
+              "label": "Associated Press · 19 Nov",
+              "url": "https://apnews.com/article/a04dc76ed8e786b087e2c1ea9598783a"
+            }
+          ],
+          "tag": "Reporting"
         }
       ]
     },
@@ -72,6 +87,21 @@
               "url": "https://www.devdiscourse.com/article/international/4008675-reuters-world-news-summary"
             }
           ]
+        },
+        {
+          "desk": "uk",
+          "title": "Underlying inflation eases pressure for an immediate December rate rise",
+          "body": [
+            "October UK headline inflation reached 3.6%, but core CPI remained at 2.8% and services inflation at 3.7%, both softer than forecasters expected. Reuters reported that market-implied chances of a December Bank of England rate rise slipped from about 90% to 80%.",
+            "The difference between headline and underlying measures matters: imported energy costs can lift consumer prices without proving an entrenched domestic wage-price spiral. The market probability is not an official Bank decision."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 18 Nov",
+              "url": "https://www.reuters.com/world/uk/uk-inflation-rose-36-october-2026-11-18/"
+            }
+          ],
+          "tag": "Reporting"
         }
       ]
     },
@@ -108,6 +138,21 @@
               "url": "https://uk.marketscreener.com/news/indian-shares-set-to-open-lower-as-hawkish-fed-minutes-weigh-ce785eddde8bfe27"
             }
           ]
+        },
+        {
+          "desk": "us",
+          "title": "Washington considers disclosure rules for corporate use of Chinese AI",
+          "body": [
+            "Reuters reported that US officials were considering requiring companies to disclose use of Chinese artificial-intelligence models, citing people familiar with discussions. The proposal would use transparency rather than an outright ban.",
+            "The discussions do not amount to a published rule. A disclosure obligation could affect corporate procurement and US-China technology competition, but its coverage and enforcement remain unsettled."
+          ],
+          "sources": [
+            {
+              "label": "Reuters reporting republished · 18 Nov",
+              "url": "https://thesentimes.com/"
+            }
+          ],
+          "tag": "Reporting"
         }
       ]
     },
@@ -144,6 +189,21 @@
               "url": "https://timesofindia.indiatimes.com/world/south-asia"
             }
           ]
+        },
+        {
+          "desk": "south-asia",
+          "title": "Bangladesh deploys paramilitary forces amid unrest over Hasina's proposed return",
+          "body": [
+            "Reuters reported on 18 November that Bangladesh deployed hundreds of paramilitary personnel as unrest intensified over former prime minister Sheikh Hasina's intention to return from exile. Police reported crude-bomb incidents and vehicle arson across multiple districts, while her banned Awami League called a 19 November shutdown.",
+            "The government's allegations of responsibility and police incident counts need attribution rather than automatic acceptance. The episode raises immediate questions about public safety, political participation and due process ahead of any attempted return."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 18 Nov",
+              "url": "https://www.reuters.com/world/asia-pacific/bangladesh-deploys-paramilitary-unrest-grows-over-hasinas-return-2026-11-18/"
+            }
+          ],
+          "tag": "Reporting"
         }
       ]
     },
@@ -210,6 +270,21 @@
               "url": "https://indianexpress.com/print/politics/"
             }
           ]
+        },
+        {
+          "desk": "india",
+          "title": "Winter Parliament timetable remains unsettled as delimitation bill looms",
+          "body": [
+            "Reporting on 16–17 November indicated that the Union government may convene Parliament's winter sitting in early December, although dates had not been formally announced. Opposition representatives said they had not received a schedule. The government is seeking a path for legislation connecting constituency delimitation with women's reservation.",
+            "A possible session date is not a formal summons, and a constitutional amendment proposal is not enacted law. The bill's political difficulty lies in the supermajority required and competing regional concerns about representation."
+          ],
+          "sources": [
+            {
+              "label": "Hindustan Times · 16 Nov",
+              "url": "https://www.hindustantimes.com/india-news/government-may-call-parliament-winter-session-in-early-december-101794792400358-amp.html"
+            }
+          ],
+          "tag": "Reporting"
         }
       ]
     },
@@ -294,6 +369,21 @@
               "url": "https://www.bcci.tv/matches/242118/new-zealand-vs-india"
             }
           ]
+        },
+        {
+          "desk": "sports",
+          "title": "Three Test matches remain in progress across South Africa, Pakistan and New Zealand",
+          "body": [
+            "The ICC match centre showed South Africa posting 557 against Bangladesh's 400 in Johannesburg, while Pakistan made 325 against Sri Lanka in Rawalpindi. The India–New Zealand Test also began this week. These are innings and in-progress checkpoints, not completed match results.",
+            "For readers following international cricket, the relevant developments are the match positions and remaining sessions, not premature winners. Live scores may change after the editorial cutoff."
+          ],
+          "sources": [
+            {
+              "label": "ICC match centre · 19 Nov",
+              "url": "https://www.icc-cricket.com/fixtures-results"
+            }
+          ],
+          "tag": "Reporting"
         }
       ]
     },
@@ -345,6 +435,21 @@
               "url": "https://uk.marketscreener.com/news/indian-shares-set-to-open-lower-as-hawkish-fed-minutes-weigh-ce785eddde8bfe27"
             }
           ]
+        },
+        {
+          "desk": "business-global",
+          "title": "Oil holds near $92 Brent as inventories offset shipping risks",
+          "body": [
+            "Reuters reported Brent futures near $92 a barrel early on 19 November. US commercial crude inventories rose 3.4 million barrels to 417.8 million for the week ending 13 November, according to the EIA data cited in the report. Attacks near Gulf shipping lanes remained a competing supply risk.",
+            "The price snapshot is not a daily close. Inventory growth and expected surplus exert downward pressure, while physical disruption and insurance risk can raise the geopolitical premium. Claims by combatants about tanker attacks require independent corroboration."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 19 Nov",
+              "url": "https://www.reuters.com/business/energy/oil-prices-steady-supply-surplus-softens-sentiment-though-gulf-war-supports-2026-11-19/"
+            }
+          ],
+          "tag": "Reporting"
         }
       ]
     },
@@ -381,6 +486,21 @@
               "url": "https://uk.marketscreener.com/news/indian-shares-set-to-open-lower-as-hawkish-fed-minutes-weigh-ce785eddde8bfe27"
             }
           ]
+        },
+        {
+          "desk": "business-india",
+          "title": "SEBI weighs tighter safeguards for margin-funded share purchases",
+          "body": [
+            "SEBI chair Tuhin Kanta Pandey said the regulator was examining safeguards for margin trading, including possible concentration limits tied to a stock's free float, Reuters reported. He emphasised that no final decision had been made.",
+            "The debate concerns leverage and market resilience: broker-financed purchases can increase exposure during rallies and amplify forced selling during declines. Consultation and consideration are not adopted regulation."
+          ],
+          "sources": [
+            {
+              "label": "Reuters · 18 Nov",
+              "url": "https://www.reuters.com/world/india/indias-markets-regulator-considering-proposals-strengthen-margin-trading-2026-11-18/"
+            }
+          ],
+          "tag": "Reporting"
         }
       ]
     },
@@ -489,6 +609,21 @@
               "url": "https://wmo.int/resources/publication-series/global-seasonal-climate-updates/gscu-ond2026"
             }
           ]
+        },
+        {
+          "desk": "climate",
+          "title": "Antarctic October sea ice ranks second-lowest in NOAA's satellite-era record",
+          "body": [
+            "NOAA NCEI reports that Antarctic sea-ice extent during October 2026 was 730,000 square miles below the 1991–2020 mean, ranking second-lowest for October in the 48-year series. Combined global sea ice ranked third-lowest for the month.",
+            "Sea-ice extent is a satellite-derived area measure, not thickness, volume or land-ice mass. One month's ranking is meaningful in context of the multidecadal record but does not by itself identify a particular cause."
+          ],
+          "sources": [
+            {
+              "label": "NOAA NCEI · 12 Nov",
+              "url": "https://www.ncei.noaa.gov/news/global-climate-202610"
+            }
+          ],
+          "tag": "Reporting"
         }
       ]
     },
