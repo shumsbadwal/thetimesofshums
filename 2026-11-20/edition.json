@@ -31,6 +31,34 @@
               "url": "https://apnews.com/article/3d0f8ed366d6084e1cfe12a4d8020c55"
             }
           ]
+        },
+        {
+          "desk": "world",
+          "title": "International court's Rohingya genocide ruling raises the question of enforcement",
+          "body": [
+            "The International Court of Justice ruled on 19 November that Myanmar committed genocide against the Rohingya during the military campaign of 2017. Myanmar rejected the judgment. The ruling is a landmark determination of state responsibility, but it is not itself a mechanism for safely repatriating refugees or ending the fighting inside Myanmar.",
+            "Roughly 1.2 million Rohingya are living in Bangladesh, according to Reuters reporting from Cox's Bazar. Refugees welcomed the ruling while confronting the absence of secure conditions for return. Bangladesh wants repatriation, but a credible path would require safety, rights, monitoring and meaningful political change inside Myanmar. The distinction between legal accountability and implementation is central to the story."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.investing.com/news/world-news/analysismyanmars-rohingya-win-landmark-genocide-ruling-but-return-home-remains-distant-5040983"
+            }
+          ]
+        },
+        {
+          "desk": "world",
+          "title": "COP31 negotiations run past deadline as fossil-fuel dispute persists",
+          "body": [
+            "Climate negotiators in Antalya were set to continue beyond Friday's scheduled conclusion after a draft agreement omitted explicit fossil-fuel transition language. Delegates also disagreed over adaptation finance, with a proposed quantified $120 billion annual target absent from the latest text.",
+            "This was a negotiating draft, not a final adopted agreement. Countries dependent on fossil-fuel revenues, vulnerable states demanding finance and governments seeking faster decarbonisation entered the final phase with different priorities. The ultimate measure of success will be what countries formally adopt and how they implement it."
+          ],
+          "sources": [
+            {
+              "label": "AP",
+              "url": "https://apnews.com/article/a683c5c87a7ee64caf4e9257948b6e40"
+            }
+          ]
         }
       ]
     },
@@ -61,6 +89,48 @@
             {
               "label": "The Guardian",
               "url": "https://www.theguardian.com/world/2026/nov/19/tulip-siddiq-says-she-is-considering-legal-action-against-former-bangladesh-leader"
+            }
+          ]
+        },
+        {
+          "desk": "uk",
+          "title": "Britain and EU seal food-trade and youth-mobility reset",
+          "body": [
+            "Prime Minister Andy Burnham and EU leaders agreed on 20 November to ease trade in animals and plant products, establish youth mobility arrangements and link emissions-trading systems. The package represents a tangible post-Brexit rapprochement, although most changes will not take effect immediately.",
+            "Britain estimates that streamlined food trade could add £5.1 billion annually to its economy; this is a government projection, not an observed benefit. The carbon-market link is planned from 2028. Negotiators deferred the dispute over tuition fees for EU students at British universities and left the larger question of Britain's future alignment with EU rules unresolved."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/uk/britain-eu-set-agree-reset-but-divisions-persist-2026-11-20/"
+            }
+          ]
+        },
+        {
+          "desk": "uk",
+          "title": "University fees remain an obstacle despite the UK–EU summit breakthrough",
+          "body": [
+            "Britain and the European Union postponed agreement on tuition fees for students crossing the Channel. EU governments want their students to pay domestic rates at British universities, while London has preferred a less sweeping reduction. The sides set a further six-month negotiating period.",
+            "The disagreement is financially material to universities that rely on international-fee income and to families weighing the cost of study abroad. It illustrates the limits of the summit's reset: mobility and trade agreements can progress while politically sensitive questions about access to public institutions remain unsettled."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/uk/britain-eu-set-agree-reset-but-divisions-persist-2026-11-20/"
+            }
+          ]
+        },
+        {
+          "desk": "uk",
+          "title": "British carmakers face unresolved EU industrial-policy trade-off",
+          "body": [
+            "At the UK–EU summit, access for British-made cars to European-content subsidy and procurement rules remained bound up with questions about alignment on Chinese vehicle imports. Brussels has sought protections against third-country circumvention; London has been reluctant to mirror every EU trade restriction.",
+            "This is not a completed arrangement granting British cars preferential treatment. For manufacturers with integrated cross-Channel supply chains, the eventual rules could influence investment decisions and production locations. Consumers and importers would also be affected if alignment made lower-cost Chinese electric vehicles harder to obtain."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/uk/britain-eu-drop-trusted-partnership-term-summit-draft-2026-11-18/"
             }
           ]
         }
@@ -95,6 +165,34 @@
               "url": "https://apnews.com/article/3d0f8ed366d6084e1cfe12a4d8020c55"
             }
           ]
+        },
+        {
+          "desk": "us",
+          "title": "Congress confronts December funding deadline amid Iran-war dispute",
+          "body": [
+            "Federal government funding expires on 11 December, and lawmakers are struggling to reach a deal over appropriations and the cost of the war involving Iran. President Donald Trump has sought an additional $350 billion for the Pentagon; senators are debating a defence bill that includes only part of that request.",
+            "A shutdown is a risk, not a fact. Democrats disagree over whether a funding confrontation can meaningfully restrain military operations, while Republicans have not settled on whether to pursue a party-line budget procedure. Congress must decide how to fund agencies during the transition to a new congressional majority after the midterm elections."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/legal/transactional/congress-struggles-avert-us-shutdown-iran-war-divides-lawmakers-2026-11-20/"
+            }
+          ]
+        },
+        {
+          "desk": "us",
+          "title": "Senate rejection of Iran war-powers measure sharpens oversight dispute",
+          "body": [
+            "Senate Republicans voted on 19 November against a measure directing the president to end the Iran war or seek congressional authorisation to continue. The vote came amid public concern about the conflict and debate over the constitutional allocation of war powers.",
+            "The measure's defeat does not itself settle the constitutional argument. The executive and Congress retain competing instruments over military action and spending, and the funding deadline gives the dispute an immediate institutional dimension. Reporting must distinguish a vote on war powers from an actual withdrawal of appropriated military funds."
+          ],
+          "sources": [
+            {
+              "label": "Reuters via election news digest",
+              "url": "https://werindia.com/elections2026"
+            }
+          ]
         }
       ]
     },
@@ -112,6 +210,34 @@
             {
               "label": "The Guardian",
               "url": "https://www.theguardian.com/world/2026/nov/19/tulip-siddiq-says-she-is-considering-legal-action-against-former-bangladesh-leader"
+            }
+          ]
+        },
+        {
+          "desk": "south-asia",
+          "title": "Nepal's prime minister prepares India visit after catastrophic floods",
+          "body": [
+            "Nepalese Prime Minister Balendra Shah is scheduled to meet Narendra Modi during a two-day India visit beginning Monday. The trip follows destructive August floods that killed about 1,500 people and left thousands missing, according to Reuters, and it will focus in part on reconstruction assistance.",
+            "Trade, energy infrastructure and transport links are also on the agenda. Nepal seeks additional air connectivity, while India is a leading trading partner and donor. The meeting is prospective: any new financing or infrastructure commitments should be reported only after formal announcement, with promised assistance separated from money actually disbursed."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/nepal-pm-balendra-shah-visit-india-meet-modi-2026-11-20/"
+            }
+          ]
+        },
+        {
+          "desk": "south-asia",
+          "title": "Rohingya refugees welcome genocide judgment but face prolonged displacement",
+          "body": [
+            "Rohingya families in Bangladesh welcomed the International Court of Justice's finding that Myanmar committed genocide in 2017. Their celebrations, reported from Cox's Bazar, coexist with deep uncertainty about whether they will ever be able to return home safely.",
+            "Bangladesh faces pressure from the cost of hosting approximately 1.2 million refugees while international assistance is strained. Myanmar's continuing conflict makes repatriation a humanitarian and security challenge even after the judgment. This South Asia account centres the refugees and Bangladesh's responsibilities, rather than repeating the World desk's legal analysis."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.investing.com/news/world-news/analysismyanmars-rohingya-win-landmark-genocide-ruling-but-return-home-remains-distant-5040983"
             }
           ]
         }
@@ -146,6 +272,48 @@
               "url": "https://maharashtratimes.com/maharashtra/mumbai-news/maharashtra-mumbai-live-news-19-november-2026-mumbai-weather-update-cold-wave-shaina-nc-torn-balasaheb-thackeray-photo-political-news-kulgam-lashkar-e-taiba-terrorist-latif-bhat-killed/liveblog/135976512.cms"
             }
           ]
+        },
+        {
+          "desk": "india",
+          "title": "Voter-roll deletions draw US rights criticism and Indian rebuttal",
+          "body": [
+            "A US government religious-freedom commission accused India of discriminating against Muslim citizens in a nationwide electoral-roll revision. Reuters reported that approximately 130 million entries were removed. India's Election Commission says the exercise targets deceased, duplicate, relocated and otherwise ineligible voters and provides appeal mechanisms.",
+            "Deletion from a voter list is not proof of foreign nationality. The US commission's recommendations are nonbinding; India's foreign ministry rejected the criticism as politically biased. The most important unresolved questions are how many eligible citizens were wrongly excluded, whether appeals are effective and whether electoral-roll processes have been improperly connected to immigration enforcement."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/india/us-religious-freedom-panel-says-india-is-targeting-minorities-voter-roll-2026-11-19/"
+            }
+          ]
+        },
+        {
+          "desk": "india",
+          "title": "Wheat planting faces possible sharp decline as farmers change crops",
+          "body": [
+            "Industry estimates suggest Indian wheat acreage could decline by roughly 6% as drought and changing crop economics affect planting decisions. The estimate is a projection during the sowing season, not a completed agricultural census.",
+            "A sustained acreage fall could complicate grain procurement, food-price management and farmers' income expectations. Weather, irrigation access and government purchase prices will determine the eventual harvest more than one early forecast. The edition will not convert this preliminary estimate into a confirmed production shortfall."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/business/environment/indias-wheat-area-set-biggest-drop-26-years-farmers-switch-crops-2026-11-20/"
+            }
+          ]
+        },
+        {
+          "desk": "india",
+          "title": "Electoral-roll exclusions raise questions beyond administrative accuracy",
+          "body": [
+            "A Reuters investigation documented families facing detention, deportation or citizenship questioning after names disappeared from electoral rolls. The reporting included West Bengal, where Muslim voters accounted for a disproportionate share of certain deletions. The Election Commission and the government maintain that the revision is an eligibility exercise.",
+            "The legal and democratic distinction is fundamental: being absent from a voter register does not establish a person's nationality. Cases under judicial challenge, individual testimonies, official statistics and government denials must be evaluated separately. The story's significance lies in due process and the ability of citizens to restore their electoral rights."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/deleted-indias-voter-rolls-some-muslims-face-detention-deportation-2026-11-16/"
+            }
+          ]
         }
       ]
     },
@@ -176,6 +344,34 @@
             {
               "label": "The Indian Express",
               "url": "https://indianexpress.com/article/cities/mumbai/maharashtra-mumbai-news-today-live-updates-chipko-protest-shaina-bal-thackeray-photo-fadnavis-mahayuti-mva-10969357/"
+            }
+          ]
+        },
+        {
+          "desk": "mumbai",
+          "title": "Maharashtra prioritises drinking water as drought affects most talukas",
+          "body": [
+            "Maharashtra authorities have identified 310 of 358 talukas as drought-affected and directed officials to defer non-essential new construction spending to prioritise drinking-water supply and mitigation, according to 20 November reporting. The scale of the designation makes this a statewide public-services and fiscal story.",
+            "The practical test is whether district administrations can deliver reliable water, protect livelihoods and fund urgent work before conditions worsen. A drought designation does not mean every community faces identical shortages. Local reservoir levels, tanker deployment, agricultural losses and the state order itself need continuing scrutiny."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express",
+              "url": "https://indianexpress.com/article/cities/mumbai/maharashtra-mumbai-news-today-live-updates-aqi-fadnavis-drought-bombay-hc-10970992/"
+            }
+          ]
+        },
+        {
+          "desk": "mumbai",
+          "title": "Mumbai and Thane air quality renews focus on pollution enforcement",
+          "body": [
+            "Air-quality readings reported on 20 November indicated unhealthy conditions across parts of Mumbai and neighbouring Thane. Construction dust, traffic and industrial emissions are recurring concerns, but a single citywide index cannot identify the precise source of pollution.",
+            "Readers need the station, timestamp and Indian AQI methodology before interpreting a reported number. Public accountability extends to dust-control inspections, roadworks, waste burning and the health implications for children, outdoor workers and people with respiratory conditions. This is a local environmental-health issue rather than merely a weather update."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express",
+              "url": "https://indianexpress.com/article/cities/mumbai/maharashtra-mumbai-news-today-live-updates-aqi-fadnavis-drought-bombay-hc-10970992/"
             }
           ]
         }
@@ -248,6 +444,34 @@
               "url": "https://english.dainikjagranmpcg.com/international/november-19-2026-events-international-days-sports-summits/article-44907"
             }
           ]
+        },
+        {
+          "desk": "sports",
+          "title": "Jaiswal and Rahul lead India's response after New Zealand post 368",
+          "body": [
+            "At stumps on day two of the first Test in Wellington, India were 159 for one in reply to New Zealand's 368. Yashasvi Jaiswal made 85 from 89 deliveries and KL Rahul remained unbeaten on 52. Henry Nicholls finished 175 not out for the hosts, while Glenn Phillips made 118.",
+            "India still trailed by 209 runs at the close, so the match remained open. Jasprit Bumrah took four wickets for 92, while the Nicholls–Phillips partnership had earlier rescued New Zealand. The score is explicitly a day-two position, not a final result; the second Test is scheduled for Christchurch next week."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/sports/cricket/phillips-hits-century-nz-reach-317-6-india-test-2026-11-20/"
+            }
+          ]
+        },
+        {
+          "desk": "sports",
+          "title": "Football's Baller League announces global tournament for 2027",
+          "body": [
+            "Organisers of the Baller League announced plans on 19 November to launch an international competition in 2027. The development reflects the spread of short-format, entertainment-oriented football products designed for digital audiences.",
+            "The announcement concerns a future tournament, not a completed competition or established commercial success. Its longer-term significance depends on confirmed teams, players, broadcast arrangements and governing-body relationships, and on whether novelty formats complement or compete with conventional football."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/sports/soccer/soccer-baller-league-launch-new-global-tournament-2027-2026-11-19/"
+            }
+          ]
         }
       ]
     },
@@ -291,6 +515,34 @@
             {
               "label": "Reuters",
               "url": "https://www.reuters.com/business/aerospace-defense/uks-ftse-100-slips-six-week-low-defensive-stocks-drag-2026-11-19/"
+            }
+          ]
+        },
+        {
+          "desk": "business-global",
+          "title": "Global AI selloff sends Asian equities to their worst week since 2020",
+          "body": [
+            "Global technology shares came under renewed pressure on Friday even after Anthropic's historic stock-market debut. Reuters reported the MSCI Asia-Pacific index excluding Japan was down about 8% for the week, its sharpest weekly decline since March 2020, while Taiwan's market fell even more steeply.",
+            "The immediate debate is whether immense AI infrastructure spending can translate into durable profits. Investors moved towards government bonds as equity volatility increased. These are market snapshots at the reporting cutoff; the economic question is broader than one company's IPO and includes financing costs, earnings expectations and concentration risk."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-20/"
+            }
+          ]
+        },
+        {
+          "desk": "business-global",
+          "title": "Oil market balances Gulf shipping risk against surplus expectations",
+          "body": [
+            "Oil prices were little changed on 19 November as disruptions linked to the Gulf conflict offset concern about excess global supply. Prices can therefore remain elevated relative to peacetime assumptions even when traders anticipate sufficient barrels in aggregate.",
+            "The effects reach beyond energy companies: shipping insurance, airline fuel, inflation and import bills are exposed to the risk of maritime disruption. A quoted price is a point-in-time market observation, not a forecast. Subsequent moves depend on actual shipping flows, production decisions and the conflict's trajectory."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/business/energy/oil-prices-steady-supply-surplus-softens-sentiment-though-gulf-war-supports-2026-11-19/"
             }
           ]
         }
@@ -338,6 +590,48 @@
               "url": "https://epaperarchive.indianexpress.com/viewepaper/4222704/Mumbai/November-19-2026"
             }
           ]
+        },
+        {
+          "desk": "business-india",
+          "title": "India's foreign-exchange reserves drop $14.2 billion in one week",
+          "body": [
+            "Reserve Bank of India data published Friday showed foreign-exchange reserves at $705.342 billion for the week ended 13 November, down from $719.547 billion a week earlier. Foreign-currency assets and gold holdings accounted for most of the reported decline.",
+            "The headline change should not be interpreted as an equivalent amount of spot-market intervention. Valuation shifts and foreign-exchange swap maturities also affect the dollar value of reserves. The rupee had weakened during the reference week but strengthened to about 92.67 per dollar on Friday, illustrating the importance of dates when comparing currency and reserve figures."
+          ],
+          "sources": [
+            {
+              "label": "Reuters citing RBI",
+              "url": "https://in.marketscreener.com/news/india-s-forex-reserves-fall-to-over-three-month-low-of-705-billion-ce785ed3d88af525"
+            }
+          ]
+        },
+        {
+          "desk": "business-india",
+          "title": "SEBI consults on changes to governance of market infrastructure",
+          "body": [
+            "India's securities regulator proposed changes to the tenure and age rules applying to leaders and independent directors of exchanges and other market infrastructure institutions. These bodies occupy a special position: they are commercial enterprises but also guardians of market integrity.",
+            "The proposals are part of a consultation process, not regulations already in force. The relevant trade-off is between continuity and expertise on one side and accountability, succession and conflicts of interest on the other. The final text and responses from exchanges will determine the practical effects."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/legal/government/india-proposes-limiting-tenure-chief-executives-independent-directors-exchanges-2026-11-20/"
+            }
+          ]
+        },
+        {
+          "desk": "business-india",
+          "title": "Regulator proposes easing enhanced foreign-investor disclosures",
+          "body": [
+            "SEBI proposed removing additional disclosure obligations introduced in 2023 for certain foreign portfolio investors. The measure is intended to reduce compliance burdens but also raises questions about transparency into beneficial ownership and concentrated investments.",
+            "It remains a proposal, not a repeal. A proper assessment needs to identify which investors would be affected, what disclosure requirements would remain and whether the change would weaken the ability to detect opaque ownership structures. Market access and investor protection need not always be opposing objectives, but their balance requires evidence."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/legal/government/indias-markets-regulator-proposes-removing-additional-disclosure-requirements-2026-11-20/"
+            }
+          ]
         }
       ]
     },
@@ -357,6 +651,34 @@
               "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JG009977"
             }
           ]
+        },
+        {
+          "desk": "science",
+          "title": "Voyager 1 reaches one light-day from Earth after 49 years",
+          "body": [
+            "NASA announced that Voyager 1 reached a distance of one light-day from Earth on 18 November. Light requires 24 hours to cross that distance, approximately 25.9 billion kilometres, meaning even a radio message from the spacecraft takes a day to arrive.",
+            "The achievement is a communications and engineering milestone rather than a sudden new scientific discovery. Launched in 1977, Voyager 1 entered interstellar space in 2012 and continues to gather measurements beyond the heliosphere. Its ageing systems, limited power and very long signal delays make each successful scientific transmission remarkable."
+          ],
+          "sources": [
+            {
+              "label": "NASA",
+              "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/"
+            }
+          ]
+        },
+        {
+          "desk": "science",
+          "title": "Medical-device researchers examine implications of EU AI regulation",
+          "body": [
+            "A paper published in npj Digital Medicine examines proposed changes to European medical-device regulation and their consequences for AI-enabled devices. The subject is important because software that adapts or relies on data-driven models can pose validation and oversight challenges distinct from conventional equipment.",
+            "This is an analysis of regulatory proposals, not evidence that any particular AI medical product is safe or effective. Clinicians and regulators must still evaluate clinical performance, monitoring after deployment, transparency, and whether changes to algorithms require fresh assessment. The article is a policy analysis rather than a clinical trial."
+          ],
+          "sources": [
+            {
+              "label": "npj Digital Medicine",
+              "url": "https://www.nature.com/articles/s41746-026-03475-8"
+            }
+          ]
         }
       ]
     },
@@ -374,6 +696,34 @@
             {
               "label": "Reuters",
               "url": "https://www.reuters.com/world/anti-war-physicist-ai-power-broker-amodei-takes-his-safety-approach-public-2026-11-19/"
+            }
+          ]
+        },
+        {
+          "desk": "technology",
+          "title": "AI developers face lawsuit seeking restrictions on frontier-model work",
+          "body": [
+            "A lawsuit filed against OpenAI, Google and Anthropic sought to halt frontier AI development, according to Reuters reporting earlier in November. The filing is part of a widening contest over how society should manage the risks of powerful systems before their capabilities and safeguards are fully understood.",
+            "A lawsuit's allegations are not judicial findings. The case raises difficult questions about standing, evidence of harm and the appropriate role of courts relative to legislatures and specialist regulators. It should be assessed separately from debates over competition, open research and the commercial viability of AI infrastructure."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/business/openai-google-anthropic-hit-with-lawsuit-seeking-halt-frontier-ai-development-2026-11-12/"
+            }
+          ]
+        },
+        {
+          "desk": "technology",
+          "title": "White House cyber coordinator's departure leaves policy questions",
+          "body": [
+            "The White House's national cyber director Sean Cairncross is leaving his position, Reuters reported on 19 November. The office coordinates federal cybersecurity policy and strategy, making leadership continuity relevant to agencies and private operators of critical infrastructure.",
+            "A personnel departure alone is not evidence of a security breach or policy collapse. The substantive question is how the administration will maintain coordination across defence, civilian agencies and industry, particularly as cyber threats and AI-enabled security challenges evolve."
+          ],
+          "sources": [
+            {
+              "label": "Reuters via election news digest",
+              "url": "https://werindia.com/elections2026"
             }
           ]
         }
@@ -445,6 +795,20 @@
             {
               "label": "AGU Journal of Geophysical Research",
               "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JG009977"
+            }
+          ]
+        },
+        {
+          "desk": "climate",
+          "title": "UK–EU carbon-market link is agreed, but implementation comes later",
+          "body": [
+            "Britain and the European Union agreed to link their emissions trading systems as part of their 20 November summit package. The link is scheduled from 2028 and could reduce the exposure of covered goods to each other's carbon-border levies.",
+            "The agreement does not itself remove emissions or establish an immediate unified carbon price. Implementation depends on market rules, technical compatibility and the treatment of carbon-border adjustments. Its importance lies in the interaction between industrial competitiveness and the integrity of emissions accounting."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/uk/britain-eu-agree-deals-food-trade-youth-mobility-joint-statement-says-2026-11-20/"
             }
           ]
         }
