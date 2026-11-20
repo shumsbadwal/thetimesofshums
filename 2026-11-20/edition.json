@@ -421,15 +421,9 @@
               "url": "https://climate.copernicus.eu/surface-air-temperature-october-2026"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "cdr",
-      "name": "CDR & Marine CDR",
-      "stories": [
+        },
         {
-          "desk": "cdr",
+          "desk": "climate",
           "title": "COP31 carbon-removal wording draws scrutiny",
           "body": [
             "The draft climate agreement encourages carbon-removal technologies without resolving how removal claims should be verified or how they relate to near-term fossil-fuel reductions. It is policy language, not evidence of tonnes removed; safeguards for additionality, permanence and ecological effects remain essential."
@@ -442,7 +436,7 @@
           ]
         },
         {
-          "desk": "cdr",
+          "desk": "climate",
           "title": "Arabian Sea experiment warns against assuming all added minerals dissolve",
           "body": [
             "A 2026 laboratory mesocosm study in northeastern Arabian Sea water found periclase dosing above roughly 1,000 micromoles per kilogram could induce secondary precipitation, while olivine dissolution was limited. The result matters for marine MRV and site selection; it is not a new field trial or independently verified carbon-credit delivery."
