@@ -1,0 +1,460 @@
+{
+  "date": "2026-11-20",
+  "name": "The Times of Shums",
+  "desks": [
+    {
+      "id": "world",
+      "name": "World",
+      "stories": [
+        {
+          "desk": "world",
+          "title": "Shenzhen summit yields declaration, but no Ukraine breakthrough",
+          "body": [
+            "The leaders of the US, China and Russia met on 19 November and issued a broad declaration on nuclear risk and international cooperation. The joint statement did not establish a new arms-control framework or resolve the Ukraine war. The distinction between summit diplomacy and enforceable agreements matters particularly to governments absent from the talks."
+          ],
+          "sources": [
+            {
+              "label": "The Guardian",
+              "url": "https://www.theguardian.com/world/live/2026/nov/19/apec-summit-trump-xi-putin-meeting-shenzhen-china"
+            }
+          ]
+        },
+        {
+          "desk": "world",
+          "title": "European allies seek assurances after US-Russia-China talks",
+          "body": [
+            "US envoy Jared Kushner said he believed Moscow could accept NATO-like security guarantees for Ukraine, but that assessment was not a signed Russian undertaking. US officials briefed European allies after the summit; no peace settlement was announced."
+          ],
+          "sources": [
+            {
+              "label": "Associated Press",
+              "url": "https://apnews.com/article/3d0f8ed366d6084e1cfe12a4d8020c55"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uk",
+      "name": "United Kingdom",
+      "stories": [
+        {
+          "desk": "uk",
+          "title": "EU industrial policy puts Britain's China-EV strategy under strain",
+          "body": [
+            "Proposed European-content requirements for subsidies and procurement could exclude UK-made vehicles and components. Britain wants preferential access, but alignment could require a tougher position on Chinese EV imports, creating a trade-off between industrial integration and affordable electric cars. Negotiations have not produced a deal."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/uk/uks-eu-reset-hits-china-ev-speed-bump-2026-11-19/"
+            }
+          ]
+        },
+        {
+          "desk": "uk",
+          "title": "Tulip Siddiq considers legal action over Bangladesh conviction",
+          "body": [
+            "Former UK minister Tulip Siddiq says she may sue Bangladesh's former interim leader Muhammad Yunus after a conviction in absentia. She denies wrongdoing and disputes the fairness of the proceedings. The reported intention to sue is not an action already filed or a judicial finding in her favour."
+          ],
+          "sources": [
+            {
+              "label": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/nov/19/tulip-siddiq-says-she-is-considering-legal-action-against-former-bangladesh-leader"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "us",
+      "name": "United States",
+      "stories": [
+        {
+          "desk": "us",
+          "title": "White House seeks to shield officials from ABA depositions",
+          "body": [
+            "The administration asked a federal court to block questioning of senior officials in the American Bar Association's lawsuit challenging executive orders targeting law firms. The ABA alleges retaliation for protected legal work and speech; the administration rejects that account and cites executive privilege. The court has not resolved the requested depositions."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/legal/government/trump-administration-moves-block-aba-questioning-white-house-officials-2026-11-19/"
+            }
+          ]
+        },
+        {
+          "desk": "us",
+          "title": "Federal court finds USDA religious emails unconstitutional",
+          "body": [
+            "A federal judge ruled that Agriculture Secretary Brooke Rollins' Christian messages to staff violated the First Amendment, according to AP's 19 November account. This is a judicial ruling on government communications, not a general prohibition on individual employees' religious expression."
+          ],
+          "sources": [
+            {
+              "label": "Associated Press",
+              "url": "https://apnews.com/article/3d0f8ed366d6084e1cfe12a4d8020c55"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "south-asia",
+      "name": "South Asia",
+      "stories": [
+        {
+          "desk": "south-asia",
+          "title": "Bangladesh-linked legal dispute crosses into British politics",
+          "body": [
+            "The case involving former minister Tulip Siddiq illustrates the cross-border political consequences of Bangladesh's post-Hasina accountability proceedings. Siddiq disputes the case and says she was convicted without adequate notice. This desk does not independently establish the merits of the underlying corruption allegation."
+          ],
+          "sources": [
+            {
+              "label": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/nov/19/tulip-siddiq-says-she-is-considering-legal-action-against-former-bangladesh-leader"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "india",
+      "name": "India",
+      "stories": [
+        {
+          "desk": "india",
+          "title": "India's role in COP31 electrification dispute",
+          "body": [
+            "The Antalya draft retained an aspirational goal for electricity to account for 35% of final energy use by 2035, but loosened language on national obligations and low-carbon supply. Reporting identified India among countries resisting stronger wording. The document remained a negotiating draft, not adopted Indian policy."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/sustainability/cop/cop31-negotiators-publish-revised-deal-text-with-no-mention-fossil-fuels-2026-11-19/"
+            }
+          ]
+        },
+        {
+          "desk": "india",
+          "title": "Delimitation debate exposes differences among Maharashtra opposition parties",
+          "body": [
+            "Maharashtra political reporting on 19 November described disagreement within the opposition alliance after Supriya Sule indicated conditional support for changes to a constituency-redrawing bill. The reported stance is conditional and should not be treated as a final legislative vote or an agreed alliance position."
+          ],
+          "sources": [
+            {
+              "label": "Maharashtra Times",
+              "url": "https://maharashtratimes.com/maharashtra/mumbai-news/maharashtra-mumbai-live-news-19-november-2026-mumbai-weather-update-cold-wave-shaina-nc-torn-balasaheb-thackeray-photo-political-news-kulgam-lashkar-e-taiba-terrorist-latif-bhat-killed/liveblog/135976512.cms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mumbai",
+      "name": "Mumbai & Maharashtra",
+      "stories": [
+        {
+          "desk": "mumbai",
+          "title": "Versova residents protest coastal-road tree removal",
+          "body": [
+            "Residents organised a Chipko-style protest at Nana Nani Park after tree-felling began for the Versova-Bhayandar Coastal Road. Reporting says 184 trees are slated for removal and another 164 for transplantation. The dispute highlights the local environmental costs of transport expansion; the figures are project-reported, not a verified count of trees already felled."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express",
+              "url": "https://indianexpress.com/article/cities/mumbai/maharashtra-mumbai-news-today-live-updates-chipko-protest-shaina-bal-thackeray-photo-fadnavis-mahayuti-mva-10969357/"
+            }
+          ]
+        },
+        {
+          "desk": "mumbai",
+          "title": "BMC begins Bhendi Bazaar building demolition amid police deployment",
+          "body": [
+            "Mumbai's municipal corporation began demolishing the dilapidated Musafirkhana building on 19 November, after local objections delayed the work. The building has historical associations with D Company, but the current civic action was reported as demolition for safety and redevelopment."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express",
+              "url": "https://indianexpress.com/article/cities/mumbai/maharashtra-mumbai-news-today-live-updates-chipko-protest-shaina-bal-thackeray-photo-fadnavis-mahayuti-mva-10969357/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "entertainment-global",
+      "name": "Entertainment and Pop Culture - Global",
+      "stories": [
+        {
+          "desk": "entertainment-global",
+          "title": "Streaming release brings FTX story to scripted television",
+          "body": [
+            "The Altruists, a dramatisation of the FTX collapse starring Julia Garner and Anthony Boyle, was listed for a 19 November streaming release. The adaptation raises the familiar distinction between dramatised narrative and the documented record of the exchange's failure."
+          ],
+          "sources": [
+            {
+              "label": "News9live",
+              "url": "https://www.news9live.com/entertainment/bollywood/november-2026-ott-theatrical-movie-releases-3020432"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "entertainment-india",
+      "name": "Entertainment and Pop Culture - India",
+      "stories": [
+        {
+          "desk": "entertainment-india",
+          "title": "Ramayana box-office figures underline pan-India reach",
+          "body": [
+            "Industry tracking cited in 19 November coverage placed Ramayana's domestic net box office around ₹844 crore after its fourteenth day, with especially strong reported performance in Kerala. These are trade estimates, not independently audited final distributor receipts; net, gross and worldwide totals should not be mixed."
+          ],
+          "sources": [
+            {
+              "label": "Filmibeat",
+              "url": "https://filmibeat.com/bollywood/news/2026/entertainment-news-live-updates-november-19-alia-bhatt-on-unequal-marriage-keerthy-mysskin-controver-538535.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "stories": [
+        {
+          "desk": "sports",
+          "title": "India–New Zealand Test series opens in Wellington",
+          "body": [
+            "The first Test was scheduled to begin on 19 November in Wellington, with the two-match series running into the following week. This is a fixture note rather than a verified live score; no result is asserted."
+          ],
+          "sources": [
+            {
+              "label": "Dainik Jagran",
+              "url": "https://english.dainikjagranmpcg.com/international/november-19-2026-events-international-days-sports-summits/article-44907"
+            }
+          ]
+        },
+        {
+          "desk": "sports",
+          "title": "Women's Asian Champions Trophy begins in Bhopal",
+          "body": [
+            "The six-team women's hockey tournament was scheduled to begin on 19 November, with India facing Malaysia on opening day. The competition also features China, Japan, South Korea and Thailand. No unverified match outcome is reported."
+          ],
+          "sources": [
+            {
+              "label": "Dainik Jagran",
+              "url": "https://english.dainikjagranmpcg.com/international/november-19-2026-events-international-days-sports-summits/article-44907"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "business-global",
+      "name": "Business and Finance - Global",
+      "stories": [
+        {
+          "desk": "business-global",
+          "title": "Anthropic's Nasdaq debut tests AI valuations",
+          "body": [
+            "Anthropic's shares opened above their $83 IPO price and closed at $97.17 on 19 November, a 17% gain, after a share sale exceeding $81 billion. The company's vast compute commitments and continuing losses mean a strong first session is not evidence of durable profitability."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/"
+            }
+          ]
+        },
+        {
+          "desk": "business-global",
+          "title": "European shares slide as investors reassess technology risk",
+          "body": [
+            "The STOXX 600 closed down 0.88% at 638.41 on 19 November, a fourth consecutive decline, as technology-sector valuations and weaker defensive sectors weighed on markets. One session's performance does not establish a sustained economic downturn."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/markets/europe/european-stocks-rebound-tech-climbs-ai-optimism-2026-11-19/"
+            }
+          ]
+        },
+        {
+          "desk": "business-global",
+          "title": "British blue chips fall to six-week low",
+          "body": [
+            "The FTSE 100 ended Thursday down 0.9% at 10,452.68, while the FTSE 250 lost 0.7%. The moves occurred amid broader investor risk aversion; they are market closes, not forecasts for Friday."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/business/aerospace-defense/uks-ftse-100-slips-six-week-low-defensive-stocks-drag-2026-11-19/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "business-india",
+      "name": "Business and Finance - India",
+      "stories": [
+        {
+          "desk": "business-india",
+          "title": "Indian equities rally against regional market weakness",
+          "body": [
+            "The Nifty 50 rose 1.14% to 25,514.30 and the Sensex gained 1.21% to 83,021.75 on Thursday. Autos and banks led gains while IT declined; Reuters linked sentiment to lower commodity prices and renewed foreign inflows. The numbers are closing-market observations, not guarantees of further gains."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/india/indian-shares-set-open-lower-hawkish-fed-minutes-weigh-2026-11-19/"
+            }
+          ]
+        },
+        {
+          "desk": "business-india",
+          "title": "RBI intervention recedes as capital returns",
+          "body": [
+            "Reuters reported RBI net dollar sales including forward maturities of about $4.8 billion from 15 October to 6 November, versus $48 billion in the prior month. Stronger inflows and cheaper oil eased rupee pressure, but reserve and forward-book management remain important uncertainties."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/india/foreigners-flocking-back-indian-assets-allow-rbi-pare-fx-market-footprint-2026-11-19/"
+            }
+          ]
+        },
+        {
+          "desk": "business-india",
+          "title": "Airlines plan fewer domestic flights for November–December",
+          "body": [
+            "An Indian Express analysis of Cirium schedules indicated 7,154 fewer domestic flights than the corresponding period last year, a 3.5% fall in scheduled flights. These are published schedules rather than verified flights operated, and may change with cancellations and revisions."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express",
+              "url": "https://epaperarchive.indianexpress.com/viewepaper/4222704/Mumbai/November-19-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "name": "Science & Research",
+      "stories": [
+        {
+          "desk": "science",
+          "title": "Ocean alkalinity study finds mineral performance depends on dose",
+          "body": [
+            "A September mesocosm study using northeastern Arabian Sea water found periclase increased alkalinity at modest dosing, while higher dosing triggered secondary precipitation and olivine dissolved slowly. It is experimental evidence about chemistry, not proof of atmospheric carbon removal at commercial scale."
+          ],
+          "sources": [
+            {
+              "label": "AGU Journal of Geophysical Research",
+              "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JG009977"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "Technology & AI",
+      "stories": [
+        {
+          "desk": "technology",
+          "title": "Anthropic IPO puts safety commitments under shareholder scrutiny",
+          "body": [
+            "The newly listed AI developer faces pressure to balance expensive model training and investor expectations with its stated safeguards. Reuters described past clashes over military use and pauses to advanced-model training. These are reported company decisions and positions, not independent evidence that any model is safe."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/anti-war-physicist-ai-power-broker-amodei-takes-his-safety-approach-public-2026-11-19/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "climate",
+      "name": "Climate & Environment",
+      "stories": [
+        {
+          "desk": "climate",
+          "title": "COP31 draft drops explicit fossil-fuel transition language",
+          "body": [
+            "The revised 19 November negotiating text removed fossil-fuel language and a proposed $120 billion adaptation-finance goal. It retained a weakened electrification ambition and a reference to carbon removal. Negotiators had not yet adopted the draft; the final outcome could differ."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/sustainability/cop/cop31-negotiators-publish-revised-deal-text-with-no-mention-fossil-fuels-2026-11-19/"
+            }
+          ]
+        },
+        {
+          "desk": "climate",
+          "title": "October's record global warmth remains the observational benchmark",
+          "body": [
+            "Copernicus ERA5 estimated October 2026 global surface air temperature at 15.35°C, 0.90°C above 1991–2020 and 1.75°C above the estimated 1850–1900 baseline. This is a monthly reanalysis statistic published earlier in November, not a new 20 November measurement or proof that the Paris long-term threshold has formally been breached."
+          ],
+          "sources": [
+            {
+              "label": "Copernicus C3S",
+              "url": "https://climate.copernicus.eu/copernicus-warmest-october-record-2026-virtually-certain-exceed-15degc"
+            }
+          ]
+        },
+        {
+          "desk": "climate",
+          "title": "Extra-polar ocean temperature sets October record",
+          "body": [
+            "ERA5 estimates put mean sea-surface temperature across 60°S–60°N at 20.95°C for October, the fifth successive monthly record for its respective calendar month. Strong El Niño conditions contributed, but the figure is a global extra-polar average, not a local Indian Ocean measurement."
+          ],
+          "sources": [
+            {
+              "label": "Copernicus C3S",
+              "url": "https://climate.copernicus.eu/surface-air-temperature-october-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cdr",
+      "name": "CDR & Marine CDR",
+      "stories": [
+        {
+          "desk": "cdr",
+          "title": "COP31 carbon-removal wording draws scrutiny",
+          "body": [
+            "The draft climate agreement encourages carbon-removal technologies without resolving how removal claims should be verified or how they relate to near-term fossil-fuel reductions. It is policy language, not evidence of tonnes removed; safeguards for additionality, permanence and ecological effects remain essential."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/sustainability/cop/cop31-negotiators-publish-revised-deal-text-with-no-mention-fossil-fuels-2026-11-19/"
+            }
+          ]
+        },
+        {
+          "desk": "cdr",
+          "title": "Arabian Sea experiment warns against assuming all added minerals dissolve",
+          "body": [
+            "A 2026 laboratory mesocosm study in northeastern Arabian Sea water found periclase dosing above roughly 1,000 micromoles per kilogram could induce secondary precipitation, while olivine dissolution was limited. The result matters for marine MRV and site selection; it is not a new field trial or independently verified carbon-credit delivery."
+          ],
+          "sources": [
+            {
+              "label": "AGU Journal of Geophysical Research",
+              "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JG009977"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
