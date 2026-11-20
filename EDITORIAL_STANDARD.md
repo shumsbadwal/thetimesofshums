@@ -1,11 +1,11 @@
 # Editorial standard — The Times of Shums
 
-Established from a review of the inaugural 18 November 2026 edition (140 stories across 15 desks), and the shortcomings of the 20 November 2026 edition (28 stories).
+Established from a review of the inaugural 18 November 2026 edition (140 stories across 15 desks (historical structure)), and the shortcomings of the 20 November 2026 edition (28 stories).
 
 ## Core editorial promise
 Publish a substantial, source-led daily newspaper. Story counts respond to newsworthiness, but a reduced issue must not be presented as comprehensive without a documented coverage sweep. Publication is downstream of reporting and verification, not a substitute for them.
 
-## Desk order and required reporting sweep
+## Desk order and required reporting sweep (14 desks from the revised 20 November edition onward)
 1. World — security, diplomacy, institutions, humanitarian affairs, investigations and cross-border developments.
 2. United Kingdom — Westminster, legislation, government and opposition, elections, courts, civil rights, public services, local and devolved politics.
 3. United States — executive, Congress, elections, parties, federal and state governance, courts, civil rights and oversight.
@@ -19,8 +19,7 @@ Publish a substantial, source-led daily newspaper. Story counts respond to newsw
 11. Business and Finance - India — RBI, fiscal policy, jobs, prices, growth, trade, companies, banks, credit, markets and regulation.
 12. Science & Research — medicine, physical and life sciences, space, Earth science and scientific methods.
 13. Technology & AI — AI research and deployment, chips, cybersecurity, platforms, regulation, competition and social consequences.
-14. Climate & Environment — measured Earth-system change alongside climate policy, finance, ecology and adaptation.
-15. CDR & Marine CDR — OAE and analogues, direct ocean capture, ocean chemistry, ecology, MRV, trials, permits, governance, carbon-market integrity and pricing.
+14. Climate & Environment — measured Earth-system change alongside climate policy, finance, ecology and adaptation. Include carbon dioxide removal (CDR), including marine CDR, only when a genuinely significant, independently verified research, deployment, policy or accountability development warrants coverage; do not manufacture daily CDR stories. Distinguish contracted, modelled, measured and verified removal.
 
 ## Story quality
 - Lead with what happened and when; distinguish event date from publication date and edition cutoff.
@@ -46,3 +45,6 @@ Distinguish planned, contracted, modelled, experimentally measured, delivered an
 
 ## Editorial judgment
 The 18 November counts are a breadth reference, not a daily target. A quiet desk may have no material story after a real reporting sweep; a consequential desk may need many. Depth and evidence outrank numerical quotas.
+
+## Desk consolidation — 20 November 2026
+The separate CDR & Marine CDR desk is retired for new and revised editions. The newspaper has **14 desks**. Relevant carbon-removal reporting belongs in Climate & Environment, subject to the same newsworthiness and verification criteria as every other story. Historical editions may retain the original 15-desk layout to preserve their published record.
