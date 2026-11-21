@@ -1,0 +1,714 @@
+{
+  "date": "2026-11-21",
+  "name": "The Times of Shums",
+  "desks": [
+    {
+      "id": "world",
+      "name": "World",
+      "stories": [
+        {
+          "desk": "world",
+          "title": "World Food Programme trims 2027 aid reach despite deepening hunger",
+          "body": [
+            "The World Food Programme says its $12 billion appeal would reach 91 million people in 2027, down from a 110 million target this year, while it estimates 266 million people face acute or severe hunger. The gap is a funding constraint rather than evidence that need has fallen. The agency cites conflict, food prices and El Niño-related agricultural risks; the appeal is not yet secured."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/un-cuts-food-aid-target-despite-looming-hunger-crisis-2026-11-20/"
+            }
+          ]
+        },
+        {
+          "desk": "world",
+          "title": "Iran and United States remain divided over terms to end war",
+          "body": [
+            "Iranian Foreign Minister Abbas Araqchi said Tehran remains open to mediation but wants assurances against renewed conflict and to retain its enriched-uranium stockpile. President Trump said the terms offered were unacceptable. The IAEA's pre-war estimate of 440.9 kilograms enriched to 60% is historical: its current whereabouts and quantity are not verified. Diplomatic contact is not a ceasefire."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/araqchi-says-iran-wants-diplomacy-end-war-trump-says-terms-unacceptable-2026-11-20/"
+            }
+          ]
+        },
+        {
+          "desk": "world",
+          "title": "UNICEF says Ukraine child casualties approach first-war-year toll",
+          "body": [
+            "UNICEF verified at least 114 children killed and 1,030 injured in Ukraine in January–October 2026, a total of 1,144 against 1,386 in all of 2022. The agency also cited roughly 270 attacks on educational facilities this year. These are documented casualties, not a complete estimate of every incident; Russia denies intentionally targeting civilians."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/ukraine-child-death-toll-climbs-near-2022-levels-unicef-says-2026-11-20/"
+            }
+          ]
+        },
+        {
+          "desk": "world",
+          "title": "Indonesia and China revisit sensitive South China Sea cooperation",
+          "body": [
+            "Presidents Prabowo and Xi discussed joint development and wider investment cooperation at APEC. Jakarta insists it does not recognise China's expansive maritime claims, a crucial qualification after earlier agreements sparked sovereignty concerns. The governments also described trade negotiations and business agreements, but announcements do not settle maritime boundaries."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/china/indonesias-prabowo-chinas-xi-discuss-future-south-china-sea-cooperation-2026-11-20/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uk",
+      "name": "United Kingdom",
+      "stories": [
+        {
+          "desk": "uk",
+          "title": "Burnham announces UK–EU reset, but tuition-fee hurdle remains",
+          "body": [
+            "Downing Street said negotiations concluded on timelines for a youth mobility programme, food and agricultural sanitary rules, and linking emissions-trading systems. The EU wants an agreement on European students' university fees before implementation. Prime Minister Andy Burnham's projected economic gain is a government estimate, not realised GDP; parliamentary action and detailed terms remain ahead."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/uk/uk-eu-reset-deal-agreed-downing-street-says-2026-11-20/"
+            }
+          ]
+        },
+        {
+          "desk": "uk",
+          "title": "Conservatives reconsider Brexit-centred opposition strategy",
+          "body": [
+            "Senior Conservative advisers are urging Kemi Badenoch to concentrate on the cost of living, welfare and defence rather than reopen the referendum divide. The Guardian reports Europe featured only once in eight recent PMQs sessions involving the opposition leadership. This is a reported strategic adjustment, not a formal reversal of the party's Brexit position."
+          ],
+          "sources": [
+            {
+              "label": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/nov/20/kemi-badenoch-brexit-eu-conservatives"
+            }
+          ]
+        },
+        {
+          "desk": "uk",
+          "title": "Youth mobility proposal puts numbers and safeguards under scrutiny",
+          "body": [
+            "The UK–EU package envisages a reciprocal youth mobility pathway for up to 100,000 young Britons, according to reporting on the Brussels summit. The scheme's eligibility, implementation and reciprocal provisions remain subject to agreement and legislation. Its likely labour-market and education effects should be evaluated against final rules rather than the headline quota."
+          ],
+          "sources": [
+            {
+              "label": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/nov/20/burnham-trade-youth-mobility-deals-biggest-step-towards-eu-since-brexit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "us",
+      "name": "United States",
+      "stories": [
+        {
+          "desk": "us",
+          "title": "Trump floats cross-party deals after Asia trip",
+          "body": [
+            "At a November 20 White House press conference following his China and Philippines trip, President Trump suggested he might reach agreements with Democrats on immigration or healthcare. No negotiated bill or bipartisan framework was announced. His remarks need to be distinguished from congressional action and enacted policy."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/china/fresh-off-china-trip-trump-bobs-weaves-freewheeling-press-conference-2026-11-20/"
+            }
+          ]
+        },
+        {
+          "desk": "us",
+          "title": "Vance avoids endorsing decision to strike Iran",
+          "body": [
+            "Vice President JD Vance declined to say whether he would personally have authorised February's strikes on Iran, describing the decision as the president's. His comments followed criticism of the war's political costs after midterm losses; Trump defended the action. The disagreement illustrates an internal Republican debate, not a change in US military orders."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/us/us-vice-president-vance-declines-say-he-would-have-ordered-iran-strikes-2026-11-20/"
+            }
+          ]
+        },
+        {
+          "desk": "us",
+          "title": "Reported Pentagon limits on Canada defence ties raise alliance questions",
+          "body": [
+            "Reuters, citing a Washington Post report, said Defence Secretary Pete Hegseth issued a memo restricting elements of US–Canada military cooperation. The specific scope and practical effects require confirmation from the underlying directive and both governments; the report alone does not establish a formal end to alliance commitments."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/americas/us-defense-secretary-hegseth-restricts-military-ties-with-canada-washington-post-2026-11-20/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "south-asia",
+      "name": "South Asia",
+      "stories": [
+        {
+          "desk": "south-asia",
+          "title": "Bangladesh political violence tests fragile post-election settlement",
+          "body": [
+            "Bangladesh saw arson, road disruption and deadly political clashes as supporters of exiled former prime minister Sheikh Hasina attempted a shutdown. Prime Minister Tarique Rahman blamed Awami League figures and suggested outside interference; the party disputes responsibility. Police reports, partisan allegations and independently established facts must be separated. Garment-worker wage protests add an economic dimension to the unrest."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/parts-bangladesh-shut-down-protests-by-hasinas-party-yunus-home-set-ablaze-2026-11-19/"
+            }
+          ]
+        },
+        {
+          "desk": "south-asia",
+          "title": "Nepal's prime minister prepares first bilateral visit to India",
+          "body": [
+            "Prime Minister Balendra Shah is due to meet Narendra Modi on Monday to discuss reconstruction after August floods, trade, energy and connectivity. Reuters reports the disaster killed around 1,500 and left thousands missing. The proposed visit is a diplomatic opportunity, not yet a signed reconstruction package or new air-route agreement."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/nepal-pm-balendra-shah-visit-india-meet-modi-2026-11-20/"
+            }
+          ]
+        },
+        {
+          "desk": "south-asia",
+          "title": "Bangladesh parties plan competing street campaigns",
+          "body": [
+            "The Daily Star reports the ruling BNP and opposition groups are organising separate programmes amid attacks on political offices and properties. The banned Awami League's role is disputed, and opposition parties are pressing their own constitutional and law-and-order demands. The immediate test is whether political competition can proceed without violence and collective punishment."
+          ],
+          "sources": [
+            {
+              "label": "The Daily Star",
+              "url": "https://www.thedailystar.net/news/politics/news/bnp-opposition-move-counter-al-streets-4328536"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "india",
+      "name": "India",
+      "stories": [
+        {
+          "desk": "india",
+          "title": "Rajasthan rural election trends give Congress an early lead",
+          "body": [
+            "Counting in Rajasthan's panchayat elections showed Congress ahead in several Zila Parishad and Panchayat Samiti contests on November 20. These are local-government results and reported leads, not a state assembly election or evidence of a final statewide mandate. Final certified totals should supersede live counting figures."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express",
+              "url": "https://indianexpress.com/section/india/"
+            }
+          ]
+        },
+        {
+          "desk": "india",
+          "title": "Indian-linked vessels monitored amid Strait of Hormuz disruption",
+          "body": [
+            "India's government said nine India-linked ships were being watched near Hormuz and cited 86 transits by Indian-flagged or India-bound vessels. The statement highlights shipping and crew exposure during the regional war; the transit tally should not be read as a count of ships currently stranded."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express",
+              "url": "https://indianexpress.com/section/india/"
+            }
+          ]
+        },
+        {
+          "desk": "india",
+          "title": "Kerala waste workers' low earnings expose a public-service labour gap",
+          "body": [
+            "Indian Express reporting describes approximately 36,000 women in Kerala's decentralised Haritha Karma Sena waste collection network, with many earning around ₹5,000 a month. The system's environmental value does not remove questions about wages, worker protections, fee collection and the sustainability of local public services."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express",
+              "url": "https://indianexpress.com/section/india/"
+            }
+          ]
+        },
+        {
+          "desk": "india",
+          "title": "Punjab fraud probe summons MP; allegations remain unproven",
+          "body": [
+            "The Enforcement Directorate reportedly summoned MP Satnam Sandhu in a Punjab fraud investigation. A summons is an investigative step, not a charge or finding of guilt. The case's documentary record and the responses of those involved are necessary before drawing conclusions."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express",
+              "url": "https://indianexpress.com/section/india/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mumbai",
+      "name": "Mumbai & Maharashtra",
+      "stories": [
+        {
+          "desk": "mumbai",
+          "title": "Maharashtra freezes non-essential works in drought-hit talukas",
+          "body": [
+            "The state directed districts to suspend non-essential new construction and redirect funds to drinking-water projects, source strengthening and livestock fodder. With 310 of 358 talukas now classified as drought-affected, the policy raises questions about delivery, budget reallocations and whether essential projects can be completed before conditions worsen."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express",
+              "url": "https://indianexpress.com/article/cities/mumbai/maharashtra-mumbai-news-today-live-updates-aqi-fadnavis-drought-bombay-hc-10970992/"
+            }
+          ]
+        },
+        {
+          "desk": "mumbai",
+          "title": "Mumbai and Thane record unhealthy air on November 20",
+          "body": [
+            "The Indian Express reported an air-quality index around 163 in Mumbai and Thane on Friday. This is a daily reading and can vary by station and hour; it should not be extrapolated into a seasonal trend. Health advice depends on the local monitoring scale and exposure conditions."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express",
+              "url": "https://indianexpress.com/article/cities/mumbai/maharashtra-mumbai-news-today-live-updates-aqi-fadnavis-drought-bombay-hc-10970992/"
+            }
+          ]
+        },
+        {
+          "desk": "mumbai",
+          "title": "Uttan–Virar link options reconsidered to reduce cost",
+          "body": [
+            "MMRDA has proposed inland elevated alternatives to the Uttan–Virar project, with a claimed potential saving of ₹20,000 crore. The alternatives still need design, land, environmental and financial scrutiny. A proposal is not an approved alignment or an achieved saving."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express",
+              "url": "https://indianexpress.com/print/the-city/mumbai/"
+            }
+          ]
+        },
+        {
+          "desk": "mumbai",
+          "title": "Bombay High Court weighs firecracker restrictions",
+          "body": [
+            "The Bombay High Court reserved its decision on a possible comprehensive firecracker ban after discussing noise, fires and misleading 'green cracker' identifiers. A reserved order is not a ban already in force; the eventual judgment and enforcement details will determine the outcome."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express",
+              "url": "https://indianexpress.com/print/the-city/mumbai/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "entertainment-global",
+      "name": "Entertainment and Pop Culture - Global",
+      "stories": [
+        {
+          "desk": "entertainment-global",
+          "title": "Hunger Games prequel opens in theatres",
+          "body": [
+            "The Hunger Games: Sunrise on the Reaping is listed for November 20 theatrical release, returning to Panem for the Second Quarter Quell and a young Haymitch Abernathy. Release listings confirm the schedule but not opening-weekend grosses, reviews or audience reception, which need subsequent evidence."
+          ],
+          "sources": [
+            {
+              "label": "Movie Insider",
+              "url": "https://www.movieinsider.com/movies/november/2026/20"
+            }
+          ]
+        },
+        {
+          "desk": "entertainment-global",
+          "title": "Grand Theft Auto VI launch becomes a wider culture story",
+          "body": [
+            "Financial Express reported the November 19 launch of Grand Theft Auto VI after years of anticipation, with excitement spilling into workplaces and social media. Claims about sales records or cultural impact need audited publisher disclosures or independent measurement rather than viral anecdotes."
+          ],
+          "sources": [
+            {
+              "label": "Financial Express",
+              "url": "https://epaperarchive.indianexpress.com/viewepaper/4223101/Delhi/November-20-2026"
+            }
+          ]
+        },
+        {
+          "desk": "entertainment-global",
+          "title": "Hollywood release calendar pairs franchises with original dramas",
+          "body": [
+            "November 20 release listings include I Play Rocky and Paper Tiger alongside the Hunger Games prequel. Their simultaneous arrival offers a test of audience appetite for biographical and crime dramas against franchise storytelling; the listing is not evidence of commercial success."
+          ],
+          "sources": [
+            {
+              "label": "Movie Insider",
+              "url": "https://www.movieinsider.com/movies/november/2026/20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "entertainment-india",
+      "name": "Entertainment and Pop Culture - India",
+      "stories": [
+        {
+          "desk": "entertainment-india",
+          "title": "Hindi film slate spans rural horror and ensemble comedy",
+          "body": [
+            "November 20 release listings include Kaali Kheti, with Jackie Shroff and Sharad Kelkar, and Party Animals, led by Viraj Ghelani and Arjun Tanwar. The contrasting genres reflect a crowded theatrical weekend. Advance schedules should not be mistaken for verified box-office results."
+          ],
+          "sources": [
+            {
+              "label": "Variety India",
+              "url": "https://varietyindia.com/godzilla-minus-zero-the-hunger-games-sunrise-on-the-reaping-to-o-m-operation-mole-everything-releasing-in-theatres-this-week/"
+            }
+          ]
+        },
+        {
+          "desk": "entertainment-india",
+          "title": "Tamil and multilingual releases broaden the weekend competition",
+          "body": [
+            "Variety India's weekly guide lists the Dhanush-led O.M. among new releases, while other listings include Tamil, Telugu and Kannada productions. Actual screen counts and attendance remain to be established, particularly outside the Hindi-language market."
+          ],
+          "sources": [
+            {
+              "label": "Variety India",
+              "url": "https://varietyindia.com/godzilla-minus-zero-the-hunger-games-sunrise-on-the-reaping-to-o-m-operation-mole-everything-releasing-in-theatres-this-week/"
+            }
+          ]
+        },
+        {
+          "desk": "entertainment-india",
+          "title": "Pratap adds police-and-prison drama to Hindi releases",
+          "body": [
+            "Sachin Saraf's Pratap, starring Amit Sadh and Esha Deol, was listed for November 20 release. The production's police-officer premise and ensemble cast are reported in pre-release guides; no verified commercial performance is asserted here."
+          ],
+          "sources": [
+            {
+              "label": "Daily Jagran",
+              "url": "https://www.thedailyjagran.com/entertainment/news/upcoming-bollywood-movie-releases-in-november-2026-ramayana-yeh-prem-mol-liya-gunmaaster-g9-and-more-to-watch-in-theatres-10334070"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "stories": [
+        {
+          "desk": "sports",
+          "title": "Pakistan beat Sri Lanka by eight wickets to take Test series",
+          "body": [
+            "Pakistan completed a 1–0 series win in Rawalpindi, chasing 90 in the second Test after the opening match was drawn. Sri Lanka's first-innings 98 proved decisive despite a second-innings 316. The venue had been moved from Lahore because of hazardous smog, linking a sporting result to an environmental disruption."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/sports/cricket/pakistan-beat-sri-lanka-by-8-wickets-claim-series-2026-11-20/"
+            }
+          ]
+        },
+        {
+          "desk": "sports",
+          "title": "ATP Finals semifinal field takes shape in Turin",
+          "body": [
+            "A November 20 sports results bulletin reports Ben Shelton beating Rafael Jodar 7–6(8), 7–5 and Alexander Zverev defeating Arthur Fils 6–4, 7–6(6). These are reported completed group matches; any later semifinal results are outside this issue's confirmed reporting."
+          ],
+          "sources": [
+            {
+              "label": "Kendan Africa sports wire",
+              "url": "https://www.kendanafrica.com/the-morning-wire/sport"
+            }
+          ]
+        },
+        {
+          "desk": "sports",
+          "title": "Las Vegas Formula One practice hit by rain",
+          "body": [
+            "The Las Vegas Grand Prix opening practice was reportedly washed out without lap times, leaving teams with reduced track information. A cancelled session should not be presented as a race result or as evidence of the eventual grid."
+          ],
+          "sources": [
+            {
+              "label": "Kendan Africa sports wire",
+              "url": "https://www.kendanafrica.com/the-morning-wire/sport"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "business-global",
+      "name": "Business and Finance - Global",
+      "stories": [
+        {
+          "desk": "business-global",
+          "title": "Wall Street selloff pushes S&P 500 and Dow into corrections",
+          "body": [
+            "Reuters reported the S&P 500 down 3.70%, Dow down 1.93% and Nasdaq down 5.28% on November 20. The S&P 500 and Dow were more than 10% below their record closes, the conventional correction threshold. The sharp move reflected anxiety about AI valuations and growth; market prices alone cannot identify a single cause."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/legal/transactional/wall-st-futures-slip-anthropic-debut-fails-reassure-ai-investors-2026-11-20/"
+            }
+          ]
+        },
+        {
+          "desk": "business-global",
+          "title": "Global technology unwind spreads into commodities and bonds",
+          "body": [
+            "Reuters estimates nearly $9 trillion was erased from global equity values since August. Taiwan suffered a severe weekly decline, while government bonds rallied and copper weakened. The figure is a market-value comparison, not a cash loss realised by every investor; shifting expectations for US rates compounded AI concerns."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/business/energy/global-markets-selloff-2026-11-20/"
+            }
+          ]
+        },
+        {
+          "desk": "business-global",
+          "title": "Eurozone consumer confidence improves modestly",
+          "body": [
+            "The European Commission's flash November estimate rose one point to −16.9 from −17.9 in October; the EU-wide measure reached −16.5. Sentiment remains negative despite the improvement. This is a survey indicator, not a measurement of realised household spending."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/markets/europe/euro-zone-consumer-confidence-rises-169-november-2026-11-20/"
+            }
+          ]
+        },
+        {
+          "desk": "business-global",
+          "title": "Anthropic listing fails to stabilise AI-linked equities",
+          "body": [
+            "Anthropic's shares fell 9.1% on their second trading day, according to Reuters, while Nvidia, Microsoft and Meta also weakened. The newly public model maker is being treated by investors as a proxy for the sector, but its price is not a direct measure of model quality or long-run AI productivity."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/business/anthropics-post-debut-stumble-delivers-reality-check-ai-trade-2026-11-20/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "business-india",
+      "name": "Business and Finance - India",
+      "stories": [
+        {
+          "desk": "business-india",
+          "title": "Rupee closes at 92.67 per dollar as foreign inflows accelerate",
+          "body": [
+            "The rupee strengthened beyond 93 to the dollar for the first time since April and finished Friday at 92.67. Reuters cited record November equity inflows, short-position unwinding and lower oil prices. The rebound reduces but does not erase the currency's losses for 2026, and inflows can reverse."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/india/indian-rupee-rises-past-93usd-portfolio-inflows-bear-retreat-fuel-rally-2026-11-20/"
+            }
+          ]
+        },
+        {
+          "desk": "business-india",
+          "title": "Foreign exchange reserves fall to $705.3 billion",
+          "body": [
+            "RBI data showed reserves down over $14 billion in the week to November 13, from $719.5 billion to $705.3 billion. Foreign currency assets and gold valuations accounted for most of the reported decline; dollar-denominated reserve changes do not necessarily equal direct central-bank dollar sales."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/india/indias-forex-reserves-fall-over-three-month-low-705-billion-2026-11-20/"
+            }
+          ]
+        },
+        {
+          "desk": "business-india",
+          "title": "Economists expect December RBI rate increase",
+          "body": [
+            "A Reuters survey found 56 of 61 economists expected a 25-basis-point increase to 5.75% at the December 2–4 policy meeting. The forecast follows inflation above the RBI's 6% upper tolerance band in October. It is a poll of expectations, not an announced Monetary Policy Committee decision."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/india/indias-rbi-expected-raise-rates-december-deliver-final-hike-february-2026-11-20/"
+            }
+          ]
+        },
+        {
+          "desk": "business-india",
+          "title": "SEBI proposes easing offshore fund look-through requirements",
+          "body": [
+            "India's securities regulator proposed removing additional disclosure requirements for certain concentrated offshore investors. SEBI argues existing anti-money-laundering beneficial-ownership rules offer protection; critics may question whether tracing complex holdings becomes harder. This remains a proposal, not an enacted relaxation."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/legal/government/indias-markets-regulator-proposes-removing-additional-disclosure-requirements-2026-11-20/"
+            }
+          ]
+        },
+        {
+          "desk": "business-india",
+          "title": "RBI clarifies services-trade forex reporting rules",
+          "body": [
+            "The central bank issued FAQs on reporting for services imports and exports, following an exemption for resident individuals and a ₹1 million threshold for some declarations. The clarification addresses compliance scope rather than changing India's balance of payments by itself."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/india/indian-central-bank-clarifies-forex-reporting-rules-service-imports-exports-2026-11-20/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "name": "Science & Research",
+      "stories": [
+        {
+          "desk": "science",
+          "title": "Indian satellite-imagery firm SatSure secures space-fund investment",
+          "body": [
+            "Bengaluru-based SatSure raised ₹600 million from a state-backed venture fund within a planned ₹2 billion Series B round. Its satellite and AI analytics serve finance, agriculture and infrastructure clients. Planned 2027 payload launches and a future satellite network are ambitions, not satellites already operating."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/science/indian-space-startup-satsure-raises-7-million-sovereign-space-fund-2026-11-20/"
+            }
+          ]
+        },
+        {
+          "desk": "science",
+          "title": "Alzheimer's study separates two damaging amyloid intermediates",
+          "body": [
+            "A November 9 Nature Communications paper combined super-resolution imaging, single-molecule measurements and kinetic models to distinguish amyloid-beta aggregation intermediates by membrane-disrupting activity. The work clarifies mechanisms under study, but does not establish a clinical therapy or patient outcome."
+          ],
+          "sources": [
+            {
+              "label": "Nature Communications",
+              "url": "https://www.nature.com/articles/s41467-026-79028-0.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "Technology & AI",
+      "stories": [
+        {
+          "desk": "technology",
+          "title": "SEC accounting probe adds uncertainty for Nvidia",
+          "body": [
+            "Reuters reports that the US Securities and Exchange Commission is examining potential accounting issues at Nvidia, citing people briefed on the inquiry. An investigation does not establish wrongdoing, and no final enforcement finding was reported. The scrutiny arrives during a broad correction in AI-linked stocks."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/"
+            }
+          ]
+        },
+        {
+          "desk": "technology",
+          "title": "Trump proposes penalties for US data centres built overseas",
+          "body": [
+            "The president said he would impose a substantial tax on American companies building data centres abroad, arguing domestic capacity is essential to AI competition. No enacted tax or detailed legislative instrument was announced; the proposal could affect global operators if implemented."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/technology/trump-says-us-penalize-firms-building-data-centers-abroad-2026-11-20/"
+            }
+          ]
+        },
+        {
+          "desk": "technology",
+          "title": "US and China discuss human control over military AI",
+          "body": [
+            "Treasury Secretary Scott Bessent said Trump and Xi agreed humans should remain involved in major military decisions using AI. The account is an official description of talks, not an independently verified treaty with enforcement provisions. Definitions of autonomy and practical verification remain unresolved."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/china/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says-2026-11-20/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "climate",
+      "name": "Climate & Environment",
+      "stories": [
+        {
+          "desk": "climate",
+          "title": "COP31 runs into overtime over fossil fuels and finance",
+          "body": [
+            "Antalya negotiations passed Friday's planned deadline after a revised draft removed explicit fossil-fuel transition language and a proposed $120 billion adaptation-finance figure. Countries disagree over mitigation obligations and support for vulnerable economies. The draft is not a final COP decision; its eventual legal and political force depends on adopted wording."
+          ],
+          "sources": [
+            {
+              "label": "The Guardian",
+              "url": "https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal"
+            }
+          ]
+        },
+        {
+          "desk": "climate",
+          "title": "Pacific states warn adaptation funding is falling short",
+          "body": [
+            "The Pacific Resilience Facility was reported about $300 million short of a $500 million target despite new pledges. Island representatives say sea-level rise and flooding require accessible finance, not only future mitigation promises. A pledge is not necessarily disbursed money, and projected flooding frequencies are scenario-based rather than observed 2050 outcomes."
+          ],
+          "sources": [
+            {
+              "label": "The Guardian",
+              "url": "https://www.theguardian.com/environment/2026/nov/20/pacific-cop31-summit-climate-devastation"
+            }
+          ]
+        },
+        {
+          "desk": "climate",
+          "title": "Copernicus expands El Niño observation tools",
+          "body": [
+            "Copernicus released Climate Pulse 2.0 on November 10, adding separate ENSO-region temperature monitoring and historical comparisons. Its ERA5 reanalysis combines observations and modelling and typically lags real time by around two days. A warm single-day Niño 3.4 reading should not be confused with an officially classified multi-month ENSO index or proof of a specific local disaster."
+          ],
+          "sources": [
+            {
+              "label": "Copernicus C3S",
+              "url": "https://climate.copernicus.eu/new-version-climate-pulse-provides-new-monitoring-el-nino-conditions"
+            }
+          ]
+        },
+        {
+          "desk": "climate",
+          "title": "Carbon-removal language at COP31 sparks dispute over fossil-fuel substitution",
+          "body": [
+            "The revised draft encourages carbon-removal technologies while dropping explicit fossil-fuel language. Critics fear that speculative future removals could be used to justify continuing emissions. No new independently verified marine-CDR removal volume follows from this diplomatic text: planned, modelled, contracted and physically delivered removal are distinct categories."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/sustainability/cop/cop31-negotiators-publish-revised-deal-text-with-no-mention-fossil-fuels-2026-11-19/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
