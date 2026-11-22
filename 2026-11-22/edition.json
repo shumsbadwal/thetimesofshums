@@ -1,0 +1,597 @@
+{
+  "date": "2026-11-22",
+  "name": "The Times of Shums",
+  "desks": [
+    {
+      "id": "world",
+      "name": "World",
+      "stories": [
+        {
+          "desk": "world",
+          "title": "Ukraine peace talks remain open, but territorial demands divide the sides",
+          "body": [
+            "President Volodymyr Zelenskiy said on 21 November that he was willing to join renewed peace discussions and even meet Vladimir Putin, while doubting Moscow would abandon its demand for the Donbas. He described President Trump's comments about European war spending as an observation rather than a threat. The next negotiating agenda and timing remain unsettled; willingness to meet does not establish an agreed settlement."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/europe/trump-told-european-leaders-they-were-spending-lot-ukraine-zelenskiy-says-2026-11-21/"
+            }
+          ]
+        },
+        {
+          "desk": "world",
+          "title": "Iran diplomacy remains stalled despite mediated contacts",
+          "body": [
+            "Iranian Foreign Minister Abbas Araqchi said on 20 November that Tehran remains open to mediated talks but insists on assurances against renewed war and retaining its enriched uranium. President Trump rejected the terms as unacceptable. The IAEA's pre-war 440.9-kilogram estimate of uranium enriched to 60% must not be mistaken for a verified present inventory. Regional shipping and energy costs remain exposed to the conflict."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/araqchi-says-iran-wants-diplomacy-end-war-trump-says-terms-unacceptable-2026-11-20/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uk",
+      "name": "United Kingdom",
+      "stories": [
+        {
+          "desk": "uk",
+          "title": "UK–EU reset advances but tuition-fee dispute clouds signature",
+          "body": [
+            "Prime Minister Andy Burnham's package with the EU would deepen food-trade and emissions-market cooperation and create reciprocal youth mobility for up to 100,000 people. The government estimates a £17 billion economic benefit, not a measured gain. Brussels is seeking agreement over university tuition fees before final signature; implementation is therefore not settled. Reform UK argues the package undermines Brexit, while ministers emphasise lower trade barriers."
+          ],
+          "sources": [
+            {
+              "label": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband"
+            }
+          ]
+        },
+        {
+          "desk": "uk",
+          "title": "Rosebank decision approaches amid energy security and climate dispute",
+          "body": [
+            "Energy Secretary Miatta Fahnbulleh said a decision on the proposed £9 billion Rosebank oilfield is expected before Christmas, while warning that approving production would not directly lower British household bills because oil sells at world prices. Supporters cite jobs, tax revenue and domestic supply; opponents cite climate commitments. A decision has not yet been issued."
+          ],
+          "sources": [
+            {
+              "label": "The Times",
+              "url": "https://www.thetimes.com/uk/politics/article/rosebank-energy-bills-miatta-fahnbulleh-kdn2wmkcp"
+            }
+          ]
+        },
+        {
+          "desk": "uk",
+          "title": "Suffolk village stages symbolic vote against asylum accommodation",
+          "body": [
+            "Barnham residents voted 257–16 in a non-binding 'leave the UK' protest over a proposal to house about 930 asylum seekers at a former RAF site. Residents raised consultation and infrastructure concerns; the government seeks to reduce reliance on asylum hotels. The ballot has no constitutional effect and does not itself stop the accommodation plan."
+          ],
+          "sources": [
+            {
+              "label": "The Times",
+              "url": "https://www.thetimes.com/uk/politics/article/barnham-suffolk-raf-asylum-housing-referendum-gv006ktz9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "us",
+      "name": "United States",
+      "stories": [
+        {
+          "desk": "us",
+          "title": "Reported FBI and USDA intrusions raise questions about federal cyber defences",
+          "body": [
+            "Reports published on 20–21 November described intrusions affecting the FBI's National Crime Information Center and a USDA payments database. President Trump confirmed the FBI incident in an interview, but the extent of access and damage has not been independently established. The episodes heighten scrutiny of federal network security; they are not proof that every record in either system was compromised."
+          ],
+          "sources": [
+            {
+              "label": "The Verge",
+              "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked"
+            }
+          ]
+        },
+        {
+          "desk": "us",
+          "title": "Washington's Ukraine diplomacy confronts Russian territorial demands",
+          "body": [
+            "President Trump told European leaders that an end to the Ukraine war could free money for domestic needs, according to Zelenskiy, who said the remark was not threatening. Washington's envoys have supported European participation in talks. A diplomatic opening does not mean a peace framework has been accepted by Kyiv or Moscow."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/europe/trump-told-european-leaders-they-were-spending-lot-ukraine-zelenskiy-says-2026-11-21/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "south-asia",
+      "name": "South Asia",
+      "stories": [
+        {
+          "desk": "south-asia",
+          "title": "Nepal prime minister due in Delhi for bilateral talks",
+          "body": [
+            "Nepal Prime Minister Balendra Shah is scheduled to arrive in New Delhi on 22 November, meet President Droupadi Murmu and External Affairs Minister S. Jaishankar, and hold talks with Prime Minister Narendra Modi on Monday. These are scheduled engagements rather than completed diplomatic outcomes; concrete agreements should be assessed after the meetings."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express",
+              "url": "https://epaperarchive.indianexpress.com/viewepaper/4223815/Kolkata/November-22-2026"
+            }
+          ]
+        },
+        {
+          "desk": "south-asia",
+          "title": "Pakistan concludes Sri Lanka Test with eight-wicket win",
+          "body": [
+            "Pakistan completed an eight-wicket victory over Sri Lanka in Rawalpindi on 21 November, chasing 90 after dismissing Sri Lanka for 316 in their second innings. The result belongs to the bilateral World Test Championship series, not an international tournament final. The match is noted here for its regional significance; detailed sporting analysis belongs in the Sports desk."
+          ],
+          "sources": [
+            {
+              "label": "World Test Championship scorecard index",
+              "url": "https://en.wikipedia.org/wiki/2025%E2%80%932027_World_Test_Championship"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "india",
+      "name": "India",
+      "stories": [
+        {
+          "desk": "india",
+          "title": "Amit Shah offers talks and rehabilitation over disputed Siang hydropower plan",
+          "body": [
+            "Union Home Minister Amit Shah described the proposed 11,200 MW Siang Upper Multipurpose Project in Arunachal Pradesh as a national project and offered dialogue and a rehabilitation package to affected communities on 21 November. Indigenous opposition and recent protests reflect unresolved land, ecological and consent concerns. The offer is not an agreement with protesting residents."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express",
+              "url": "https://epaperarchive.indianexpress.com/viewepaper/4223820/Mumbai/November-22-2026"
+            }
+          ]
+        },
+        {
+          "desk": "india",
+          "title": "India and China hold another round of Arunachal frontier talks",
+          "body": [
+            "The Indian Express reports that Indian and Chinese corps commanders met for nearly ten days after 8 November to discuss frontier tensions in Arunachal Pradesh. Officials reportedly described the exchanges as cordial, but implementation of any measures remains unclear. Talks are a diplomatic step, not verified de-escalation on the ground."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express",
+              "url": "https://epaperarchive.indianexpress.com/viewepaper/4223815/Kolkata/November-22-2026"
+            }
+          ]
+        },
+        {
+          "desk": "india",
+          "title": "BJP reportedly restricts voter-deletion forms for Uttar Pradesh booth agents",
+          "body": [
+            "Following complaints and police cases concerning bulk Form 7 submissions during voter-roll revision, BJP sources told The Indian Express that its booth agents are being provided Forms 6 and 8, but not Form 7, in the latest round. Claims about deletions and their religious composition remain politically contested and should not be presented as verified demographic findings."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express",
+              "url": "https://epaperarchive.indianexpress.com/viewepaper/4223814/Lucknow/November-22-2026"
+            }
+          ]
+        },
+        {
+          "desk": "india",
+          "title": "Rajasthan local election setback exposes pressure on governing BJP",
+          "body": [
+            "State Election Commission data analysed by The Indian Express indicate a particularly severe BJP defeat to Congress in Rajasthan's Zila Parishad elections, described as its worst in at least three decades. Local-election results cannot be extrapolated mechanically to a future assembly contest, but provide evidence of organisational and rural political pressures."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express",
+              "url": "https://indianexpress.com/print/front-page/page/472/http%3A/indianexpress.com/print/front-page/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mumbai",
+      "name": "Mumbai & Maharashtra",
+      "stories": [
+        {
+          "desk": "mumbai",
+          "title": "Maharashtra pollution board orders work stopped at Adani pumped-storage site",
+          "body": [
+            "The Maharashtra Pollution Control Board directed Adani Green Energy to stop excavation and development work at Sawarghar village, Satara district, in a letter dated 20 November. The board cited missing intimation and necessary permissions for labour-camp and storage activity. This is a regulatory stop-work direction, not a final adjudication of all project permissions or the project's overall merits."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express",
+              "url": "https://epaperarchive.indianexpress.com/viewepaper/4223820/Mumbai/November-22-2026"
+            }
+          ]
+        },
+        {
+          "desk": "mumbai",
+          "title": "State withdraws legal challenge to national food regulator",
+          "body": [
+            "Maharashtra withdrew its FDA's Bombay High Court challenge to the Food Safety and Standards Authority of India on 21 November, reportedly following a state-government directive. The case concerned the division of enforcement powers for centrally licensed food businesses. Withdrawal leaves the substantive federal regulatory dispute unresolved by judicial ruling."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express",
+              "url": "https://epaperarchive.indianexpress.com/viewepaper/4223820/Mumbai/November-22-2026"
+            }
+          ]
+        },
+        {
+          "desk": "mumbai",
+          "title": "Mumbai police introduce QR-verifiable identification cards",
+          "body": [
+            "Mumbai Police announced QR-enabled smart identity cards intended to let residents check whether someone claiming to be an officer is genuine. The scheme responds to impersonation and extortion scams. Its effectiveness will depend on secure verification, rollout and public awareness, rather than the presence of QR codes alone."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express",
+              "url": "https://epaperarchive.indianexpress.com/viewepaper/4223820/Mumbai/November-22-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "entertainment-global",
+      "name": "Entertainment and Pop Culture - Global",
+      "stories": [
+        {
+          "desk": "entertainment-global",
+          "title": "BTS live-viewing events reach cinemas in Asia",
+          "body": [
+            "Box Office Mojo's 21 November release calendar lists screenings of the BTS 'Arirang' tour in Jakarta and Kaohsiung, demonstrating how concert cinema can distribute live performances beyond stadium capacity. Listings establish scheduled screenings, not ticket sales or attendance figures."
+          ],
+          "sources": [
+            {
+              "label": "Box Office Mojo",
+              "url": "https://www.boxofficemojo.com/calendar/2026-11-05/"
+            }
+          ]
+        },
+        {
+          "desk": "entertainment-global",
+          "title": "Anniversary revival and holiday releases shape coming cinema week",
+          "body": [
+            "The release calendar lists a 25th-anniversary screening of A Beautiful Mind for 22 November and a slate of new films for 25 November. Dates and release widths are scheduling information; they should not be confused with opening-weekend box-office results."
+          ],
+          "sources": [
+            {
+              "label": "Box Office Mojo",
+              "url": "https://www.boxofficemojo.com/calendar/2026-11-07/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "entertainment-india",
+      "name": "Entertainment and Pop Culture - India",
+      "stories": [
+        {
+          "desk": "entertainment-india",
+          "title": "Sonia Gandhi memoir draws exceptional early publishing demand",
+          "body": [
+            "Financial Express's 22 November literary coverage reports publisher figures indicating more than 200,000 copies of Sonia Gandhi's memoir Belonging: A Journey of Love sold in its first week. These are publisher-reported sales, not independently audited retail totals. The release has also sparked debate about political memoir and first-person historical accounts."
+          ],
+          "sources": [
+            {
+              "label": "Financial Express",
+              "url": "https://epaperarchive.indianexpress.com/viewepaper/4223830/Mumbai/November-22-2026"
+            }
+          ]
+        },
+        {
+          "desk": "entertainment-india",
+          "title": "Varanasi biennale expands citywide cultural programming",
+          "body": [
+            "Financial Express's Sunday cultural pages highlight a citywide biennale in Varanasi, an example of art programming extending beyond conventional galleries. The feature offers a cultural development rather than a claim of measured tourism or economic impact."
+          ],
+          "sources": [
+            {
+              "label": "Financial Express",
+              "url": "https://epaperarchive.indianexpress.com/viewepaper/4223830/Mumbai/November-22-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "stories": [
+        {
+          "desk": "sports",
+          "title": "Pakistan beat Sri Lanka by eight wickets in Rawalpindi Test",
+          "body": [
+            "Pakistan reached 90 for two after Sri Lanka made 98 and 316, following Pakistan's first-innings 325. The 21 November result followed a drawn opening Test and adds World Test Championship points; the result should not be mistaken for a series of limited-overs fixtures."
+          ],
+          "sources": [
+            {
+              "label": "World Test Championship scorecard index",
+              "url": "https://en.wikipedia.org/wiki/2025%E2%80%932027_World_Test_Championship"
+            }
+          ]
+        },
+        {
+          "desk": "sports",
+          "title": "Alcaraz survives Shelton in ATP Finals semi-final",
+          "body": [
+            "Results recorded for 21 November show Carlos Alcaraz defeating Ben Shelton 3–6, 6–3, 7–6 in Turin. The result establishes progression from a semi-final, not a title victory; the final's result was not established at the edition cutoff."
+          ],
+          "sources": [
+            {
+              "label": "Tennis Database API",
+              "url": "https://tennisdatabaseapi.com/matches/2026-11-21"
+            }
+          ]
+        },
+        {
+          "desk": "sports",
+          "title": "Russell takes Las Vegas Grand Prix pole",
+          "body": [
+            "George Russell qualified on pole with a reported 1:32.312 lap, 0.098 seconds ahead of Carlos Sainz, with Pierre Gasly third. Qualifying order determines the starting grid subject to penalties; it does not predict or establish the race winner."
+          ],
+          "sources": [
+            {
+              "label": "Kendan Africa sports results",
+              "url": "https://www.kendanafrica.com/the-morning-wire/sport"
+            }
+          ]
+        },
+        {
+          "desk": "sports",
+          "title": "Gukesh prepares for world chess title defence",
+          "body": [
+            "The Indian Express profiles world champion D. Gukesh's preparation and guidance from Viswanathan Anand ahead of his title defence. This is a pre-event account of preparation rather than a completed match result."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express",
+              "url": "https://indianexpress.com/print/front-page/page/472/http%3A/indianexpress.com/print/front-page/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "business-global",
+      "name": "Business and Finance - Global",
+      "stories": [
+        {
+          "desk": "business-global",
+          "title": "EU budget chair proposes €1.582 trillion framework and digital levy",
+          "body": [
+            "European Council President António Costa proposed a €1.582 trillion 2028–2034 budget, €40 billion below an October compromise, and a 3% tax on certain large-company digital revenues. The proposal faces objections over farm spending, defence and competitiveness and requires unanimous agreement. Leaders are due to debate it on 26–27 November; no final budget is approved."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/markets/us/eu-leaders-chair-proposes-new-cuts-eu-2028-2034-budget-draft-suggests-digital-2026-11-21/"
+            }
+          ]
+        },
+        {
+          "desk": "business-global",
+          "title": "Central-bank decisions and holiday spending set up market week",
+          "body": [
+            "Reuters' 20 November market preview identifies US holiday retail demand, inflation and revised GDP data, expected South Korean rate action, Australian inflation and Japanese price data as coming catalysts. Forecasts for US retail spending are projections rather than realised receipts; expected policy moves are not decisions."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/business/take-five/global-markets-themes-graphic-2026-11-20/"
+            }
+          ]
+        },
+        {
+          "desk": "business-global",
+          "title": "IEA says Hormuz disruption may permanently reshape energy trade",
+          "body": [
+            "The International Energy Agency says the Iran war's shipping shock could accelerate diversification and electrification. Its scenario puts oil shipments through Hormuz at 8.5 million barrels a day by 2030 versus roughly 20 million before the war. These are model projections, not observed 2030 flows; continued conflict and policy responses will determine outcomes."
+          ],
+          "sources": [
+            {
+              "label": "Associated Press",
+              "url": "https://apnews.com/article/a53b5522e557afd5370c08aee351032b"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "business-india",
+      "name": "Business and Finance - India",
+      "stories": [
+        {
+          "desk": "business-india",
+          "title": "SEBI proposes easing offshore-fund ownership disclosure rules",
+          "body": [
+            "India's securities regulator proposed removing additional look-through disclosure requirements for foreign funds heavily concentrated in one Indian corporate group. SEBI says existing beneficial-ownership rules may suffice; supporters expect easier inflows, while the change raises transparency questions. It is a consultation proposal, not an enacted repeal."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/legal/government/indias-markets-regulator-proposes-removing-additional-disclosure-requirements-2026-11-20/"
+            }
+          ]
+        },
+        {
+          "desk": "business-india",
+          "title": "RBI policy rate remains 5.50% in latest displayed official snapshot",
+          "body": [
+            "The Reserve Bank of India's website showed a 5.50% policy repo rate and 3.00% cash reserve ratio in its 19 November snapshot. The same page quoted the rupee at 93.3461 per dollar at 1 p.m. that day. These are dated observations, not a verified live Sunday exchange rate or an indication of a fresh policy decision."
+          ],
+          "sources": [
+            {
+              "label": "Reserve Bank of India",
+              "url": "https://www.rbi.org.in/home.aspx/Scripts/Scripts/Scripts/Scripts/Scripts/Scripts/Scripts/scripts/Scripts/BS_ViewInterviews.aspx"
+            }
+          ]
+        },
+        {
+          "desk": "business-india",
+          "title": "Tata Sons listing mandate returns to board agenda",
+          "body": [
+            "Financial Express reports that the RBI listing requirement for Tata Sons is set to feature at the holding company's 26 November board meeting, while a Tata Trusts restructuring proposal to retain private status is reportedly not on the formal agenda. This is a forthcoming governance decision, not a completed listing or regulatory exemption."
+          ],
+          "sources": [
+            {
+              "label": "Financial Express",
+              "url": "https://epaperarchive.indianexpress.com/viewepaper/4223830/Mumbai/November-22-2026"
+            }
+          ]
+        },
+        {
+          "desk": "business-india",
+          "title": "Foreign investment debate sharpens around market transparency",
+          "body": [
+            "Reuters reports that offshore investors sold nearly $50 billion of Indian equities between January 2025 and October 2026, followed by substantial November inflows. These reported cumulative flows help explain pressure for regulatory relaxation but do not establish that disclosure rules alone caused outflows. The proposed change still needs regulatory consideration."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/legal/government/indias-markets-regulator-proposes-removing-additional-disclosure-requirements-2026-11-20/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "name": "Science & Research",
+      "stories": [
+        {
+          "desk": "science",
+          "title": "Two NASA Mars missions pause science amid separate equipment problems",
+          "body": [
+            "Perseverance entered a communications-related safe mode after its primary UHF radio stopped sending usual signals on 30 October; the rover remains stable. Mars Odyssey entered safe mode on 4 November after another reaction-wheel problem. Engineers are testing recovery options. These are operational interruptions, not evidence the missions have ended."
+          ],
+          "sources": [
+            {
+              "label": "Space.com",
+              "url": "https://www.space.com/astronomy/mars/trouble-at-mars-nasas-perseverance-rover-odyssey-orbiter-halt-science-work-due-to-glitches"
+            }
+          ]
+        },
+        {
+          "desk": "science",
+          "title": "Animal study raises questions about deep-space radiation and cardiac scarring",
+          "body": [
+            "A rat experiment using simulated galactic cosmic rays found more small-vessel heart scarring after long follow-up than in controls. The finding offers a biological risk signal for long-duration missions, but rat exposures and outcomes cannot be translated directly into predicted human astronaut disease rates."
+          ],
+          "sources": [
+            {
+              "label": "Live Science / PLOS One research coverage",
+              "url": "https://www.livescience.com/space/space-exploration/cosmic-rays-could-scar-the-heart-raising-risks-for-mars-bound-astronauts-rat-study-hints"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "Technology & AI",
+      "stories": [
+        {
+          "desk": "technology",
+          "title": "US federal intrusions put critical data access in focus",
+          "body": [
+            "Reported breaches at the FBI and USDA underscore how high-value databases and administrative systems can be targeted. The scope of compromise remains under investigation. Cybersecurity analysis must separate confirmed access, allegations about attackers and downstream harms that have not yet been documented."
+          ],
+          "sources": [
+            {
+              "label": "The Verge",
+              "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked"
+            }
+          ]
+        },
+        {
+          "desk": "technology",
+          "title": "EU digital-tax proposal raises technology trade tensions",
+          "body": [
+            "A 3% levy on certain large-company digital revenues is among the European Council president's proposed budget financing measures. Major US technology companies could be affected, but scope and collection remain subject to negotiations and unanimous budget approval. The proposal is not an existing tax."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/markets/us/eu-leaders-chair-proposes-new-cuts-eu-2028-2034-budget-draft-suggests-digital-2026-11-21/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "climate",
+      "name": "Climate & Environment",
+      "stories": [
+        {
+          "desk": "climate",
+          "title": "COP31 negotiators near possible compromise after overtime talks",
+          "body": [
+            "In Antalya, a revised COP31 package circulated after prolonged disagreement over fossil-fuel language and adaptation finance. At the Sunday-morning cutoff, the conference president expressed optimism, but final adoption had not been verified. A draft text, a proposed compromise and an adopted UN decision are different stages and must not be conflated."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/sustainability/cop/cop31-climate-talks-close-final-deal-says-summit-president-2026-11-21/"
+            }
+          ]
+        },
+        {
+          "desk": "climate",
+          "title": "Coalition pushes for explicit fossil-fuel transition in COP31 outcome",
+          "body": [
+            "Reporting on 21 November described around 130 countries seeking stronger language on moving away from fossil fuels, opposed by Saudi Arabia and some other producers. Vulnerable countries also pressed for adaptation finance. Negotiating positions and reported coalition sizes are not evidence of an agreed phase-out timetable."
+          ],
+          "sources": [
+            {
+              "label": "The Guardian",
+              "url": "https://www.theguardian.com/environment/2026/nov/21/climate-talks-stall-countries-mull-showdown-saudi-arabia-over-fossil-fuels"
+            }
+          ]
+        },
+        {
+          "desk": "climate",
+          "title": "Copernicus projects another calendar year above 1.5°C",
+          "body": [
+            "Copernicus' October press resources projected a 2026 global mean anomaly of 1.56–1.61°C above the 1850–1900 preindustrial reference, using a statistical model fitted to ERA5 reanalysis. This is a calendar-year forecast, not a final observed annual result or proof that the Paris Agreement's long-term temperature threshold has been formally crossed. Copernicus also reported a December 2025 rolling CO₂ average of 425.91 ppm; its baseline and time period differ from NOAA's Mauna Loa series."
+          ],
+          "sources": [
+            {
+              "label": "Copernicus C3S/CAMS",
+              "url": "https://climate.copernicus.eu/cop31-press-resources"
+            }
+          ]
+        },
+        {
+          "desk": "climate",
+          "title": "Energy-security shock changes climate policy trade-offs",
+          "body": [
+            "The IEA expects the Iran conflict to push governments toward more domestic renewable and nuclear energy, while some countries may also retain coal as backup. This is an outlook contingent on policies and investment, not a measured emissions reduction. For marine CDR, changing energy mix and ocean conditions remain relevant to lifecycle accounting, but no new verified removal tonnage is established by this report."
+          ],
+          "sources": [
+            {
+              "label": "Associated Press / IEA",
+              "url": "https://apnews.com/article/a53b5522e557afd5370c08aee351032b"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
