@@ -67,9 +67,10 @@
 .figure-strip__item span{font:500 11px/1.4 system-ui,-apple-system,sans-serif;color:#63736a}
 @media(max-width:480px){.figure-strip{padding:14px;gap:16px}}
 
-/* Keep story navigation in the mobile viewport without zooming out. */
+/* Mobile controls return to the normal flow, immediately below the card. */
+.reader-card{touch-action:pan-y pinch-zoom}
 @media(max-width:700px){
- .reader-mobile-controls{position:sticky;bottom:0;z-index:20;background:rgba(251,250,246,.98);border-top:1px solid var(--rule);padding:10px 2px max(10px,env(safe-area-inset-bottom));margin-top:8px;box-shadow:0 -5px 18px rgba(21,43,30,.06)}
+ .reader-mobile-controls{position:static;bottom:auto;z-index:auto;background:transparent;border-top:0;padding:17px 0 22px;margin-top:0;box-shadow:none}
  .mobile-story-button{flex:0 0 auto;min-width:90px;min-height:48px}
  .mobile-story-status{flex:1;text-align:center}
 }
