@@ -1,0 +1,333 @@
+{
+  "date": "2026-11-23",
+  "name": "The Times of Shums",
+  "desks": [
+    {
+      "id": "world",
+      "name": "World",
+      "stories": [
+        {
+          "title": "Ukraine's wartime economy shows strain in Kyiv's shuttered restaurants",
+          "body": [
+            "Reuters reported on 22 November that empty storefronts and closing restaurants are increasingly visible along Kyiv's Khreshchatyk. This illustrates civilian economic pressure but is not itself a national estimate of business closures."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/video/watch/idOV976G57V/"
+            }
+          ],
+          "desk": "world"
+        },
+        {
+          "title": "Indonesia factory fire leaves rescuers searching for missing workers",
+          "body": [
+            "A Reuters news roundup dated 22 November reported 24 deaths at an Indonesian factory blaze and a search for dozens of missing people. Casualty figures may change as rescue operations continue."
+          ],
+          "sources": [
+            {
+              "label": "Reuters news roundup",
+              "url": "https://www.streetinsider.com/Reuters/Trump%2Bresumes%2BIran%2Bport%2Bblockade%2Band%2Bthreatens%2Bstrikes%2Bon%2Benergy%2Btargets/x"
+            }
+          ],
+          "desk": "world"
+        }
+      ]
+    },
+    {
+      "id": "uk",
+      "name": "United Kingdom",
+      "stories": []
+    },
+    {
+      "id": "us",
+      "name": "United States",
+      "stories": []
+    },
+    {
+      "id": "south-asia",
+      "name": "South Asia",
+      "stories": [
+        {
+          "title": "Nepal prime minister's India visit puts energy and rail links on agenda",
+          "body": [
+            "Nepal's prime minister Balendra Shah began a visit on 22 November. Talks with Narendra Modi on 23 November were expected to cover energy, connectivity, infrastructure and a proposed Ayodhya–Janakpur train. Scheduled ceremonies should not be mistaken for completed operations."
+          ],
+          "sources": [
+            {
+              "label": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/india-news/ht-morning-news-brief-november-23-nepal-pm-modi-cpcb-delhi-aqi-calculation-alice-huang-chinese-spy-india-new-zealand-ramayana-box-office-101795402135160-amp.html"
+            }
+          ],
+          "desk": "south-asia"
+        }
+      ]
+    },
+    {
+      "id": "india",
+      "name": "India",
+      "stories": [
+        {
+          "title": "Supreme Court's scheduled docket includes electoral-roll challenges",
+          "body": [
+            "The Indian Express reported that the Supreme Court's 23 November cause list included petitions about the Special Intensive Revision of electoral rolls in West Bengal, alongside Delhi air pollution and other rights-related cases. A listing does not mean a final judgment has been issued."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express",
+              "url": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-23-november-2026-delhi-mumbai-weather-kochi-telangana-supreme-court-bengal-sir-modi-balendra-shah-ayodhya-janakpur-train-10974387/"
+            }
+          ],
+          "desk": "india"
+        },
+        {
+          "title": "Samajwadi Party and Congress plan seat-sharing talks",
+          "body": [
+            "The Indian Express reported that Uttar Pradesh's Samajwadi Party and Congress were due to hold seat-sharing discussions on 23 November, with Ram Gopal Yadav representing the SP leadership. Talks are not an agreement on constituencies."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express",
+              "url": "https://indianexpress.com/archive/2026/11/23/"
+            }
+          ],
+          "desk": "india"
+        }
+      ]
+    },
+    {
+      "id": "mumbai",
+      "name": "Mumbai & Maharashtra",
+      "stories": [
+        {
+          "title": "Bombay High Court eases Naresh Goyal's medical travel conditions",
+          "body": [
+            "The Bombay High Court relaxed bail conditions for Jet Airways founder Naresh Goyal, allowing overseas medical treatment without requiring fresh trial-court permission for every trip, according to The Indian Express. This is a bail-condition decision, not a disposition of the underlying case."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express",
+              "url": "https://indianexpress.com/article/cities/mumbai/maharashtra-mumbai-news-live-updates-november-23-pune-thane-navi-mumbai-news-aqi-weather-bisleri-bombay-hc-naresh-goyal-metro-10974542/"
+            }
+          ],
+          "desk": "mumbai"
+        },
+        {
+          "title": "Mumbai records mixed air quality and below-normal morning temperatures",
+          "body": [
+            "The Indian Express reported a 23 November city AQI of 152, while Colaba and Malad registered 266 and 206 respectively. IMD minimum temperatures were 20.1°C at Santacruz and 22.2°C at Colaba, each modestly below local normals. A single day's readings do not establish a climate trend."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express",
+              "url": "https://indianexpress.com/article/cities/mumbai/maharashtra-mumbai-news-live-updates-november-23-pune-thane-navi-mumbai-news-aqi-weather-bisleri-bombay-hc-naresh-goyal-metro-10974542/"
+            }
+          ],
+          "desk": "mumbai"
+        }
+      ]
+    },
+    {
+      "id": "entertainment-global",
+      "name": "Entertainment and Pop Culture - Global",
+      "stories": []
+    },
+    {
+      "id": "entertainment-india",
+      "name": "Entertainment and Pop Culture - India",
+      "stories": [
+        {
+          "title": "Shabana Azmi challenges a comparison between India and Afghanistan over clothing",
+          "body": [
+            "In comments reported by The Indian Express on 23 November, actor Shabana Azmi contrasted India's constitutional secular democracy with Afghanistan's theocratic government during a dispute over women's clothing choices. The remarks are part of a public political-cultural argument, not a change in law."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express",
+              "url": "https://indianexpress.com/article/entertainment/bollywood/if-you-force-me-to-not-wear-a-burqa-ill-wear-3-of-them-shabana-azmi-10974325/"
+            }
+          ],
+          "desk": "entertainment-india"
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "stories": [
+        {
+          "title": "India–New Zealand Wellington Test finishes drawn",
+          "body": [
+            "New Zealand batted through the final day in Wellington on 23 November to secure a draw in the first Test against India, according to match reporting. The result is final, rather than a match preview."
+          ],
+          "sources": [
+            {
+              "label": "Times of India",
+              "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/new-zealands-blockathon-frustrates-india-as-wellington-test-ends-in-a-draw/articleshow/136089728.cms"
+            }
+          ],
+          "desk": "sports"
+        },
+        {
+          "title": "Pakistan A beat India A despite Tilak Varma century",
+          "body": [
+            "The Indian Express reported that Tilak Varma scored 100 but Pakistan A won their Rising Stars Asia Cup meeting. The individual century did not translate into a team victory."
+          ],
+          "sources": [
+            {
+              "label": "The Indian Express",
+              "url": "https://indianexpress.com/article/sports/cricket/tilak-varma-100-pakistan-a-defeat-india-a-rising-stars-asia-cup-10974124/"
+            }
+          ],
+          "desk": "sports"
+        }
+      ]
+    },
+    {
+      "id": "business-global",
+      "name": "Business and Finance - Global",
+      "stories": [
+        {
+          "title": "AI investment doubts deepen the global equities retreat",
+          "body": [
+            "Reuters reported on 23 November that Asian equities followed Wall Street lower after a sharp US selloff, as investors questioned the returns on large AI infrastructure spending. Market movements and assessments of future returns should be kept separate."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/video/watch/idRW048623112026RP1/"
+            }
+          ],
+          "desk": "business-global"
+        },
+        {
+          "title": "Oil falls as traders weigh Iran-war supply risk",
+          "body": [
+            "At 08:44 GMT on 23 November Reuters recorded Brent at $91.97 a barrel, down 0.65%, and US WTI at $82.92, down 0.59%. Attacks around Gulf shipping sustained a risk premium, while OPEC+ ministers were due to discuss 2027 policy on 29 November."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/business/energy/oil-prices-fall-amid-equity-selloff-though-iran-war-attacks-limit-losses-2026-11-23/"
+            }
+          ],
+          "desk": "business-global"
+        },
+        {
+          "title": "Gold rebounds as the dollar's rally pauses",
+          "body": [
+            "Reuters reported a rise of more than 2% in gold on 23 November as the US dollar's advance paused. The intraday move is not a final closing price or proof of a lasting reversal."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/india/gold-rises-14-month-low-markets-await-key-us-inflation-data-2026-11-23/"
+            }
+          ],
+          "desk": "business-global"
+        }
+      ]
+    },
+    {
+      "id": "business-india",
+      "name": "Business and Finance - India",
+      "stories": [
+        {
+          "title": "Indian equities retreat as financial shares weigh",
+          "body": [
+            "Reuters reported on 23 November that financial stocks dragged Indian shares lower as investors took profits following four weeks of gains. The daily decline should be read against the preceding rally rather than as a stand-alone trend."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/india/indian-shares-set-open-higher-foreign-inflows-ai-selloff-persists-2026-11-23/"
+            }
+          ],
+          "desk": "business-india"
+        },
+        {
+          "title": "November business survey finds factories offset weaker services growth",
+          "body": [
+            "A November purchasing managers' survey cited by Reuters indicated a slight acceleration in private-sector activity, led by manufacturing demand and output, while services expansion moderated. PMI is a survey diffusion indicator, not an official GDP release."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/india/india-factory-demand-offsets-weaker-services-growth-november-pmi-shows-2026-11-23/"
+            }
+          ],
+          "desk": "business-india"
+        },
+        {
+          "title": "HDFC Bank treasury chief outlines a possible rupee recovery",
+          "body": [
+            "HDFC Bank's treasury head told Reuters the rupee could strengthen to 91.50 per dollar if equity inflows support the currency. This is a conditional market forecast, not an observed exchange rate or RBI target."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/india/indian-rupee-could-rise-9150-equity-inflows-hdfc-banks-treasury-head-says-2026-11-23/"
+            }
+          ],
+          "desk": "business-india"
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "name": "Science & Research",
+      "stories": []
+    },
+    {
+      "id": "technology",
+      "name": "Technology & AI",
+      "stories": [
+        {
+          "title": "Cloud-sovereignty debate exposes Europe's dependence on US providers",
+          "body": [
+            "A Reuters roundup on 23 November highlighted Europe's growing cloud-sovereignty initiatives alongside the continued dominance of US hyperscalers. Political aspirations for technological autonomy are not equivalent to immediate changes in market share."
+          ],
+          "sources": [
+            {
+              "label": "Reuters news roundup",
+              "url": "https://www.streetinsider.com/Reuters/Trump%2Bresumes%2BIran%2Bport%2Bblockade%2Band%2Bthreatens%2Bstrikes%2Bon%2Benergy%2Btargets/x"
+            }
+          ],
+          "desk": "technology"
+        }
+      ]
+    },
+    {
+      "id": "climate",
+      "name": "Climate & Environment",
+      "stories": [
+        {
+          "title": "COP31 ends without a consensus political agreement",
+          "body": [
+            "Reuters reported that the Antalya climate summit closed after the EU and other delegations rejected a draft that did not adequately address fossil-fuel transition. The failure of the overarching decision does not mean every technical negotiation produced no outcome. Turkey's presidency denied claims of preferential access for Saudi Arabia."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/sustainability/cop/cop31-climate-talks-close-final-deal-says-summit-president-2026-11-21/"
+            }
+          ],
+          "desk": "climate"
+        },
+        {
+          "title": "Saudi influence and carbon-capture language come under scrutiny",
+          "body": [
+            "Reuters reported negotiators' allegations that Saudi Arabia had unusually strong access during COP31 and opposed explicit fossil-fuel transition language while promoting carbon capture. The presidency disputed preferential-treatment claims. Carbon capture language is not evidence of delivered or independently verified carbon removal."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/sustainability/cop/saudi-arabias-influence-loomed-large-over-failed-cop31-deal-2026-11-23/"
+            }
+          ],
+          "desk": "climate"
+        }
+      ]
+    }
+  ]
+}
