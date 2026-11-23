@@ -37,12 +37,66 @@
     {
       "id": "uk",
       "name": "United Kingdom",
-      "stories": []
+      "stories": [
+        {
+          "title": "Labour outlines a larger public role in water and energy utilities",
+          "body": [
+            "On 23 November, Reuters reported that senior minister Louise Haigh would set out the Labour government's case for greater public control of utilities at the CBI conference. Prime Minister Andy Burnham has criticised weak regulation, high prices and sewage discharges. The government describes its approach as a partnership with private investors, not a completed programme of nationalisation. A planned speech is not enacted policy."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/uk/uk-government-make-case-greater-public-control-utilities-2026-11-23/"
+            }
+          ],
+          "desk": "uk"
+        },
+        {
+          "title": "Cross-party MPs press for public ownership registers in overseas territories",
+          "body": [
+            "A group of British MPs urged Foreign Secretary Ed Miliband to compel overseas territories to disclose company beneficial owners. Parliament legislated for transparency in 2018, but implementation has lagged. The British Virgin Islands argues its legitimate-interest access regime is proportionate; critics say restricted access undermines sanctions and anti-corruption scrutiny. The request is political pressure, not a new order."
+          ],
+          "sources": [
+            {
+              "label": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/nov/23/mps-urge-miliband-force-uk-overseas-territories-publish-public-company-registers"
+            }
+          ],
+          "desk": "uk"
+        }
+      ]
     },
     {
       "id": "us",
       "name": "United States",
-      "stories": []
+      "stories": [
+        {
+          "title": "Democrats clinch incoming House majority, but new Congress has not convened",
+          "body": [
+            "Associated Press reported on 23 November that Democrats had secured at least 258 House seats in the 2026 midterms, with four races unresolved. That would be the party's largest House majority since 1992; the new Congress begins in January 2027, so election results must not be confused with present legislative control. Democrats have outlined affordability and oversight priorities, while Republican leader Jim Jordan vowed opposition."
+          ],
+          "sources": [
+            {
+              "label": "Associated Press",
+              "url": "https://apnews.com/article/721096a4d9ba2cd68683692361798cdb"
+            }
+          ],
+          "desk": "us"
+        },
+        {
+          "title": "Senate Republicans block Iran war-powers measure despite election losses",
+          "body": [
+            "On 19 November, the Senate voted 51–48 against a resolution requiring President Donald Trump to end the Iran war or seek congressional approval. Three Republicans joined Democrats in support, while Democrat John Fetterman voted against. The House had previously approved the measure. The vote illustrates the gap between the incoming Democratic majority and the current Congress's power to constrain the administration."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/us-senate-rejects-resolution-curbing-trumps-iran-war-powers-2026-11-19/"
+            }
+          ],
+          "desk": "us"
+        }
+      ]
     },
     {
       "id": "south-asia",
@@ -130,7 +184,34 @@
     {
       "id": "entertainment-global",
       "name": "Entertainment and Pop Culture - Global",
-      "stories": []
+      "stories": [
+        {
+          "title": "Thanksgiving streaming slate spans new dramas, comedies and franchise television",
+          "body": [
+            "The Associated Press previewed releases scheduled for the week of 23–29 November, including Netflix's World War II film The Mosquito Bowl, Peacock comedy Dig with Amy Poehler and Hugh Laurie, and Prime Video's Blade Runner 2099. These are release plans and editorial previews, not audience ratings or evidence that all titles are already available."
+          ],
+          "sources": [
+            {
+              "label": "Associated Press",
+              "url": "https://apnews.com/article/d7cb84d93103fc09497292150ca33dc2"
+            }
+          ],
+          "desk": "entertainment-global"
+        },
+        {
+          "title": "Jennifer Lopez concert special and Peter Gabriel record headline music releases",
+          "body": [
+            "The Associated Press reported that The JLO Show: Live in Las Vegas was scheduled for CBS and Paramount+ on 26 November, while Peter Gabriel's 13-track companion album to i/o was due on 27 November. Scheduled release dates should not be presented as completed launches or commercial successes."
+          ],
+          "sources": [
+            {
+              "label": "Associated Press",
+              "url": "https://apnews.com/article/d7cb84d93103fc09497292150ca33dc2"
+            }
+          ],
+          "desk": "entertainment-global"
+        }
+      ]
     },
     {
       "id": "entertainment-india",
@@ -276,7 +357,34 @@
     {
       "id": "science",
       "name": "Science & Research",
-      "stories": []
+      "stories": [
+        {
+          "title": "NASA-backed observations reveal an unusual stellar merger in Andromeda",
+          "body": [
+            "NASA reported on 18 November that astronomers had identified a lower-mass star spiralling into and merging with a supergiant in the Andromeda galaxy. The team nicknamed the resulting object Bao and compared James Webb Space Telescope observations with other ground- and space-based measurements. The observations support a merger interpretation, while details of the star's later evolution remain a research question."
+          ],
+          "sources": [
+            {
+              "label": "NASA Science",
+              "url": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/"
+            }
+          ],
+          "desk": "science"
+        },
+        {
+          "title": "New Arctic laser-ranging station strengthens satellite-orbit measurements",
+          "body": [
+            "NASA Earth Observatory reported on 23 November that its next-generation satellite laser-ranging system began operating at Ny-Ålesund, Svalbard, on 12 October. The instrument times reflected laser pulses to refine satellite positions and the terrestrial reference frame, supporting sea-level, ice-mass and geodesy measurements. It is an instrumentation milestone, not a new measurement of climate change."
+          ],
+          "sources": [
+            {
+              "label": "NASA Earth Observatory",
+              "url": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/"
+            }
+          ],
+          "desk": "science"
+        }
+      ]
     },
     {
       "id": "technology",
