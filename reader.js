@@ -43,31 +43,6 @@
     if (event.key === 'ArrowRight' && index < stories.length - 1) { event.preventDefault(); show(index + 1, true); }
     if (event.key === 'ArrowLeft' && index > 0) { event.preventDefault(); show(index - 1, true); }
   });
-  // Horizontal swipe on touchscreens, or a mouse drag on desktop.
-  // Keep native vertical scrolling, text links and selectable article text intact.
-  if (card && window.PointerEvent) {
-    let gesture = null;
-    const interactive = 'a, button, input, textarea, select, [contenteditable="true"]';
-    card.addEventListener('pointerdown', event => {
-      if (!event.isPrimary || (event.pointerType === 'mouse' && event.button !== 0)) return;
-      if (event.target.closest(interactive)) return;
-      gesture = { id: event.pointerId, x: event.clientX, y: event.clientY, time: event.timeStamp };
-    });
-    card.addEventListener('pointerup', event => {
-      if (!gesture || event.pointerId !== gesture.id) return;
-      const dx = event.clientX - gesture.x;
-      const dy = event.clientY - gesture.y;
-      const elapsed = event.timeStamp - gesture.time;
-      gesture = null;
-      // A deliberate, mostly horizontal movement; never treat a vertical scroll as a flip.
-      if (Math.abs(dx) < 65 || Math.abs(dx) < Math.abs(dy) * 1.5 || elapsed > 1500) return;
-      if (event.pointerType === 'mouse' && window.getSelection()?.toString()) return;
-      const next = index + (dx < 0 ? 1 : -1);
-      if (next >= 0 && next < stories.length) show(next, true);
-    });
-    card.addEventListener('pointercancel', () => { gesture = null; });
-    card.addEventListener('lostpointercapture', () => { gesture = null; });
-  }
   window.addEventListener('hashchange', () => show(fromHash(), false));
   show(index);
 })();
