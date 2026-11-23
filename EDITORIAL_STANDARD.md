@@ -48,3 +48,10 @@ The 18 November counts are a breadth reference, not a daily target. A quiet desk
 
 ## Desk consolidation — 20 November 2026
 The separate CDR & Marine CDR desk is retired for new and revised editions. The newspaper has **14 desks**. Relevant carbon-removal reporting belongs in Climate & Environment, subject to the same newsworthiness and verification criteria as every other story. Historical editions may retain the original 15-desk layout to preserve their published record.
+
+## Rolling coverage and missed-story recovery — adopted 23 November 2026
+- Every new edition must examine the preceding 48–72 hours of reporting, not just stories published on the edition date; extend further for consequential stories missed earlier.
+- Compare candidate developments against the previous two to three editions. Prioritise significant stories not previously covered, even if the original event occurred yesterday or earlier.
+- Do not repeat a previously published story without a material new development, newly verified evidence, or a substantial correction; explicitly explain what changed.
+- Date the event, reporting and current status distinctly. Older news may appear as a clearly labelled catch-up story, never disguised as breaking news.
+- Complete a cross-desk missed-story sweep before publication; quality and verifiable evidence matter more than arbitrary same-day freshness or story quotas.
