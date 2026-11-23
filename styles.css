@@ -68,7 +68,6 @@
 @media(max-width:480px){.figure-strip{padding:14px;gap:16px}}
 
 /* Mobile controls return to the normal flow, immediately below the card. */
-.reader-card{touch-action:pan-y pinch-zoom}
 @media(max-width:700px){
  .reader-mobile-controls{position:static;bottom:auto;z-index:auto;background:transparent;border-top:0;padding:17px 0 22px;margin-top:0;box-shadow:none}
  .mobile-story-button{flex:0 0 auto;min-width:90px;min-height:48px}
