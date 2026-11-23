@@ -17,19 +17,21 @@
               "url": "https://www.reuters.com/video/watch/idOV976G57V/"
             }
           ],
-          "desk": "world"
+          "desk": "world",
+          "topic": "Reporting"
         },
         {
-          "title": "Indonesia factory fire leaves rescuers searching for missing workers",
+          "title": "China asks Switzerland to help defuse European trade tensions",
           "body": [
-            "A Reuters news roundup dated 22 November reported 24 deaths at an Indonesian factory blaze and a search for dozens of missing people. Casualty figures may change as rescue operations continue."
+            "On 23 November, China's foreign minister Wang Yi urged his Swiss counterpart to support a resolution of China–EU trade disagreements and oppose Taiwanese independence. The comments are a Chinese diplomatic position, not a Swiss policy commitment or a concluded trade agreement."
           ],
           "sources": [
             {
-              "label": "Reuters news roundup",
-              "url": "https://www.streetinsider.com/Reuters/Trump%2Bresumes%2BIran%2Bport%2Bblockade%2Band%2Bthreatens%2Bstrikes%2Bon%2Benergy%2Btargets/x"
+              "label": "Reuters wire roundup",
+              "url": "https://www.streetinsider.com/Reuters/US%2Bsenator%2Burges%2BWall%2BStreet%2Bto%2Breject%2B%27troubling%27%2Bpaid%2Bearly%2Baccess%2Bto%2BTrump%2Bposts/x"
             }
           ],
+          "topic": "23 Nov",
           "desk": "world"
         }
       ]
@@ -49,7 +51,8 @@
               "url": "https://www.reuters.com/world/uk/uk-government-make-case-greater-public-control-utilities-2026-11-23/"
             }
           ],
-          "desk": "uk"
+          "desk": "uk",
+          "topic": "Reporting"
         },
         {
           "title": "Cross-party MPs press for public ownership registers in overseas territories",
@@ -62,6 +65,21 @@
               "url": "https://www.theguardian.com/world/2026/nov/23/mps-urge-miliband-force-uk-overseas-territories-publish-public-company-registers"
             }
           ],
+          "desk": "uk",
+          "topic": "Reporting"
+        },
+        {
+          "title": "UK business activity slows slightly despite AI investment",
+          "body": [
+            "The preliminary S&P Global composite purchasing managers' index slipped to 52.3 in November from 52.9 in October, Reuters reported on 23 November. Readings above 50 indicate expansion. Survey economist Chris Williamson interpreted the results as consistent with fourth-quarter growth of about 0.6%, but that is a survey-based estimate, not an official GDP result. Respondents reported weaker export services demand and property-market activity alongside AI-related investment."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/uk/uk-pmi-shows-slight-november-slowdown-q4-looks-robust-2026-11-23/"
+            }
+          ],
+          "topic": "23 Nov",
           "desk": "uk"
         }
       ]
@@ -81,7 +99,8 @@
               "url": "https://apnews.com/article/721096a4d9ba2cd68683692361798cdb"
             }
           ],
-          "desk": "us"
+          "desk": "us",
+          "topic": "Reporting"
         },
         {
           "title": "Senate Republicans block Iran war-powers measure despite election losses",
@@ -94,6 +113,21 @@
               "url": "https://www.reuters.com/world/us-senate-rejects-resolution-curbing-trumps-iran-war-powers-2026-11-19/"
             }
           ],
+          "desk": "us",
+          "topic": "Reporting"
+        },
+        {
+          "title": "Democrats propose 2028 debate rule targeting secret political money",
+          "body": [
+            "On 23 November, Democratic National Committee chair Ken Martin announced plans to require presidential hopefuls to disavow supporting super PACs and dark-money groups to qualify for party debates. The DNC is planning 12 debates across 2027 and 2028. The rule is a party-controlled participation condition, not a nationwide campaign-finance ban; its practical enforceability remains uncertain."
+          ],
+          "sources": [
+            {
+              "label": "Axios",
+              "url": "https://www.axios.com/2026/11/23/dnc-super-pacs-limits-2028-primary"
+            }
+          ],
+          "topic": "23 Nov",
           "desk": "us"
         }
       ]
@@ -103,16 +137,45 @@
       "name": "South Asia",
       "stories": [
         {
-          "title": "Nepal prime minister's India visit puts energy and rail links on agenda",
+          "title": "India announces $1.62 billion Nepal flood-recovery package",
           "body": [
-            "Nepal's prime minister Balendra Shah began a visit on 22 November. Talks with Narendra Modi on 23 November were expected to cover energy, connectivity, infrastructure and a proposed Ayodhya–Janakpur train. Scheduled ceremonies should not be mistaken for completed operations."
+            "Following talks on 23 November in New Delhi, Prime Minister Narendra Modi announced an assistance package worth 240 billion Nepali rupees, approximately $1.62 billion, for reconstruction after Nepal's devastating August floods. Prime Minister Balendra Shah's visit also saw the inauguration of cross-border infrastructure projects. An announced package is a commitment, not proof that every rupee has already been disbursed; reconstruction needs have been estimated at several billion dollars."
           ],
           "sources": [
             {
-              "label": "Hindustan Times",
-              "url": "https://www.hindustantimes.com/india-news/ht-morning-news-brief-november-23-nepal-pm-modi-cpcb-delhi-aqi-calculation-alice-huang-chinese-spy-india-new-zealand-ramayana-box-office-101795402135160-amp.html"
+              "label": "Associated Press",
+              "url": "https://apnews.com/article/6a1b8fa471745cf043480671d066f01e"
             }
           ],
+          "topic": "23 Nov",
+          "desk": "south-asia"
+        },
+        {
+          "title": "Bangladesh warns Hasina will be arrested if she returns",
+          "body": [
+            "In a Reuters interview published on 23 November, Bangladesh's state minister for foreign affairs said former prime minister Sheikh Hasina would be arrested if she returns from India in December. Dhaka is seeking extradition; India had not publicly answered the latest appeal. The announcement follows bombings, arson and protests involving rival political factions. Claims about responsibility for violence are disputed by the government and Hasina's Awami League."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/bangladesh-vows-arrest-hasina-if-she-returns-india-2026-11-23/"
+            }
+          ],
+          "topic": "23 Nov",
+          "desk": "south-asia"
+        },
+        {
+          "title": "Bangladesh's unrest also exposes garment workers' wage grievances",
+          "body": [
+            "Reuters reporting from 19 November described garment workers blocking roads to demand higher wages while protests over Sheikh Hasina's proposed return disrupted transport and commerce. The labour actions were separate from the political mobilisation and should not be conflated with it. Bangladesh's export-dependent clothing industry makes prolonged disruption consequential for both workers and manufacturers."
+          ],
+          "sources": [
+            {
+              "label": "Reuters via ThePrint",
+              "url": "https://theprint.in/world/violence-rises-in-bangladesh-as-hasina-supporters-escalate-protests-pm-rahman-blames-india/3103494/"
+            }
+          ],
+          "topic": "Catch-up: 19 Nov",
           "desk": "south-asia"
         }
       ]
@@ -132,7 +195,8 @@
               "url": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-23-november-2026-delhi-mumbai-weather-kochi-telangana-supreme-court-bengal-sir-modi-balendra-shah-ayodhya-janakpur-train-10974387/"
             }
           ],
-          "desk": "india"
+          "desk": "india",
+          "topic": "Reporting"
         },
         {
           "title": "Samajwadi Party and Congress plan seat-sharing talks",
@@ -145,6 +209,21 @@
               "url": "https://indianexpress.com/archive/2026/11/23/"
             }
           ],
+          "desk": "india",
+          "topic": "Reporting"
+        },
+        {
+          "title": "India–Nepal recovery agreement expands New Delhi's regional commitments",
+          "body": [
+            "India's $1.62 billion package announced on 23 November follows August floods that killed around 1,500 people in Nepal. New Delhi's response has regional significance because Nepal depends on Indian fuel supplies and increasingly exports hydropower to India. The funding is a bilateral commitment; delivery, project allocation and reconstruction outcomes require later scrutiny."
+          ],
+          "sources": [
+            {
+              "label": "Associated Press",
+              "url": "https://apnews.com/article/6a1b8fa471745cf043480671d066f01e"
+            }
+          ],
+          "topic": "23 Nov",
           "desk": "india"
         }
       ]
@@ -164,7 +243,8 @@
               "url": "https://indianexpress.com/article/cities/mumbai/maharashtra-mumbai-news-live-updates-november-23-pune-thane-navi-mumbai-news-aqi-weather-bisleri-bombay-hc-naresh-goyal-metro-10974542/"
             }
           ],
-          "desk": "mumbai"
+          "desk": "mumbai",
+          "topic": "Reporting"
         },
         {
           "title": "Mumbai records mixed air quality and below-normal morning temperatures",
@@ -177,7 +257,8 @@
               "url": "https://indianexpress.com/article/cities/mumbai/maharashtra-mumbai-news-live-updates-november-23-pune-thane-navi-mumbai-news-aqi-weather-bisleri-bombay-hc-naresh-goyal-metro-10974542/"
             }
           ],
-          "desk": "mumbai"
+          "desk": "mumbai",
+          "topic": "Reporting"
         }
       ]
     },
@@ -196,7 +277,8 @@
               "url": "https://apnews.com/article/d7cb84d93103fc09497292150ca33dc2"
             }
           ],
-          "desk": "entertainment-global"
+          "desk": "entertainment-global",
+          "topic": "Reporting"
         },
         {
           "title": "Jennifer Lopez concert special and Peter Gabriel record headline music releases",
@@ -209,7 +291,8 @@
               "url": "https://apnews.com/article/d7cb84d93103fc09497292150ca33dc2"
             }
           ],
-          "desk": "entertainment-global"
+          "desk": "entertainment-global",
+          "topic": "Reporting"
         }
       ]
     },
@@ -228,7 +311,8 @@
               "url": "https://indianexpress.com/article/entertainment/bollywood/if-you-force-me-to-not-wear-a-burqa-ill-wear-3-of-them-shabana-azmi-10974325/"
             }
           ],
-          "desk": "entertainment-india"
+          "desk": "entertainment-india",
+          "topic": "Reporting"
         }
       ]
     },
@@ -247,7 +331,8 @@
               "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/new-zealands-blockathon-frustrates-india-as-wellington-test-ends-in-a-draw/articleshow/136089728.cms"
             }
           ],
-          "desk": "sports"
+          "desk": "sports",
+          "topic": "Reporting"
         },
         {
           "title": "Pakistan A beat India A despite Tilak Varma century",
@@ -260,7 +345,8 @@
               "url": "https://indianexpress.com/article/sports/cricket/tilak-varma-100-pakistan-a-defeat-india-a-rising-stars-asia-cup-10974124/"
             }
           ],
-          "desk": "sports"
+          "desk": "sports",
+          "topic": "Reporting"
         }
       ]
     },
@@ -279,7 +365,8 @@
               "url": "https://www.reuters.com/video/watch/idRW048623112026RP1/"
             }
           ],
-          "desk": "business-global"
+          "desk": "business-global",
+          "topic": "Reporting"
         },
         {
           "title": "Oil falls as traders weigh Iran-war supply risk",
@@ -292,7 +379,8 @@
               "url": "https://www.reuters.com/business/energy/oil-prices-fall-amid-equity-selloff-though-iran-war-attacks-limit-losses-2026-11-23/"
             }
           ],
-          "desk": "business-global"
+          "desk": "business-global",
+          "topic": "Reporting"
         },
         {
           "title": "Gold rebounds as the dollar's rally pauses",
@@ -305,6 +393,35 @@
               "url": "https://www.reuters.com/world/india/gold-rises-14-month-low-markets-await-key-us-inflation-data-2026-11-23/"
             }
           ],
+          "desk": "business-global",
+          "topic": "Reporting"
+        },
+        {
+          "title": "Europe's inflation dilemma sharpens as ECB officials discuss another hike",
+          "body": [
+            "On 23 November, ECB governing council member Gediminas Šimkus said a December rate increase might not fully contain inflation but another move need not follow immediately. Reuters reported that high energy costs had pushed inflation above the bank's 2% target. One policymaker's view is not an announced Governing Council decision."
+          ],
+          "sources": [
+            {
+              "label": "Reuters wire roundup",
+              "url": "https://www.streetinsider.com/Reuters/US%2Bsenator%2Burges%2BWall%2BStreet%2Bto%2Breject%2B%27troubling%27%2Bpaid%2Bearly%2Baccess%2Bto%2BTrump%2Bposts/x"
+            }
+          ],
+          "topic": "23 Nov",
+          "desk": "business-global"
+        },
+        {
+          "title": "German private-sector PMI reaches its strongest level since early 2022",
+          "body": [
+            "Reuters reported on 23 November that Germany's preliminary composite PMI rose to 55.0 from 53.4 in October, driven by manufacturing and services. The diffusion index points to faster expansion among survey respondents; it is not a measured percentage GDP growth rate."
+          ],
+          "sources": [
+            {
+              "label": "Reuters wire roundup",
+              "url": "https://www.streetinsider.com/Reuters/US%2Bsenator%2Burges%2BWall%2BStreet%2Bto%2Breject%2B%27troubling%27%2Bpaid%2Bearly%2Baccess%2Bto%2BTrump%2Bposts/x"
+            }
+          ],
+          "topic": "23 Nov",
           "desk": "business-global"
         }
       ]
@@ -324,7 +441,8 @@
               "url": "https://www.reuters.com/world/india/indian-shares-set-open-higher-foreign-inflows-ai-selloff-persists-2026-11-23/"
             }
           ],
-          "desk": "business-india"
+          "desk": "business-india",
+          "topic": "Reporting"
         },
         {
           "title": "November business survey finds factories offset weaker services growth",
@@ -337,7 +455,8 @@
               "url": "https://www.reuters.com/world/india/india-factory-demand-offsets-weaker-services-growth-november-pmi-shows-2026-11-23/"
             }
           ],
-          "desk": "business-india"
+          "desk": "business-india",
+          "topic": "Reporting"
         },
         {
           "title": "HDFC Bank treasury chief outlines a possible rupee recovery",
@@ -350,7 +469,8 @@
               "url": "https://www.reuters.com/world/india/indian-rupee-could-rise-9150-equity-inflows-hdfc-banks-treasury-head-says-2026-11-23/"
             }
           ],
-          "desk": "business-india"
+          "desk": "business-india",
+          "topic": "Reporting"
         }
       ]
     },
@@ -369,7 +489,8 @@
               "url": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/"
             }
           ],
-          "desk": "science"
+          "desk": "science",
+          "topic": "Reporting"
         },
         {
           "title": "New Arctic laser-ranging station strengthens satellite-orbit measurements",
@@ -382,7 +503,8 @@
               "url": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/"
             }
           ],
-          "desk": "science"
+          "desk": "science",
+          "topic": "Reporting"
         }
       ]
     },
@@ -390,6 +512,20 @@
       "id": "technology",
       "name": "Technology & AI",
       "stories": [
+        {
+          "title": "US restrictions on advanced AI chips reshape Chinese technology strategy",
+          "body": [
+            "Reuters reported on 20 November that tighter US restrictions on Chinese access to advanced AI computing, including remote data-centre capacity, were affecting Chinese technology shares and cloud expansion plans. Tencent said inference workloads could rely more on domestic chips, while Alibaba warned the curbs could constrain future services. These are company assessments and policy effects, not proof that domestic manufacturing can immediately replace leading-edge foreign supply."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/business/retail-consumer/us-ai-chip-curbs-hit-china-tech-stocks-spur-self-sufficiency-push-2026-11-20/"
+            }
+          ],
+          "topic": "Catch-up: 20 Nov",
+          "desk": "technology"
+        },
         {
           "title": "Cloud-sovereignty debate exposes Europe's dependence on US providers",
           "body": [
@@ -401,7 +537,8 @@
               "url": "https://www.streetinsider.com/Reuters/Trump%2Bresumes%2BIran%2Bport%2Bblockade%2Band%2Bthreatens%2Bstrikes%2Bon%2Benergy%2Btargets/x"
             }
           ],
-          "desk": "technology"
+          "desk": "technology",
+          "topic": "Reporting"
         }
       ]
     },
@@ -420,7 +557,8 @@
               "url": "https://www.reuters.com/sustainability/cop/cop31-climate-talks-close-final-deal-says-summit-president-2026-11-21/"
             }
           ],
-          "desk": "climate"
+          "desk": "climate",
+          "topic": "Reporting"
         },
         {
           "title": "Saudi influence and carbon-capture language come under scrutiny",
@@ -433,6 +571,21 @@
               "url": "https://www.reuters.com/sustainability/cop/saudi-arabias-influence-loomed-large-over-failed-cop31-deal-2026-11-23/"
             }
           ],
+          "desk": "climate",
+          "topic": "Reporting"
+        },
+        {
+          "title": "Pacific states and European negotiators explain COP31's breakdown",
+          "body": [
+            "Delegates at COP31 in Antalya failed to agree on an overarching decision on 22 November. The Marshall Islands and European Union objected to language they considered too weak on fossil fuels, while Palau argued that even an imperfect draft could have advanced ocean, finance and electrification work. Their differing assessments demonstrate why the collapse of a political cover decision should not be equated with a total absence of technical progress."
+          ],
+          "sources": [
+            {
+              "label": "Associated Press",
+              "url": "https://apnews.com/article/baed7f1491d16a00ee9b60a35596e1f6"
+            }
+          ],
+          "topic": "Catch-up: 22 Nov",
           "desk": "climate"
         }
       ]
