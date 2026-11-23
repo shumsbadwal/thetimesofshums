@@ -66,3 +66,11 @@
 .figure-strip__item strong{font:600 clamp(21px,3vw,30px)/1.15 Georgia,serif;color:#344f3d;font-variant-numeric:tabular-nums}
 .figure-strip__item span{font:500 11px/1.4 system-ui,-apple-system,sans-serif;color:#63736a}
 @media(max-width:480px){.figure-strip{padding:14px;gap:16px}}
+
+/* Keep story navigation in the mobile viewport without zooming out. */
+@media(max-width:700px){
+ .reader-mobile-controls{position:sticky;bottom:0;z-index:20;background:rgba(251,250,246,.98);border-top:1px solid var(--rule);padding:10px 2px max(10px,env(safe-area-inset-bottom));margin-top:8px;box-shadow:0 -5px 18px rgba(21,43,30,.06)}
+ .mobile-story-button{flex:0 0 auto;min-width:90px;min-height:48px}
+ .mobile-story-status{flex:1;text-align:center}
+}
+@media(max-width:360px){.mobile-story-button{min-width:78px;padding:9px 8px;font-size:12px}}
