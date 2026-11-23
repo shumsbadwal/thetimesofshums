@@ -5,6 +5,14 @@
   if (!reader) return;
   const stories = Array.from(reader.querySelectorAll('article.story'));
   if (!stories.length) return;
+  // Guard future editions against missing mobile controls in generated desk HTML.
+  if (!document.querySelector('.reader-mobile-controls')) {
+    const nav = document.createElement('nav');
+    nav.className = 'reader-mobile-controls';
+    nav.setAttribute('aria-label', 'Story controls');
+    nav.innerHTML = '<button type="button" class="mobile-story-button" data-prev aria-label="Previous story">← Previous</button><span class="mobile-story-status" aria-live="polite" data-mobile-count></span><button type="button" class="mobile-story-button" data-next aria-label="Next story">Next →</button>';
+    reader.insertAdjacentElement('afterend', nav);
+  }
   const controls = document.querySelectorAll('[data-prev], [data-next]');
   const status = document.querySelector('[data-mobile-count]');
   const card = reader.querySelector('[data-reader-card]');
