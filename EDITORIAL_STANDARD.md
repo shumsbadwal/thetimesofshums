@@ -3,7 +3,7 @@
 Established from a review of the inaugural 18 November 2026 edition (140 stories across 15 desks (historical structure)), and the shortcomings of the 20 November 2026 edition (28 stories).
 
 ## Core editorial promise
-Publish a substantial, source-led daily newspaper. Story counts respond to newsworthiness, but a reduced issue must not be presented as comprehensive without a documented coverage sweep. Publication is downstream of reporting and verification, not a substitute for them.
+Publish a substantial, source-led daily newspaper. Story counts respond to newsworthiness, but a reduced issue must not be presented as comprehensive without a documented coverage sweep. Coverage breadth is a target, not an edition-wide publication veto. Each published story must pass factual verification.
 
 ## Desk order and required reporting sweep (14 desks from the revised 20 November edition onward)
 1. World — security, diplomacy, institutions, humanitarian affairs, investigations and cross-border developments.
@@ -35,13 +35,13 @@ Actively check C3S monthly bulletins and Climate Pulse, Copernicus Marine indica
 Distinguish planned, contracted, modelled, experimentally measured, delivered and independently verified removal. Discuss system boundaries, counterfactuals, permanence, leakage, additionality, alkalinity fate, air-sea equilibration, ecological impacts, uncertainty, MRV and permitting. Do not equate alkalinity dosing or a credit sale with verified atmospheric CO2 removal.
 
 ## Prepublication quality gate
-1. Read prior edition and map new developments; perform a theme-by-theme sweep for all 15 desks.
+1. Read prior edition and map new developments; perform a theme-by-theme sweep for all 14 desks.
 2. Check sources, event dates, records, original links, data and counterclaims; do not invent citations.
 3. Review desk breadth, political coverage, business coverage, Earth-system observations and marine CDR depth; explicitly flag missing reporting.
 4. Validate structured JSON, story counts, HTML escaping, source URLs, one-story-at-a-time navigation, first/last disabled states, responsive layout, keyboard controls and prev/next desk links.
 5. Preserve the original 18 November navigation markup: desktop `reader-arrow` controls and mobile `reader-mobile-controls` / `mobile-story-button` / `mobile-story-status`. Use `body class="desk-page"` and shared `../styles.css` and `../reader.js`; do not introduce an unstyled `reader-controls` substitute.
 6. Publish only to root `YYYY-MM-DD/` on main, update root index and archive, never overwrite old editions without an explicit correction record, and read back committed files. Distinguish GitHub commit from live Pages deployment.
-7. If verification or reporting is incomplete, report the edition as incomplete and explain what remains.
+7. If reporting breadth is incomplete, publish the verified subset and report omissions in the private publication summary. Never publish an unverified story. Technical integrity failures must be corrected before switching the homepage.
 
 ## Editorial judgment
 The 18 November counts are a breadth reference, not a daily target. A quiet desk may have no material story after a real reporting sweep; a consequential desk may need many. Depth and evidence outrank numerical quotas.
@@ -55,3 +55,10 @@ The separate CDR & Marine CDR desk is retired for new and revised editions. The 
 - Do not repeat a previously published story without a material new development, newly verified evidence, or a substantial correction; explicitly explain what changed.
 - Date the event, reporting and current status distinctly. Older news may appear as a clearly labelled catch-up story, never disguised as breaking news.
 - Complete a cross-desk missed-story sweep before publication; quality and verifiable evidence matter more than arbitrary same-day freshness or story quotas.
+
+## Daily publication reliability — 25 November 2026
+- Publish the verified subset on the actual local date even if some desks are thin or empty. Do not wait for exhaustive coverage or renewed permission; no minimum story count. Keep every desk in the standard order and show accurate counts.
+- Search across the rolling 48–72-hour window in manageable batches, prioritising consequential omissions. If a source or desk is unavailable, move on to the next. Never fabricate facts or citations.
+- Use available original reporting and primary evidence; record coverage gaps in the chat completion summary, not on the homepage. Add further verified reporting to the current dated issue when appropriate, documenting revisions in commits.
+- Preserve technical gates: valid JSON and HTML, source links, matching counts, archive and navigation. A failure to verify an individual story excludes that story, not the entire newspaper.
+- If no reliable evidence is accessible at all, or repository writes fail, report the actual blocker. Distinguish commit from live deployment.
