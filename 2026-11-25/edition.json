@@ -1,0 +1,239 @@
+{
+  "date": "2026-11-25",
+  "name": "The Times of Shums",
+  "desks": [
+    {
+      "id": "world",
+      "name": "World",
+      "stories": [
+        {
+          "title": "Yemen's displaced residents face renewed insecurity as Houthis advance on Aden",
+          "body": [
+            "The Guardian reported on 25 November that residents and aid organisations were preparing to leave as Houthi forces approached Aden. The prospect of further displacement adds to an already severe humanitarian crisis."
+          ],
+          "sources": [
+            {
+              "label": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden"
+            }
+          ],
+          "desk": "world"
+        },
+        {
+          "title": "Germany presses case for defence spending and Ukraine support",
+          "body": [
+            "Addressing parliament on 25 November, Chancellor Friedrich Merz argued that Russian actions threaten European security beyond Ukraine. His assessment accompanies debate on Germany's 2027 budget and continued aid to Kyiv; it is a political assessment rather than proof of future Russian intentions."
+          ],
+          "sources": [
+            {
+              "label": "The Guardian",
+              "url": "https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates"
+            }
+          ],
+          "desk": "world"
+        }
+      ]
+    },
+    {
+      "id": "uk",
+      "name": "United Kingdom",
+      "stories": [
+        {
+          "title": "Nuclear test veterans secure inquiry after decades of campaigning",
+          "body": [
+            "AP reported on 25 November that British Cold War nuclear test veterans had secured an inquiry into alleged harm to their health. The inquiry provides a mechanism for examining evidence rather than a final determination of responsibility."
+          ],
+          "sources": [
+            {
+              "label": "AP via Arab News",
+              "url": "https://www.arabnews.com/world?page=3180"
+            }
+          ],
+          "desk": "uk"
+        },
+        {
+          "title": "Household energy bills set to rise sharply in January",
+          "body": [
+            "The Guardian reported a 26% increase in the typical annual energy bill to £2,166 from January. The figure is a benchmark rather than a universal bill, which depends on usage."
+          ],
+          "sources": [
+            {
+              "label": "The Guardian",
+              "url": "https://www.theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates"
+            }
+          ],
+          "desk": "uk"
+        }
+      ]
+    },
+    {
+      "id": "us",
+      "name": "United States",
+      "stories": [
+        {
+          "title": "White House proposes new tariffs despite midterm setback",
+          "body": [
+            "The administration announced proposed tariffs on 14 trading partners on 25 November. The proposals face consultation and are not yet implemented. The EU has rejected Washington's account of industrial overcapacity."
+          ],
+          "sources": [
+            {
+              "label": "The Guardian",
+              "url": "https://www.theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates"
+            }
+          ],
+          "desk": "us"
+        },
+        {
+          "title": "Incoming Democrats boycott Harvard orientation in solidarity with workers",
+          "body": [
+            "The Guardian reported that 53 incoming House Democrats were boycotting Harvard's orientation in support of striking graduate workers. Their election does not mean they have already assumed office."
+          ],
+          "sources": [
+            {
+              "label": "The Guardian",
+              "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates"
+            }
+          ],
+          "desk": "us"
+        }
+      ]
+    },
+    {
+      "id": "south-asia",
+      "name": "South Asia",
+      "stories": [
+        {
+          "title": "Pakistan's space partnership with China reaches crewed-flight milestone",
+          "body": [
+            "Reuters reported on 25 November that China's Shenzhou-24 launched with a Pakistani national, the first foreign astronaut in China's crewed programme. This is a milestone in bilateral space cooperation."
+          ],
+          "sources": [
+            {
+              "label": "Reuters via Arab News",
+              "url": "https://www.arabnews.com/world?page=3180"
+            }
+          ],
+          "desk": "south-asia"
+        }
+      ]
+    },
+    {
+      "id": "india",
+      "name": "India",
+      "stories": [
+        {
+          "title": "Meta executives meet Congress amid content moderation dispute",
+          "body": [
+            "Reuters reported on 25 November, citing four people familiar with the matter, that Meta executives held talks with India's opposition Congress party over mounting objections to content restrictions. The talks do not establish that allegations of improper moderation have been proven."
+          ],
+          "sources": [
+            {
+              "label": "Reuters via StreetInsider",
+              "url": "https://www.streetinsider.com/Reuters/South%2BKorean%2Btrade%2Bminister%2Bsees%2Bfirms%2Binvesting%2Bmore%2Bin%2BUS%2Bif%2BWashington%2Bimposes%2Btariffs/images/news2/239/23931566/LYNXMPEKA50F7.jpg"
+            }
+          ],
+          "desk": "india"
+        }
+      ]
+    },
+    {
+      "id": "mumbai",
+      "name": "Mumbai & Maharashtra",
+      "stories": []
+    },
+    {
+      "id": "entertainment-global",
+      "name": "Entertainment and Pop Culture - Global",
+      "stories": []
+    },
+    {
+      "id": "entertainment-india",
+      "name": "Entertainment and Pop Culture - India",
+      "stories": []
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "stories": []
+    },
+    {
+      "id": "business-global",
+      "name": "Business and Finance - Global",
+      "stories": [
+        {
+          "title": "US third-quarter growth revised to 4.3% annualised",
+          "body": [
+            "The revised US growth figure, reported on 25 November, coincides with stronger price pressures. The annualised quarterly rate is not year-on-year growth; the data complicate monetary policy decisions."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/business/us-inflation-rises-further-october-2026-11-25/"
+            }
+          ],
+          "desk": "business-global"
+        },
+        {
+          "title": "Trade uncertainty compounds technology market volatility",
+          "body": [
+            "Reuters reported on 25 November that tariff proposals compounded a technology-sector selloff, with the VIX up more than 60% during November. Volatility reflects market expectations rather than a forecast of realised losses."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/business/global-markets-risks-analysis-graphic-pix-2026-11-25/"
+            }
+          ],
+          "desk": "business-global"
+        }
+      ]
+    },
+    {
+      "id": "business-india",
+      "name": "Business and Finance - India",
+      "stories": [
+        {
+          "title": "Rupee reaches eight-month high as foreign equity investment strengthens",
+          "body": [
+            "Reuters reported that the rupee closed at 92.23 per dollar on 25 November after touching 92.1850. Foreign portfolio inflows into Indian stocks reached $14.28 billion in November, according to the report. Currency performance remains sensitive to oil and capital flows."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/india/rupee-scales-8-month-high-after-holiday-foreign-flows-indian-equities-persist-2026-11-25/"
+            }
+          ],
+          "desk": "business-india"
+        },
+        {
+          "title": "India–UK investment treaty talks stall over arbitration and taxation",
+          "body": [
+            "Reuters reported that officials see little prospect of a near-term investment agreement, with disputes over taxation and investor access to international arbitration unresolved. The existing trade agreement is distinct from the proposed investment treaty."
+          ],
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/india/india-uk-investment-treaty-talks-stall-pact-unlikely-soon-officials-say-2026-11-25/"
+            }
+          ],
+          "desk": "business-india"
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "name": "Science & Research",
+      "stories": []
+    },
+    {
+      "id": "technology",
+      "name": "Technology & AI",
+      "stories": []
+    },
+    {
+      "id": "climate",
+      "name": "Climate & Environment",
+      "stories": []
+    }
+  ]
+}
